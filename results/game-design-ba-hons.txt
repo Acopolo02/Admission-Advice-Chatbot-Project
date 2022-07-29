@@ -1,0 +1,199 @@
+courseName: GAME-DESIGN-BA-HONS
+COURSE OVERVIEW
+
+Growth in the UK games industry has been the fastest it has ever been, generating almost £1 billion in revenue in 2020. Our hands-on course aims to prepare you for a career in this exciting industry and beyond with a focus on employability, allowing you to develop a professional-standard portfolio to showcase your abilities and boost your career prospects.
+
+
+ 
+
+
+Our relationship with Game Republic – a network of game developers throughout Yorkshire and the North, means you could take part in their annual Student Showcase – presenting final-year projects to industry employers and competing against teams from other universities in the region.
+
+
+You'll have access to our media labs, home to the latest digital media software and hardware used in the industry today.
+
+
+ 
+
+
+Alongside gaining skills required by the games industry, you will develop transferrable skills such as communication, problem solving and collaborating within multi-disciplinary teams – all essential attributes for graduates seeking employment within the creative sector.
+
+
+ 
+
+
+Explore the world of games development and enhance your skills across a number of areas including Game Design, Game Art, Game Audio and Narrative Design.
+
+
+courseLength 
+Course length
+3 years
+
+courseCode 
+UCAS code
+W291
+
+courseTitle 
+BA 
+
+                
+Game Design                
+courseMode Full-time
+description 
+Learn from experts who've worked on BAFTA-winning games and led projects across Europe. 
+
+
+courseModules 
+First Year
+moduleName Game Design & Prototyping
+moduleName Game Design & Prototyping
+moduleName You probably have a number of ideas for games you’d like to make. It’s time you started making them. You will develop your own game concepts by applying game design theories and principles and bring your ideas to life by learning to prototype them within a game engine. This module will build on your scripting skills from the ground up through small simple game prototypes, providing you with the skills to create your first finished game project.
+moduleName You probably have a number of ideas for games you’d like to make. It’s time you started making them. You will develop your own game concepts by applying game design theories and principles and bring your ideas to life by learning to prototype them within a game engine. This module will build on your scripting skills from the ground up through small simple game prototypes, providing you with the skills to create your first finished game project.
+moduleName 
+
+moduleName Art & Animation Fundamentals
+moduleName Art & Animation Fundamentals
+moduleName Any game you work on is going to need artwork. This module will teach you the fundamentals of visual design in order to make suitable and compelling artwork for your games. You’ll explore traditional and digital art techniques and apply artistic concepts such as composition, line and shape, colour theory, texture, typography etc. This module will allow you to develop an ongoing digital sketchbook as you experiment with line drawing, perspective drawing, thumbnail sketching, silhouettes, character concepts, environment concepts, graphic design as well as digital tools such as Photoshop, Illustrator and 3D art packages.
+moduleName Any game you work on is going to need artwork. This module will teach you the fundamentals of visual design in order to make suitable and compelling artwork for your games. You’ll explore traditional and digital art techniques and apply artistic concepts such as composition, line and shape, colour theory, texture, typography etc. This module will allow you to develop an ongoing digital sketchbook as you experiment with line drawing, perspective drawing, thumbnail sketching, silhouettes, character concepts, environment concepts, graphic design as well as digital tools such as Photoshop, Illustrator and 3D art packages.
+moduleName 
+
+moduleName Introduction to Game Audio
+moduleName Introduction to Game Audio
+moduleName The creation and implementation of effective audio is central to game design –supporting dramatic story-telling, immersion, interactivity, game mechanics, as well as emotional and physiological engagement. In this module you will explore some of the creative and technical challenges faced when designing and implementing game audio. The knowledge and skills you acquire in this module will help you to use audio more effectively in your own game projects and will inform future collaborative work with audio practitioners and interdisciplinary creative teams.
+moduleName The creation and implementation of effective audio is central to game design –supporting dramatic story-telling, immersion, interactivity, game mechanics, as well as emotional and physiological engagement. In this module you will explore some of the creative and technical challenges faced when designing and implementing game audio. The knowledge and skills you acquire in this module will help you to use audio more effectively in your own game projects and will inform future collaborative work with audio practitioners and interdisciplinary creative teams.
+moduleName 
+
+moduleName 3D Asset Design
+moduleName 3D Asset Design
+moduleName This module is an introduction to the principles and practice of 3D Design. You will develop your creative thinking and problem solving skills; learn the basics of modelling, textures, 3D painting and rendering; and design your own 3D assets and portfolio.
+moduleName This module is an introduction to the principles and practice of 3D Design. You will develop your creative thinking and problem solving skills; learn the basics of modelling, textures, 3D painting and rendering; and design your own 3D assets and portfolio.
+moduleName 
+
+moduleName Environment Design
+moduleName Environment Design
+moduleName This module will introduce the ideas, techniques and working practices to realise complete game ready video game environments. By creating your own game environment, you will explore game engines from an art perspective, how to create game ready assets, learn about lighting principles, texturing, 3D, and develop an understanding f environment art pipelines as well as enhancing your creative thinking skills and problem solving abilities. At the end of the project you will have a piece of work that you can display in your portfolio which will help you on your journey into the gaming industry
+moduleName This module will introduce the ideas, techniques and working practices to realise complete game ready video game environments. By creating your own game environment, you will explore game engines from an art perspective, how to create game ready assets, learn about lighting principles, texturing, 3D, and develop an understanding f environment art pipelines as well as enhancing your creative thinking skills and problem solving abilities. At the end of the project you will have a piece of work that you can display in your portfolio which will help you on your journey into the gaming industry
+moduleName 
+
+moduleName Critical Game Studies
+moduleName Critical Game Studies
+moduleName In order to create innovative and original game experiences, it’s important to understand where games came from and the current landscape of the games industry. In this module you will explore the historical, social and political contexts of games, play and design. We’ll look at how to analyse games, how games get made, the people that make them and games from a consumer perspective. The module will perform analysis on video games and its industry including topics such as gender, representation, misogyny in video games, Law, ethics, regulation and censorship. will consider sustainable game development practices and generate original concepts for game designs that could “change the world”.
+moduleName In order to create innovative and original game experiences, it’s important to understand where games came from and the current landscape of the games industry. In this module you will explore the historical, social and political contexts of games, play and design. We’ll look at how to analyse games, how games get made, the people that make them and games from a consumer perspective. The module will perform analysis on video games and its industry including topics such as gender, representation, misogyny in video games, Law, ethics, regulation and censorship. will consider sustainable game development practices and generate original concepts for game designs that could “change the world”.
+moduleName 
+
+Second Year
+moduleName Post-Production & VFX
+moduleName Post-Production & VFX
+moduleName This module is designed to introduce the ideas, techniques and working practices to create particle and visual FX for video games. You will explore how to create VFX for environments, animations and gameplay scenarios as well as developing creative thinking skills important for artists who want to break into the gaming industry.
+moduleName This module is designed to introduce the ideas, techniques and working practices to create particle and visual FX for video games. You will explore how to create VFX for environments, animations and gameplay scenarios as well as developing creative thinking skills important for artists who want to break into the gaming industry.
+moduleName 
+
+moduleName Collaborative Game Project
+moduleName Collaborative Game Project
+moduleName Choose your own specialism and work with other students from various disciplines as you work together to develop a complete game project. The module presents the opportunity to learn from one another, to develop new skills and apply fresh approaches. Practice important skills such as team work, project management and communication as you work collaboratively to produce a high quality game project that can be used as a portfolio piece upon graduation.
+moduleName Choose your own specialism and work with other students from various disciplines as you work together to develop a complete game project. The module presents the opportunity to learn from one another, to develop new skills and apply fresh approaches. Practice important skills such as team work, project management and communication as you work collaboratively to produce a high quality game project that can be used as a portfolio piece upon graduation.
+moduleName 
+
+moduleName Level Design
+moduleName Level Design
+moduleName Excessive guidance markers, compasses and mini maps can often feel contrived in video games. A well designed level should be able to guide the player using the landscape and the game environment. Find out how you can do this in your own games as we explore principles and theories of level design and put them into practice by making a 3D version of an imagined game world. In this module you will look at generating suitable level designs and prototyping them in a level blockout. We will explore building 3D environments using geometry and terrain and adding interaction through scripting game logic to enhance the players journey.
+moduleName Excessive guidance markers, compasses and mini maps can often feel contrived in video games. A well designed level should be able to guide the player using the landscape and the game environment. Find out how you can do this in your own games as we explore principles and theories of level design and put them into practice by making a 3D version of an imagined game world. In this module you will look at generating suitable level designs and prototyping them in a level blockout. We will explore building 3D environments using geometry and terrain and adding interaction through scripting game logic to enhance the players journey.
+moduleName 
+
+moduleName 3D Character Design
+moduleName 3D Character Design
+moduleName In this module you will create a series of animated action sequences for a 3D character and learn how to apply the 12 principles of animation. You will learn a range of production steps required to design believable realistic animated movement with your character.
+moduleName In this module you will create a series of animated action sequences for a 3D character and learn how to apply the 12 principles of animation. You will learn a range of production steps required to design believable realistic animated movement with your character.
+moduleName 
+
+moduleName Practical Skills for UI/UX
+moduleName Practical Skills for UI/UX
+moduleName Learn how to create appropriate and professional User Interfaces for games and develop considerations for the user experience.
+moduleName Learn how to create appropriate and professional User Interfaces for games and develop considerations for the user experience.
+moduleName 
+
+moduleName Scriptwriting for Game Stories
+moduleName Scriptwriting for Game Stories
+moduleName Love the idea of narrative design for games, but not sure where to start? Learn about characterisation, dialogue, structure and adaptation. Develop your skills in giving and receiving feedback on creative work. Learn how to work effectively in a group. Sharing work, encouraging other writers and being encouraged by others to be the best scriptwriter you can be.
+moduleName Love the idea of narrative design for games, but not sure where to start? Learn about characterisation, dialogue, structure and adaptation. Develop your skills in giving and receiving feedback on creative work. Learn how to work effectively in a group. Sharing work, encouraging other writers and being encouraged by others to be the best scriptwriter you can be.
+moduleName 
+
+moduleName Rapid Prototype Design
+moduleName Rapid Prototype Design
+moduleName Make a game a week. That’s the essential premise of this module. You will be provided with different themes on a weekly basis and challenged to produce a working game prototype as efficiently as possible, aiming for strict deadlines. By the end of the module you will have accrued a portfolio of functional game prototypes for inclusion in a game design portfolio as well as a library of script, sounds, images and other assets that can be reused in future game design prototypes.
+moduleName Make a game a week. That’s the essential premise of this module. You will be provided with different themes on a weekly basis and challenged to produce a working game prototype as efficiently as possible, aiming for strict deadlines. By the end of the module you will have accrued a portfolio of functional game prototypes for inclusion in a game design portfolio as well as a library of script, sounds, images and other assets that can be reused in future game design prototypes.
+moduleName 
+
+moduleName 3D Character Animation
+moduleName 3D Character Animation
+moduleName In this module you will apply the principle of animation and translate your original 3D character design into a series of animated action sequences. You will learn a range of production steps required to design believable realistic animated movement with your character.
+moduleName In this module you will apply the principle of animation and translate your original 3D character design into a series of animated action sequences. You will learn a range of production steps required to design believable realistic animated movement with your character.
+moduleName 
+
+moduleName Music and Sound for Media
+moduleName Music and Sound for Media
+moduleName This practical project-based module supports the development of specialised creative and technical skills involved in the production of sound and music for visual media. You can undertake a variety of projects, including films, games, music videos, interactive installations, and performances with visual projection. As projects are developed, general principles relating to the interaction of sight and sound will be explored, such as functionality, audio-visual correspondence and implementation.
+moduleName This practical project-based module supports the development of specialised creative and technical skills involved in the production of sound and music for visual media. You can undertake a variety of projects, including films, games, music videos, interactive installations, and performances with visual projection. As projects are developed, general principles relating to the interaction of sight and sound will be explored, such as functionality, audio-visual correspondence and implementation.
+moduleName 
+
+Third Year
+Fourth Year
+moduleName Major Project
+moduleName Major Project
+moduleName You will have the opportunity to focus on a specific interest in order to produce a substantial practical design projector prototype. You should aspire to the highest academic and professional standards as this module can act as a gateway toward employment or further study leading to an advanced degree.
+moduleName You will have the opportunity to focus on a specific interest in order to produce a substantial practical design projector prototype. You should aspire to the highest academic and professional standards as this module can act as a gateway toward employment or further study leading to an advanced degree.
+moduleName 
+
+moduleName Emerging Technologies
+moduleName Emerging Technologies
+moduleName In this module you will explore a range of developing design technologies such as artificial intelligence and Immersive design. You will develop your own original designs based on a variety of design approaches and tools. You will also gain an understanding of how to consider the user experience within these technologies in new ways of designing.
+moduleName In this module you will explore a range of developing design technologies such as artificial intelligence and Immersive design. You will develop your own original designs based on a variety of design approaches and tools. You will also gain an understanding of how to consider the user experience within these technologies in new ways of designing.
+moduleName 
+
+moduleName Professional Portfolio Design
+moduleName Professional Portfolio Design
+moduleName In this module, you will have the opportunity to refine and develop the portfolio begun at the commencement of your degree into a resource optimised for your preferred role or roles in the creative industries.
+moduleName In this module, you will have the opportunity to refine and develop the portfolio begun at the commencement of your degree into a resource optimised for your preferred role or roles in the creative industries.
+moduleName 
+
+FEE AND FUNDING 
+Home STUDENT: £9,250 per year*
+International STUDENT: £15,400 per year
+Additional Information about FEE
+*The amount you pay may increase each year, in line with inflation - but capped to the Retail Price Index (RPI).
+The fees shown are for 2022 entry. The fees for 2023 have not yet been confirmed and may increase.
+UK students can take out a tuition fee loan to cover the cost of their course and a maintenance loan of up to £9,706 to cover living costs.
+Substantial discounts are available for International students.  
+More information on fees can be found in the Money section of our website. 
+Your tuition fees will cover most costs associated with your programme (including registration, tuition, supervision, assessment and examination).There are some extra costs that you might have to pay, or choose to pay, depending on your programme of study and the decisions you make. The list below has some examples, and any extra costs will vary.
+
+Books (you’ll have access to books from your module reading lists in the library, but you may want to buy your own copies)
+Optional field trips
+Study abroad (including travel costs, accommodation, visas, immunisation)
+Placement costs (including travel costs and accommodation)
+Student visas (international students)
+Laptop (you’ll have access to laptops and PC’s on campus, but you may want to buy your own)
+Printing and photocopying
+Professional-body membership
+Graduation (gown hire and photography)
+
+Remember, you’ll still need to take into account your living costs. This could include accommodation, travel and food – to name just a few. 
+ENTRY REQUIREMENT: 
+INTERNATIONAL STUDENT: 
+If you require a student visa to study or if your first language is not English you will be required to provide acceptable evidence of your English language proficiency level.
+This course requires academic IELTS 6.0 overall, with no less than 5.5 in each skill. See other English language proficiency qualifications accepted by this University.
+If your English currently does not reach the University's required standard for this programme, you may be interested in one of our English language courses.
+Visit your country page to find out more about our entry requirements.
+LOCAL STUDENT: 
+
+A level grades N/A
+
+
+
+
+
+BTEC grades
+N/A
+
+
+

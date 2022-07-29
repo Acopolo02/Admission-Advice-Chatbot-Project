@@ -1,0 +1,208 @@
+courseName: COMPUTER-SCIENCE-ARTIFICIAL-INTELLIGENCE-BSC-MENG
+COURSE OVERVIEW
+
+Sorry, this course is unavailable for study in 2022. You may be interested in BSc Computer Science, BSc Computer Science (Software Engineering) or  BSc Robotics and Artificial Intelligence, which are available for entry this year.
+
+
+Artificial intelligence is rapidly transforming the way we live and work.
+
+
+From self-driving cars to medical diagnosis, AI and machine learning systems are helping people make better decisions, improve safety and even reduce our carbon footprint. Techniques like deep learning and the integration of big data are increasingly giving computers the ability to operate and make sensible decisions in our messy, unstructured world.
+
+
+Our AI-focussed programme will give you a solid grounding in computer science and equip you with the knowledge and skills you’ll need to be part of the AI future.
+
+
+Learn advanced Python programming skills and develop your own software using industry standard techniques and tools. Learn about essential areas such as databases and networks, operating systems and the cloud. Gain specialist knowledge and experience in the development of intelligent systems, including machine learning, algorithms and complexity and visual computing.
+
+
+And we don’t just focus on the technology - you’ll also study the increasing impact of AI on everyone in society.
+
+
+Our degree is designed with your future career in mind. In your first year, you’ll take a module on professional development, while in your final year there is the chance to develop your own project, which you can show to employers when you apply for jobs.
+
+
+There is also the option to spend a year in industry. We are now offering a guaranteed paid placement on all our Computer Science courses. Taken between the second and third years, this forms a recognised part of your degree. (Foundation year students would need to transfer to a BSc or MEng programme to take this option).
+
+
+When you join us, you’ll get access to the latest industry-standard facilities,including high-performance workstations, gigabit networking, swarm and humanoid robots, VR headsets, a 3D immersive cube, motion capture, AR and MR. We are ranked sixth in the UK for learning resources in Computer Science. And it’s all here on our single-site campus for you to use.
+
+
+Our courses are shaped by our world-leading research in areas such as artificial intelligence and machine learning, intelligent and interactive systems, robotics, simulation, visualisation, and mobile and distributed computing.
+
+
+When you are not studying there are plenty of extra-curricular activities for you to get involved in, such as student societies, hackathons and networking events with employers.
+
+
+courseLength 
+Course length
+3 years
+
+courseCode 
+UCAS code
+G700
+
+courseTitle 
+BSc 
+
+                
+Computer Science                 
+courseMode Full-time
+description 
+Choose a career-driven degree. Apply for Computer Science (Artificial Intelligence) at Hull today.
+
+
+courseModules 
+First Year
+moduleName Computational Thinking
+moduleName Computational Thinking
+moduleName This module will enable you to develop your knowledge and understanding of the key mathematical underpinnings of computer science, to aid you in problem solving and programming. The development of your competence in logic, mathematics and statistics will also provide evidence of your numeracy and more advanced skills and is valued by employers.
+moduleName This module will enable you to develop your knowledge and understanding of the key mathematical underpinnings of computer science, to aid you in problem solving and programming. The development of your competence in logic, mathematics and statistics will also provide evidence of your numeracy and more advanced skills and is valued by employers.
+moduleName 
+
+moduleName Algorithms and Data Structures
+moduleName Algorithms and Data Structures
+moduleName Start to think like a computer (bleep bloop)! This module explores logic, data storage and algorithms with the use of practical demonstrations and activities. Operating in parallel with programming-focussed modules, we will develop a toolkit of key concepts from a theoretical (non-code) perspective, facilitating a better understanding of these fundamentals. Topics to expect include pseudocode, state machines, essential keywords, common data structures, sort algorithms and search algorithms. You will learn methods to analyse and compare algorithms and their constituent parts in order that you may better design, evaluate and develop effective, efficient and performant software solutions.
+moduleName Start to think like a computer (bleep bloop)! This module explores logic, data storage and algorithms with the use of practical demonstrations and activities. Operating in parallel with programming-focussed modules, we will develop a toolkit of key concepts from a theoretical (non-code) perspective, facilitating a better understanding of these fundamentals. Topics to expect include pseudocode, state machines, essential keywords, common data structures, sort algorithms and search algorithms. You will learn methods to analyse and compare algorithms and their constituent parts in order that you may better design, evaluate and develop effective, efficient and performant software solutions.
+moduleName 
+
+moduleName Python programming
+moduleName Python programming
+moduleName Learn by using Python, an industry-standard language used in artificial intelligence and robotics. Through practical work and problem solving, you’ll develop the skills you need to design, understand and construct computer programs capable of solving real world applications. No previous programming experience required!
+moduleName Learn by using Python, an industry-standard language used in artificial intelligence and robotics. Through practical work and problem solving, you’ll develop the skills you need to design, understand and construct computer programs capable of solving real world applications. No previous programming experience required!
+moduleName 
+
+moduleName Fundamentals of Artificial Intelligence
+moduleName Fundamentals of Artificial Intelligence
+moduleName Learn about classical AI techniques – how to represent knowledge and how to use it to reason about the world. You’ll consider some of the important techniques such as logic programming, rule based reasoning, knowledge searching and pathfinding, and how to implement them in code and apply them to real-world problems.
+moduleName Learn about classical AI techniques – how to represent knowledge and how to use it to reason about the world. You’ll consider some of the important techniques such as logic programming, rule based reasoning, knowledge searching and pathfinding, and how to implement them in code and apply them to real-world problems.
+moduleName 
+
+moduleName Architectures, Operating Systems and the Cloud
+moduleName Architectures, Operating Systems and the Cloud
+moduleName In this module you will explore the fundamental properties of computers that allow them to execute programmes. You will learn about how Computers are made to work in hardware and simulation (Virtual Machines). A collection of Virtual Machines is a cloud, and this module allows you to get experience with the development of your own cloud using appropriate platforms.
+moduleName In this module you will explore the fundamental properties of computers that allow them to execute programmes. You will learn about how Computers are made to work in hardware and simulation (Virtual Machines). A collection of Virtual Machines is a cloud, and this module allows you to get experience with the development of your own cloud using appropriate platforms.
+moduleName 
+
+moduleName Professional Development (Computer Science & AI)
+moduleName Professional Development (Computer Science & AI)
+moduleName This module sets you up to grow your professional skills and awareness. You'll develop your appreciation of the challenges within the sector, and how technology can help to solve worldwide issues. You will begin a personal portfolio that you will add to over your degree and you will work as part of a team to produce a design prototype, demonstrating your personal professional development.
+moduleName This module sets you up to grow your professional skills and awareness. You'll develop your appreciation of the challenges within the sector, and how technology can help to solve worldwide issues. You will begin a personal portfolio that you will add to over your degree and you will work as part of a team to produce a design prototype, demonstrating your personal professional development.
+moduleName 
+
+Second Year
+moduleName Design, Develop, Deploy
+moduleName Design, Develop, Deploy
+moduleName Our flagship software development module. You'll use contemporary software development tool chains to experience authentic software creation and deployment, applying techniques such as agile project management, test-driven development and continuous integration and deployment.
+moduleName Our flagship software development module. You'll use contemporary software development tool chains to experience authentic software creation and deployment, applying techniques such as agile project management, test-driven development and continuous integration and deployment.
+moduleName 
+
+moduleName Databases and Networks
+moduleName Databases and Networks
+moduleName You'll be introduced to the core components of any online information system that drives the information we use today. Learn how modern applications fetch data from servers and how that information can be stored and retrieved efficiently. You will solve a real-world problem by developing a networked database.
+moduleName You'll be introduced to the core components of any online information system that drives the information we use today. Learn how modern applications fetch data from servers and how that information can be stored and retrieved efficiently. You will solve a real-world problem by developing a networked database.
+moduleName 
+
+moduleName Artificial Intelligence
+moduleName Artificial Intelligence
+moduleName Learn about classical AI techniques – how to represent knowledge and how to use it to reason about the world. You’ll consider some of the important techniques such as logic programming, rule based reasoning, knowledge searching and pathfinding, and how to implement them in code and apply them to real-world problems.
+moduleName Learn about classical AI techniques – how to represent knowledge and how to use it to reason about the world. You’ll consider some of the important techniques such as logic programming, rule based reasoning, knowledge searching and pathfinding, and how to implement them in code and apply them to real-world problems.
+moduleName 
+
+moduleName Advanced Artificial intelligence
+moduleName Advanced Artificial intelligence
+moduleName This module introduces you to more developments in AI, starting with some biologically-inspired models such as perceptrons and neural networks. You’ll learn how these work, how to implement them and what their weaknesses are. You’ll look at how to train neural networks, and what the can and can’t do. You’ll then delve further into the latest developments in this field, considering topics like deep learning and large scale AI systems. You’ll also consider the ethics of increasingly sophisticated AI systems and how they affect our lives.
+moduleName This module introduces you to more developments in AI, starting with some biologically-inspired models such as perceptrons and neural networks. You’ll learn how these work, how to implement them and what their weaknesses are. You’ll look at how to train neural networks, and what the can and can’t do. You’ll then delve further into the latest developments in this field, considering topics like deep learning and large scale AI systems. You’ll also consider the ethics of increasingly sophisticated AI systems and how they affect our lives.
+moduleName 
+
+moduleName Advanced Python Programming
+moduleName Advanced Python Programming
+moduleName Develop your programming skills further to encompass more advanced object-oriented programming and use of industry-standard tools and libraries. You’ll learn how to address problems involving large amounts of data, complex architectures and how to test and improve the efficiency of your code. You’ll start to build systems that integrate powerful components to make innovative applications, and how to implement some of the techniques important for AI and robotics.
+moduleName Develop your programming skills further to encompass more advanced object-oriented programming and use of industry-standard tools and libraries. You’ll learn how to address problems involving large amounts of data, complex architectures and how to test and improve the efficiency of your code. You’ll start to build systems that integrate powerful components to make innovative applications, and how to implement some of the techniques important for AI and robotics.
+moduleName 
+
+Third Year
+moduleName Honours Stage Project (Computer Science & AI)
+moduleName Honours Stage Project (Computer Science & AI)
+moduleName Your Honours Stage Project is your chance to spend a full third of your study time working on a topic of interest to you and producing something major as a result.  You can design your own project, work with a member of staff to develop an idea, or choose one from a catalogue.  Develop an AI program, do some research in virtual reality, or build a new robot butler – the choice is yours.  With regular support from a supervisor, you’ll learn to create, undertake, evaluate and report on a significant individual project which you’ll be proud to show off to an employer.
+moduleName Your Honours Stage Project is your chance to spend a full third of your study time working on a topic of interest to you and producing something major as a result.  You can design your own project, work with a member of staff to develop an idea, or choose one from a catalogue.  Develop an AI program, do some research in virtual reality, or build a new robot butler – the choice is yours.  With regular support from a supervisor, you’ll learn to create, undertake, evaluate and report on a significant individual project which you’ll be proud to show off to an employer.
+moduleName 
+
+moduleName Data Analysis and Visualisation
+moduleName Data Analysis and Visualisation
+moduleName Data analytics has rapidly become a part of all of our lives, and is an increasingly sought-after skill on the job market. In this module you'll learn the theoretical and practical skills to analyse any dataset independently, starting from exploratory analysis of a new dataset for hypothesis finding, over choosing and comparing different algorithms, and presenting and explaining your results quantitatively and visually. You will learn to train models of different complexity that can make predictions or uncover hidden patterns in data, making responsible and fair decisions that can help improve our lives.
+moduleName Data analytics has rapidly become a part of all of our lives, and is an increasingly sought-after skill on the job market. In this module you'll learn the theoretical and practical skills to analyse any dataset independently, starting from exploratory analysis of a new dataset for hypothesis finding, over choosing and comparing different algorithms, and presenting and explaining your results quantitatively and visually. You will learn to train models of different complexity that can make predictions or uncover hidden patterns in data, making responsible and fair decisions that can help improve our lives.
+moduleName 
+
+moduleName Digital Disruption and Innovation
+moduleName Digital Disruption and Innovation
+moduleName Creating a viable technology start-up requires insight into technical development and what it takes to deliver your product. In this module, you will form an individual digital product business plan. Then, as a small production team, you will then select an idea to take forward to develop and present this a final product pitch.
+moduleName Creating a viable technology start-up requires insight into technical development and what it takes to deliver your product. In this module, you will form an individual digital product business plan. Then, as a small production team, you will then select an idea to take forward to develop and present this a final product pitch.
+moduleName 
+
+moduleName Computer Vision
+moduleName Computer Vision
+moduleName Computer vision is fundamental to intelligent systems ranging from advanced microscopes to access control systems and from autonomous robots to self-driving cars. You'll will develop expertise that are currently being used in real-world systems. This includes design and analysis of algorithms for image processing and computer vision as well as evaluation of various cutting-edge solutions in the context of emerging applications.
+moduleName Computer vision is fundamental to intelligent systems ranging from advanced microscopes to access control systems and from autonomous robots to self-driving cars. You'll will develop expertise that are currently being used in real-world systems. This includes design and analysis of algorithms for image processing and computer vision as well as evaluation of various cutting-edge solutions in the context of emerging applications.
+moduleName 
+
+moduleName Computational Science
+moduleName Computational Science
+moduleName Study the key concepts and techniques to: enable modelling a system, understand its limitations and develop appropriate AI architectures to solve computational problems.
+moduleName Study the key concepts and techniques to: enable modelling a system, understand its limitations and develop appropriate AI architectures to solve computational problems.
+moduleName 
+
+Fourth Year
+moduleName Computer Science
+moduleName Computer Science
+moduleName Edward Brown
+moduleName Edward Brown
+moduleName 
+
+moduleName Computer Science
+moduleName Computer Science
+moduleName Owen Woodward
+moduleName Owen Woodward
+moduleName 
+
+FEE AND FUNDING 
+Home STUDENT: £9,250 per year*
+International STUDENT: International applicants may need to pay a tuition fee deposit before the start of the course. Visit our tuition fee deposit page for more information.
+Additional Information about FEE
+*The amount you pay may increase each year, in line with inflation - but capped to the Retail Price Index (RPI).
+The fees shown are for 2022 entry. The fees for 2023 have not yet been confirmed and may increase.
+UK students can take out a tuition fee loan to cover the cost of their course and a maintenance loan of up to £9,706 to cover living costs.
+Substantial discounts are available for International students.  
+More information on fees can be found in the Money section of our website. 
+Your tuition fees will cover most costs associated with your programme (including registration, tuition, supervision, assessment and examination).There are some extra costs that you might have to pay, or choose to pay, depending on your programme of study and the decisions you make. The list below has some examples, and any extra costs will vary.
+
+Books (you’ll have access to books from your module reading lists in the library, but you may want to buy your own copies)
+Optional field trips
+Study abroad (including travel costs, accommodation, visas, immunisation)
+Placement costs (including travel costs and accommodation)
+Student visas (international students)
+Laptop (you’ll have access to laptops and PC’s on campus, but you may want to buy your own)
+Printing and photocopying
+Professional-body membership
+Graduation (gown hire and photography)
+
+Remember, you’ll still need to take into account your living costs. This could include accommodation, travel and food – to name just a few. 
+ENTRY REQUIREMENT: 
+INTERNATIONAL STUDENT: 
+If you require a student visa to study or if your first language is not English you will be required to provide acceptable evidence of your English language proficiency level.
+This course requires academic IELTS 6.0 overall, with no less than 5.5 in each skill. See other English language proficiency qualifications accepted by this University.
+If your English currently does not reach the University's required standard for this programme, you may be interested in one of our English language courses.
+Visit your country page to find out more about our entry requirements.
+LOCAL STUDENT: 
+
+A level grades BCC - BBC
+
+
+
+
+
+BTEC grades
+DMM
+
+
+

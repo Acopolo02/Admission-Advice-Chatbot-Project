@@ -1,0 +1,2051 @@
+
+<!DOCTYPE html>
+
+<html lang="en-GB" dir="ltr">
+
+<head><meta http-equiv="X-UA-Compatible" content="IE=Edge" /><meta charset="utf-8"><title>
+BA (Hons) History Course | University of Hull
+</title><meta name="theme-color" content="#991E66" />
+
+
+
+<meta name="GENERATOR" content="Contensis CMS Version 15.3" />
+<meta name="description" content="Study 3,000 years of history, from the Iron Age to today, with our experts on a BA History degree at the University of Hull. Apply now and start in 2022." />
+<meta name="Keywords" content="history, ba, history, V100, ba hons, history degree, History courses, archaeology, MHist, foundation, undergraduate, 2022, 2023" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="clearing" content="0" />
+<meta name="entry_id" content="8d5bc9b6-e123-4eba-b329-7fcfcdbd18c9" />
+
+
+<link rel="preload" href="/assets/developer/fonts/stag/stag-light.woff" as="font" type="font/woff" crossorigin="anonymous" /><link rel="preload" href="/assets/developer/fonts/stag/stag-light.woff2" as="font" type="font/woff2" crossorigin="anonymous" /><link rel="preload" href="/assets/developer/fonts/stag/stag-semibold.woff" as="font" type="font/woff" crossorigin="anonymous" /><link rel="preload" href="/assets/developer/fonts/stag/stag-semibold.woff2" as="font" type="font/woff2" crossorigin="anonymous" /><link rel="preload" href="/assets/developer/fonts/stag-sans/stagsans-book.woff" as="font" type="font/woff" crossorigin="anonymous" /><link rel="preload" href="/assets/developer/fonts/stag-sans/stagsans-book.woff2" as="font" type="font/woff2" crossorigin="anonymous" /><link rel="preload" href="/assets/developer/fonts/stag-sans/stagsans-semibold.woff" as="font" type="font/woff" crossorigin="anonymous" /><link rel="preload" href="/assets/developer/fonts/stag-sans/stagsans-semibold.woff2" as="font" type="font/woff2" crossorigin="anonymous" /><link rel="preload" href="/assets/developer/fonts/stag-sans/stagsans-bold.woff" as="font" type="font/woff" crossorigin="anonymous" /><link rel="preload" href="/assets/developer/fonts/stag-sans/stagsans-bold.woff2" as="font" type="font/woff2" crossorigin="anonymous" /><link rel="preload" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" as="style" crossorigin="anonymous" /><link rel="preconnect" href="https://unpkg.com" />
+
+    <!-- Favicons -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/site-elements/img/favicon/apple-touch-icon.png?v=XBJ4bz98X3" /><link rel="icon" type="image/png" sizes="32x32" href="/site-elements/img/favicon/favicon-32x32.png?v=XBJ4bz98X3" /><link rel="icon" type="image/png" sizes="194x194" href="/site-elements/img/favicon/favicon-194x194.png?v=XBJ4bz98X3" /><link rel="icon" type="image/png" sizes="192x192" href="/site-elements/img/favicon/android-chrome-192x192.png?v=XBJ4bz98X3" /><link rel="icon" type="image/png" sizes="16x16" href="/site-elements/img/favicon/favicon-16x16.png?v=XBJ4bz98X3" />
+    <!--link rel="manifest" href="/site-elements/img/favicon/site.webmanifest?v=XBJ4bz98X3" /-->
+    <link rel="mask-icon" href="/site-elements/img/favicon/safari-pinned-tab.svg?v=XBJ4bz98X3" color="#54585a" /><link rel="shortcut icon" href="/site-elements/img/favicon/favicon.ico?v=XBJ4bz98X3" /><meta name="apple-mobile-web-app-title" content="Uni of Hull" /><meta name="application-name" content="Uni of Hull" /><meta name="msapplication-TileColor" content="#ce0058" /><meta name="msapplication-config" content="/site-elements/img/favicon/browserconfig.xml?v=XBJ4bz98X3" /><link href="/assets/developer/css/layout.css" rel="stylesheet" type="text/css" /><link href="/assets/developer/css/site.css?version=67872" rel="stylesheet" type="text/css" />
+<link href="/assets/section/courses/ug/site-elements/css/ug-courses.css?version=68541" rel="stylesheet" type="text/css" />
+<link href="/assets/components/media/panoramic/pannellum.css?version=65086" rel="stylesheet" type="text/css" />
+<!--
+ControlID:Ctrl8f74d87676bd47ef8075a68fe92b8eda of type CMS_API.WebUI.WebControls.RazorView has set the maximum duration to 600 seconds
+ControlID:__Page of type ASP.study_undergraduate_history_ba_hons_aspx has set the maximum duration to 3600 seconds
+Cache Enabled using rule ControlID:Ctrl8f74d87676bd47ef8075a68fe92b8eda of type CMS_API.WebUI.WebControls.RazorView has set the maximum duration to 600 seconds
+Cache Page Render Time 13/07/2022 16:24:31
+
+-->		<script  type="text/javascript" src="/assets/components/media/panoramic/pannellum.js?version=65087&amp;build=153133"></script>
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous" /><!-- Google Tag Manager -->
+<script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P978LR');
+</script>
+<!-- End Google Tag Manager -->
+
+    <script defer="" src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
+    <script src="/site-elements/js/vendor/modernizr-custom.min.js" defer="defer"></script>
+<meta name="twitter:card" content="summary" /><meta name="twitter:site" content="@UniOfHull" /><meta name="twitter:title" content="History" /><meta name="twitter:description" content="Study 3,000 years of history, from the Iron Age to today, with our experts on a BA History degree at the University of Hull. Apply now and start in 2022." /><meta name="twitter:image" /><meta name="og:title" content="History" /><meta name="og:url" content="https://www.hull.ac.uk/study/undergraduate/history-ba-hons.aspx" /><meta name="og:type" content="website" /><meta name="og:description" content="Study 3,000 years of history, from the Iron Age to today, with our experts on a BA History degree at the University of Hull. Apply now and start in 2022." /><meta name="og:image" /><link rel="canonical" href="https://www.hull.ac.uk/study/undergraduate/history-ba-hons.aspx" /></head>
+
+<body vocab="https://schema.org/" typeof="WebPage">
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P978LR" title="Google Tag Manager" style="height:0;width:0;display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><!--[if lt IE 9]>
+<p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a class="button button--green" href="https://browsehappy.com/" target="_blank" rel="noopener">upgrade your browser</a> to improve your experience and security.</p>   
+<![endif]-->
+
+    <div>
+        <a href="#main-content" class="visuallyhidden focusable" style="color:#00828b;font-weight:600;cursor:pointer;">Skip to main content</a>
+    </div>
+
+    <form method="post" action="/study/undergraduate/history-ba-hons" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="khKgADmeVvIzXOa0sEkJ0NLy3F+21kE5IB0Bpvj3tKGE1WKNat1j4KpvUYGQd0Y1SxycuLFJTK8qBAFNviUjNRM+2bY=" />
+</div>
+
+
+
+        <main class="wrap" id="top">
+
+            
+
+
+<header class="floating-menu">
+<section class="main-navigation">
+<div class="content">
+<div class="logo"><a class="image-link" title="University homepage" href="/"> <img class="black" alt="The University of Hull" src="//www.hull.ac.uk/site-elements/img/layout/header/logo/UoH-logo-white.svg" height="95" width="150" /> </a></div>
+<nav>
+<ul class="desktop-only" role="list">
+<li class="study"><a class="image-link" role="button" rel="nofollow" href="#0">Study</a></li>
+<li class="choose"><a class="image-link" role="button" rel="nofollow" href="#0">Choose Hull</a></li>
+<li class="international"><a class="image-link" role="button" rel="nofollow" href="#0">International</a></li>
+<li class="research"><a class="image-link" role="button" rel="nofollow" href="#0">Research</a></li>
+<li class="business"><a class="image-link" role="button" rel="nofollow" href="#0">Business</a></li>
+<li class="work"><a class="image-link" role="button" rel="nofollow" href="#0">Work with us</a></li>
+<li class="search"><a class="image-link" role="button" aria-label="Search" rel="nofollow" href="#0"><span class="fa fa-search">&nbsp;</span></a></li>
+</ul>
+<div class="ham-menu mobile-only"><button class="hamburger hamburger--htx" title="Main menu"> <span>toggle menu</span> </button></div>
+</nav></div>
+</section>
+<section class="menu-items search">
+<div class="content">
+<div class="search-container">
+<div class="select-container"><select id="filters" class="select-filter" aria-label="Search categories" name="filters">
+<option selected="selected">All</option>
+<option value="courses">Courses</option>
+<option value="research">Research</option>
+<option value="staff">Staff</option>
+<option value="news">News</option>
+</select></div>
+<div class="searchbox-container"><input id="siteSearch" accesskey="q" class="search" title="Search the website" type="search" autocomplete="off" placeholder="Search the website" size="15" name="query" /> <input id="goButton" title="Search our website" type="button" /></div>
+</div>
+</div>
+</section>
+<section class="navigation">
+<div class="content">
+<div class="primary mobile-only">
+<div class="magic-box">
+<ul role="list">
+<li class="study"><a class="image-link" role="button" rel="nofollow" href="#0">Study</a></li>
+<li class="choose"><a class="image-link" role="button" rel="nofollow" href="#0">Choose Hull</a></li>
+<li class="international"><a class="image-link" role="button" rel="nofollow" href="#0">International</a></li>
+<li class="research"><a class="image-link" role="button" rel="nofollow" href="#0">Research</a></li>
+<li class="business"><a class="image-link" role="button" rel="nofollow" href="#0">Business</a></li>
+<li class="work"><a class="image-link" role="button" rel="nofollow" href="#0">Work with us</a></li>
+</ul>
+</div>
+</div>
+<div class="secondary">
+<div class="menu-items study"><strong>Choose your subject</strong>
+
+<ul role="list">
+    <li><a href="/faculties/subjects/accounting-and-finance">Accounting and Finance</a></li>
+    <li><a href="/faculties/subjects/american-studies">American Studies</a></li>
+    <li><a href="/faculties/subjects/biochemistry">Biochemistry</a></li>
+    <li><a href="/faculties/subjects/biological-and-marine-science">Biology</a></li>
+    <li><a href="/faculties/subjects/biomedical-sciences">Biomedical Science</a></li>
+    <li><a href="/faculties/subjects/business-management">Business and Management</a></li>
+    <li><a href="/faculties/subjects/chemical-engineering">Chemical Engineering</a></li>
+    <li><a href="/faculties/subjects/chemistry">Chemistry</a></li>
+    <li><a href="/faculties/subjects/computer-science">Computer Science</a></li>
+    <li><a href="/faculties/subjects/criminology-and-professional-policing">Criminology and Professional Policing</a></li>
+    <li><a href="/faculties/subjects/drama">Drama, Theatre and Performance</a></li>
+    <li><a href="/faculties/subjects/economics">Economics</a></li>
+    <li><a href="/faculties/subjects/education-teaching-and-childhood-studies">Education, Teaching and Childhood Studies</a></li>
+    <li><a href="/faculties/subjects/electrical-and-electronic-engineering">Electrical and Electronic Engineering</a></li>
+    <li><a href="/faculties/subjects/english">English and Creative Writing</a></li>
+    <li><a href="/faculties/subjects/environmental-science">Environmental Science</a></li>
+    <li><a href="/faculties/subjects/film-and-media-studies">Film and Media Studies</a></li>
+    <li><a href="/faculties/subjects/forensic-science">Forensic Science</a></li>
+    <li><a href="/faculties/subjects/game-graphic-design">Game and Graphic Design</a></li>
+    <li><a href="/faculties/subjects/geography">Geography</a></li>
+    <li><a href="/faculties/subjects/health-nursing-and-midwifery">Health, Nursing and Midwifery</a></li>
+    <li><a href="/faculties/subjects/history">History</a></li>
+    <li><a href="/faculties/subjects/law">Law</a></li>
+    <li><a href="/faculties/subjects/marine-biology">Marine Biology</a></li>
+    <li><a href="/faculties/subjects/marketing">Marketing</a></li>
+    <li><a href="/faculties/subjects/mathematics">Mathematics</a></li>
+    <li><a href="/faculties/subjects/mechanical-engineering">Mechanical Engineering</a></li>
+    <li><a href="/faculties/subjects/medical-and-biomedical-engineering">Medical and Biomedical Engineering</a></li>
+    <li><a href="/faculties/subjects/medicine">Medicine</a></li>
+    <li><a href="/faculties/subjects/music">Music</a></li>
+    <li><a href="/faculties/subjects/philosophy">Philosophy</a></li>
+    <li><a href="/faculties/subjects/physics-and-astrophysics">Physics and Astrophysics</a></li>
+    <li><a href="/faculties/subjects/politics-and-international-studies">Politics and International Studies</a></li>
+    <li><a href="/faculties/subjects/psychology">Psychology</a></li>
+    <li><a href="/faculties/subjects/robotics-and-artificial-intelligence">Robotics and Artificial Intelligence</a></li>
+    <li><a href="/faculties/subjects/social-work">Social Work</a></li>
+    <li><a href="/faculties/subjects/sport-health-and-exercise-science">Sport, Health and Exercise Science</a></li>
+    <li><a href="/faculties/subjects/teacher-education">Teacher Education</a></li>
+    <li><a href="/faculties/subjects/zoology">Zoology</a></li>
+</ul>
+
+<div class="more-courses"><span>View all our courses:</span> <a title="View all our undergraduate courses" class="sys_0 sys_t0" href="/study/undergraduate">Undergraduate</a> <a title="View all our postgraduate taught courses" class="sys_0 sys_t0" href="/study/postgraduate/next-step">Postgraduate Taught</a> <a title="View all our postgraduate research courses" class="sys_0 sys_t34521" href="/study/postgraduate/research">Postgraduate Research</a> <a title="View all our PhD Scholarships" class="sys_0 sys_t28406" href="/study/postgraduate/research/phd">PhD Scholarships</a> <a title="View all our Online courses" target="_blank" rel="noopener" class="sys_16" href="https://online.hull.ac.uk">Online</a> <a class="orderpros" title="Order a prospectus" href="/study/order-or-download-a-prospectus">Order a prospectus</a></div>
+</div>
+<div class="menu-items choose">
+<div class="menu-item-containers"><strong>University and region</strong>
+
+
+
+<ul role="list">
+<li><a href="/choose-hull/university-and-region/about-us/about-the-university-of-hull">About the University of Hull</a></li>
+<li><a href="/choose-hull/university-and-region/team-gb/team-gb-partnership">Team GB Partnership</a></li>
+<li><a href="/choose-hull/university-and-region/the-city-of-hull/about-hull-and-the-region">Hull and the Region</a></li>
+<li><a href="/choose-hull/university-and-region/sustainability/sustainability">Sustainability</a></li>
+<li><a href="/choose-hull/university-and-region/key-documents">Key documents</a></li>
+</ul>
+</div>
+<div class="menu-item-containers"><strong>Study at Hull</strong>
+
+
+
+<ul role="list">
+<li><a href="/choose-hull/study-at-hull/visit-us">Visit Us</a></li>
+<li><a href="/choose-hull/study-at-hull/money">Fees and Finance</a></li>
+<li><a href="/choose-hull/study-at-hull/admissions">Applying to Hull</a></li>
+<li><a href="/choose-hull/study-at-hull/mature-students">Mature students</a></li>
+<li><a href="/choose-hull/study-at-hull/doctoral-college">Doctoral College</a></li>
+<li><a href="/choose-hull/study-at-hull/student-contract">Student Contract</a></li>
+<li><a href="/choose-hull/study-at-hull/careers-and-employability">Student Futures</a></li>
+<li><a href="/choose-hull/study-at-hull/library">Library</a></li>
+<li><a href="/choose-hull/study-at-hull/teaching-academy">Teaching Academy</a></li>
+</ul>
+</div>
+<div class="menu-item-containers"><strong>Student life</strong>
+
+
+
+<ul role="list">
+<li><a href="/choose-hull/student-life">Choose Hull</a></li>
+<li><a href="/choose-hull/student-life/student-support">Student support</a></li>
+<li><a href="/choose-hull/student-life/virtual-tour">Virtual tour</a></li>
+<li><a href="/choose-hull/student-life/accommodation">Accommodation</a></li>
+<li><a href="/choose-hull/student-life/students-union/students-union">Students&#39; union</a></li>
+<li><a href="/choose-hull/student-life/clubs-and-societies/clubs-and-societies">Clubs and societies</a></li>
+<li><a href="/choose-hull/student-life/sport-and-leisure">Sports and leisure</a></li>
+<li><a href="/choose-hull/student-life/graduation-ceremonies">Graduation ceremonies</a></li>
+</ul>
+</div>
+</div>
+<div class="menu-items international">
+<div class="heading"><a title="International home" class="sys_0 sys_t0" href="/international">Visit International home</a></div>
+<div class="main-links">
+<div><strong>International <br /> students</strong>
+<ul role="list">
+<li><a title="International students" class="sys_0 sys_t0" href="/international/international-students">International students</a></li>
+<li><a title="Studying in Hull" class="sys_0 sys_t0" href="/international/studying-in-hull">Studying in Hull</a></li>
+<li><a title="Where are you from?" class="sys_0 sys_t0" href="/international/country">Where are you from?</a></li>
+<li><a title="Inbound Exchanges and Visiting Students" class="sys_0 sys_t0" href="/international/inbound">International Exchange Students</a></li>
+<li><a title="International Application Guide" class="sys_0 sys_t0" href="/international/application-guide">How to apply</a></li>
+<li><a title="Pre-Sessional English" class="sys_0 sys_t0" href="/international/courses/pre-sessional-english">Pre-Sessional English</a></li>
+<li><a title="In-Sessional English" class="sys_0 sys_t0" href="/international/courses/in-sessional-english">In-Sessional English Language Support</a></li>
+<li><a title="Visas and Immigration" class="sys_0 sys_t0" href="/international/visas-and-immigration">Visas and Immigration</a></li>
+<li><a title="Planning your arrival" class="sys_0 sys_t0" href="/international/planning-your-arrival">Pre-Departure and Arrivals</a></li>
+<li><a title="Meet with us" class="sys_0 sys_t0" href="/international/meet-with-us">Meet with us</a></li>
+</ul>
+</div>
+<div><strong>Global Opportunities</strong>
+<ul role="list">
+<li><a title="Global Opportunities" class="sys_0 sys_t0" href="/choose-hull/study-at-hull/international/global-opportunities">Global Opportunities</a></li>
+</ul>
+</div>
+<div><strong>Global Engagement</strong>
+<ul role="list">
+<li><a title="Global Engagement" class="sys_0 sys_t0" href="/choose-hull/study-at-hull/international/global-engagement">Global Engagement</a></li>
+</ul>
+</div>
+<div><strong>Contact us<br /></strong>
+<ul role="list">
+<li><a title="Contact International" class="sys_0 sys_t0" href="/international/contact">Contact us</a></li>
+</ul>
+</div>
+<!--div>
+                        <strong>Short Courses</strong>
+                        <ul role="list">
+                            <li><a title="Supporting our researchers" href="#contensis" data-cms="{&quot;contentId&quot;:5358,&quot;contentTypeId&quot;:0}">Short courses</a></li>
+                        </ul>
+                    </div--></div>
+</div>
+<div class="menu-items research">
+<div class="heading"><a title="Our research" class="sys_0 sys_t0" href="/work-with-us/research"> Visit Research home </a></div>
+<div class="main-links">
+<div><strong>Our research challenges</strong>
+<ul role="list">
+<li><a title="Accelerating a net zero future" class="sys_0 sys_t0" href="/work-with-us/research/themes/accelerating-a-net-zero-future">Accelerating a net zero future</a></li>
+<li><a title="Promoting justice and fairness for all" class="sys_0 sys_t0" href="/work-with-us/research/themes/promoting-justice-and-fairness-for-all">Promoting justice and fairness for all</a></li>
+<li><a title="Improving health outcomes" class="sys_0 sys_t0" href="/work-with-us/research/themes/improving-health-outcomes">Improving health outcomes</a></li>
+<li><a title="Living with water" class="sys_0 sys_t0" href="/work-with-us/research/themes/living-with-water">Living with water</a></li>
+<li><a title="Enhancing heritage and creative industries" class="sys_0 sys_t0" href="/work-with-us/research/themes/enhancing-heritage-and-creative-industries">Enhancing heritage and creative industries</a></li>
+</ul>
+</div>
+<div><strong>Our research</strong>
+<ul role="list">
+<li><a title="Research Institutes" class="sys_16" href="/work-with-us/research/index.aspx#institutes">Research Institutes</a></li>
+<li><a title="Research Groups and Centres" class="sys_16" href="/work-with-us/research/index.aspx#groups-centres">Research Groups and Centres</a></li>
+<li><a title="Faculties, Schools and Departments" class="sys_0 sys_t28406" href="/faculties">Faculties, Schools and Departments</a></li>
+<li><a title="Research directory" class="sys_0 sys_t0" href="/work-with-us/research/research-directory">Research directory</a></li>
+</ul>
+</div>
+<div><strong>Our people</strong>
+<ul role="list">
+<li><a title="Meet our researchers" class="sys_16" href="/work-with-us/research/index.aspx#people">Meet our researchers</a></li>
+<li><a title="Research - Our people" class="sys_0 sys_t0" href="/work-with-us/research/our-people">Search our experts</a></li>
+</ul>
+</div>
+<div><strong>Research with us</strong>
+<ul role="list">
+<li><a title="Supporting our researchers" class="sys_0 sys_t28406" href="/work-with-us/research/why-join-us">Supporting our researchers</a></li>
+<li><a title="Postgraduate research" class="sys_0 sys_t34521" href="/study/postgraduate/research">Postgraduate research</a></li>
+<li><a title="Doctoral College" class="sys_0 sys_t0" href="/choose-hull/study-at-hull/doctoral-college">Doctoral College</a></li>
+</ul>
+</div>
+<!--div><strong>Research environment</strong>
+                        <ul role="list">
+                            <li><a title="Research integrity and governance" href="#contensis" data-cms="{&quot;contentId&quot;:5339,&quot;contentTypeId&quot;:0}">Research integrity and governance</a></li>
+                            <li><a title="Research news" href="/work-with-us/more/media-centre/news/news-archive.aspx?cat=research">Research news</a></li>
+                        </ul>
+                    </div--></div>
+<div class="links"><strong>Quick links</strong> <a class="quick" title="Research News" href="/work-with-us/research/index.aspx#research-news">Research News</a> <!--a class="quick" title="Research directory" href="#contensis" data-cms="{&quot;contentId&quot;:7279,&quot;contentTypeId&quot;:0}">Search all research</a> 
+                <a class="quick" title="Research - Our people" href="#contensis" data-cms="{&quot;contentId&quot;:7767,&quot;contentTypeId&quot;:0}">Find a researcher</a> 
+                <a class="quick" href="#contensis" data-cms="{&quot;contentId&quot;:5364,&quot;contentTypeId&quot;:0}">Contact us</a--></div>
+</div>
+<div class="menu-items business">
+<div class="menu-item-containers"><strong>Business</strong>
+
+
+
+<ul role="list">
+<li><a href="/work-with-us/business">Business</a></li>
+<li><a href="/work-with-us/business/partnerships-and-collaborations">Partnerships and collaborations</a></li>
+<li><a href="/work-with-us/business/develop-your-people">Develop your people</a></li>
+<li><a href="/work-with-us/business/access-to-funding">Access to funding</a></li>
+<li><a href="/work-with-us/business/supporting-growth-and-innovation">Supporting growth and innovation</a></li>
+<li><a href="/work-with-us/business/jobs-internships-industry-placements">Jobs, internships and industry placements</a></li>
+<li><a href="/work-with-us/business/contact-us">Contact Business</a></li>
+</ul>
+</div>
+</div>
+<div class="menu-items work">
+<div class="menu-item-containers"><strong>Work with us</strong>
+
+
+
+<ul role="list">
+<li><a href="/work-with-us/more/jobs/work-with-us">Work with us</a></li>
+<li><a href="/work-with-us/more/media-centre/news">News</a></li>
+<li><a href="/work-with-us/more/conferences-and-venue-hire/conferences-and-venue-hire">Conferences, events and venue hire</a></li>
+<li><a href="/work-with-us/more/schools-and-colleges">Schools and colleges</a></li>
+<li><a href="/work-with-us/more/alumni">Hull University Alumni</a></li>
+<li><a href="/work-with-us/more/academic-partnerships">Academic partnerships</a></li>
+<li><a href="/work-with-us/more/health-safety-services">Health &amp; Safety Services</a></li>
+<li><a href="/work-with-us/more/supplying-our-university/procurement">Procurement</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</section>
+</header>
+<article itemprop="mainEntity" itemtype="http://schema.org/CreativeWork" id="main-content" role="main">
+
+
+
+
+
+
+
+
+
+
+<section class="page-navigation">
+
+<div class="sticky-course">
+<div class="_container">
+  <div class="_content">
+    <div class="page-title">
+        <p>
+            <strong>
+            
+                  <span property="award">BA </span>
+History
+            </strong>
+        </p>
+    </div>
+    
+    <div class="select-container">
+      <select name="variantList" id="variantList" aria-label="Available course options">
+          <option value="standard">Standard course option</option>
+
+          <option value="foundation">With a foundation year</option>
+          
+          
+
+
+
+      </select>
+    </div>
+
+    <div class="select-container year">
+      <select name="variantListYear" id="variantListYear" aria-label="Available in these years">
+          <option value="2022">2022</option>
+          <option value="2023">2023</option>
+      </select>
+    </div>
+  </div>
+</div>
+</div>
+
+<div class="sticky-links">
+<div class="_container">
+  <div class="_content">
+    <ul>
+      <li><a href="#overview">Overview</a></li>
+      <li><a href="#study">Course structure</a></li>
+      <li><a href="#entry">Entry requirements</a></li>
+      <li><a href="#fees">Fees &amp; funding</a></li>
+      <li><a href="#future">Future prospects</a></li>
+      <li><a href="#next">Next steps</a></li>
+    </ul>
+  </div>
+</div>
+</div>
+
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+<input id="CourseVariation" name="CourseVariation" type="hidden" value="" />
+<input id="CourseYear" name="CourseYear" type="hidden" value="" />
+
+<style>
+.hero-play{color:#fff;cursor:pointer;display:-ms-flexbox;display:flex;font-size:30px;font-size:1.875rem;padding:10px 20px;position:absolute;right:0px;bottom:-50px;z-index:11}
+@media (min-width:770px){.hero-play{top:auto;bottom:-100px;left:-10px;right:auto;}}
+</style>
+
+<section class="course-hero">
+<div class="image-container">
+    <div class="overlay"></div>
+    
+        <video data-sal="fade" data-sal-duration="1500" title="History hero video" poster="/editor-assets/images/history/cross-arch.xeeb4f851.png?w=1800&amp;h=1013&amp;crop=1800,800,0,148&amp;f=jpg&amp;q=85&amp;w=800&amp;h=600" preload="metadata" muted autoplay loop playsinline data-object-fit="cover" style="max-width:unset;">
+            <source src="/assets/section/courses/ug/videos/15s-16-9-history.mp4" type="video/mp4">
+        </video>
+
+</div>
+
+<div class="_container" typeof="Course">
+
+    <div class="course-content" style="position:relative;">
+        <meta property="provider" content="University of Hull">
+        
+        <div class="course-level">
+        <p>
+            <span>Undergraduate</span> 
+        
+        
+            <span class="clearing">
+                <i class="fas fa-check-circle"><!-- Available in clearing --></i> Available in Clearing
+            </span>
+        </p>
+        </div>
+
+        <h1 class="heading-1 course-title -bold" property="name">
+            <span class="slabtext">
+                
+                      <span property="award">BA </span>
+
+            
+History                </span>
+
+
+
+        </h1>
+
+
+        <div class="course-interest">
+            <p property="description">Discover the excitement of the past ... and how it continues to shape the present.</p>
+        </div>
+            
+        <div class="hero-play" tabindex="0">
+            <span class="fas fa-pause"></span>
+        </div>
+    </div>
+
+    
+
+
+
+
+
+
+
+<section class="key-info">
+<div class="content central-block -bg-crimson">
+    <div class="centralCont">
+
+    <p class="heading-3 -bold">
+        Key information
+    </p>
+
+    <div class="info-container">
+
+        <div class="course-info">
+
+            
+                  <div class="mode" rel="hasCourseInstance" typeof="CourseInstance">
+    <meta property="name" content="University of Hull">
+    <meta property="startDate" content="15 Sept 2022">
+    <div property="location" typeof="Place">
+      <meta property="name" content="University of Hull">
+      <div property="address" typeof="PostalAddress">
+        <meta property="postalCode" content="HU6 7RX">
+      </div>
+    </div>
+
+    <p>Study mode</p>
+    <p><strong property="courseMode">Full-time</strong></p>
+  </div>
+  <div class="length">
+    <p>Course length</p>
+    <p><strong>3 years</strong></p>
+  </div>
+  <div class="entry">
+    <p>Typical offer</p>
+          <p><strong>N/A</strong></p>
+          <p class="grades"><a href="#entry">See requirements</a></p>
+  </div>
+    <div class="ucas">
+      <p>UCAS code</p>
+      <p><strong property="courseCode">V100</strong></p>
+    </div>
+
+            
+        </div>
+
+        <div class="pathway-select">
+
+            <div class="options" role="radiogroup" aria-label="Course variation options">
+                <p>Choose an option</p>
+
+                <input class="filter" aria-label="Standard Course Option" type="radio" name="option" id="standard" value="standard" checked>
+                <label for="standard">Standard course option</label>
+
+                <input class="filter" aria-label="With a Foundation Year" type="radio" name="option" id="foundation" value="foundation">
+                <label for="foundation">With a foundation year</label>
+                
+                
+
+
+
+
+            </div>
+
+            <div class="start" role="radiogroup" aria-label="Course dates">
+                <p>Start date</p>
+
+                        <input class="filter" aria-label="Study in 2022" type="radio" name="start" id="thisYear" value="2022" checked>
+                        <label for="thisYear">Sept 2022</label>
+                        <input class="filter" aria-label="Study in 2023" type="radio" name="start" id="nextYear" value="2023">
+                        <label for="nextYear">Sept 2023</label>
+            </div>
+
+        </div>
+    </div>
+</div>
+</div>
+</section>        
+    
+</div>
+</section>
+
+
+
+
+
+
+
+
+
+<section class="overview" id="overview">
+<div class="_container">
+
+    
+    
+    <div class="_content">
+
+
+        <div >
+
+
+            <h2 class="heading-2 -bold -plum-text">
+                Course overview <span class="testUrl"></span>
+            </h2>
+
+            <div class="visible-content">
+                <p><strong>Illuminating the past. Engaging the present. Shaping the future.</strong></p>
+<p>Our understanding of History influences how we live our lives today.</p>
+<p>As a student of History at the University of Hull, you will work to uncover the historical roots of contemporary social, political and environmental challenges. From classical civilisations to modern communities you will explore how all different periods of history continue to influence and shape our world, and to help us understand it better. We&rsquo;ll ask you to engage with social and cultural history, with war and politics, with the powerful and the underdog, with sudden events and with long term change.</p>
+<p>To equip you for the real world, assessments have been designed to allow you to develop the range of skills and competencies you will need for the workplace. Instead of having a series of unseen exams, you'll be encouraged to express your ideas in a variety of ways, to criticise sources of historical information from newspapers to computer games, and to develop your own ideas through channels such as podcasts and online exhibitions.</p>
+<p>Throughout your studies with us, you&rsquo;ll develop key techniques for historians, gaining transferable skills of analysis, digital literacy, teamwork and communication. You will also have opportunities to enhance your employability and breadth of interests beyond your degree through voluntary placements with the Hull History Network.</p>
+<p>Under the guidance of expert academics &ndash; and benefiting from facilities such as the Hull History Centre &ndash; you&rsquo;ll discover the drama of the past, understand the great challenges of the present, and gain the skills to help shape a brighter future for yourself and the world we live in.</p>
+            </div>
+
+
+
+
+
+
+
+<div class="on-demand-widget -deep-purple ">
+<div class="widget-video-heading">
+<h3 class="heading-3">Learn more about your course in our subject sessions</h3>
+</div>
+
+
+ <div class="widget-video-block">
+
+<div class="subject-container">
+  <p class="tag">On-demand session</p>
+  <p class="subject">History</p>
+</div>
+
+
+   <a class="image-container lightBoxVideoLink" href="https://www.youtube-nocookie.com/embed/WQOBKvHkW8g">
+
+  <div class="overlay"><i class="fas fa-play"></i></div>
+  <picture>
+    <source srcset="/editor-assets/images/courses/subject-sessions/history-subject-session.x37a8302f.jpg?w=186&amp;h=186&amp;f=webp" type="image/webp" /> 
+    <img alt="history-subject-session" src="/editor-assets/images/courses/subject-sessions/history-subject-session.x37a8302f.jpg?w=186&amp;h=186" width="300" height="300" />
+  </picture>
+
+
+   </a>
+ </div>
+</div>
+        </div>
+
+        <div class="apply" style="padding-top:30px;">
+            <div class="link-tag">
+                More to explore
+            </div>
+
+            <div class="link-container">
+                
+                    <a href="https://evision.hull.ac.uk/urd/sits.urd/run/siw_sso.go?ktoRthcHkGXx3C3FAiB0k2BWb5vR6bRWIhNvLgRUfHrPJdo5H4" class="link" target="_blank">
+                        <span class="fad fa-pencil-alt"></span>
+                        <span class="link-text">Apply online now</span>
+                        <span class="fas fa-arrow-right"></span>
+                    </a>
+                <a href="/study/order-or-download-a-prospectus" class="link" target="_blank">
+                    <span class="fad fa-book-alt"></span>
+                    <span class="link-text">Download your prospectus</span>
+                    <span class="fas fa-arrow-right"></span>
+                </a>
+                <a href="/choose-hull/study-at-hull/visit-us/open-days" class="link">
+                    <span class="fad fa-map-marker-alt"></span>
+                    <span class="link-text">Come to an Open Day</span>
+                    <span class="fas fa-arrow-right"></span>
+                </a>
+                <a href="/choose-hull/student-life/accommodation" class="link">
+                    <span class="fad fa-house"></span>
+                    <span class="link-text">Accommodation</span>
+                    <span class="fas fa-arrow-right"></span>
+                </a>
+                <a href="/choose-hull/study-at-hull/money" class="link">
+                    <span class="fad fa-credit-card-front"></span>
+                    <span class="link-text">Fees and finance</span>
+                    <span class="fas fa-arrow-right"></span>
+                </a>
+                <a href="/choose-hull/student-life" class="link">
+                    <span class="fad fa-check-square"></span>
+                    <span class="link-text">Choose Hull</span>
+                    <span class="fas fa-arrow-right"></span>
+                </a>
+                <a href="/faculties/departments/school-of-humanities" class="link">
+                    <span class="fad fa-building"></span>
+                    <span class="link-text">School of Humanities</span>
+                    <span class="fas fa-arrow-right"></span>
+                </a>
+            </div>
+        </div>
+
+    </div>
+</div>
+</section>
+
+
+
+
+
+
+
+
+
+
+
+<section class="reasons">
+<div class="_container">
+<div class="_content">
+
+  <div class="central-block -bg-teal">
+    <div class="centralCont">
+      <p class="reasons-title">
+        Six reasons to study History at Hull
+      </p>
+
+      <ol>
+<li>Top 20 in England for overall student satisfaction#</li>
+<li>94% graduate employability rating*</li>
+<li>Use the latest technology to explore the past</li>
+<li>Archives stretching back to 1086 at the Hull History Centre</li>
+<li>Gain the analytical skills employers value</li>
+<li>Work placements through the Hull History Network</li>
+</ol>
+    </div>
+  </div>
+
+  <div class="accreditations">
+
+
+  </div>
+
+</div>
+</div>
+</section>
+
+
+
+
+
+
+
+
+
+
+<section class="modules -bg-grey" id="study">
+<div class="_container">
+    <div class="_content">
+
+        <h2 class="heading-2 -bold -plum-text">
+            What you'll study
+        </h2>
+        
+        <p class="section-desc">The course consists of 120 credits per year. Most modules are 20 credits, meaning you’ll study six modules each year. Some longer modules, such as a dissertation, are worth more (e.g. 40 credits). In these cases, you’ll study fewer modules - but the number of credits will always add up to 120.</p>
+
+        <div class="details">
+            <div class="container">
+                <div class="tab-container" role="radiogroup" aria-label="Modules per year">
+
+
+                    <input
+                        type="radio"
+                        title="First year"
+                        name="module-tabs"
+                        id="year-one"
+                        checked
+                    />
+
+                    <input
+                        type="radio"
+                        title="Second year"
+                        name="module-tabs"
+                        id="year-two"
+                    />
+
+
+
+                    <input
+                        type="radio"
+                        title="Third year"
+                        name="module-tabs"
+                        id="year-three"
+                    />
+
+
+
+
+
+                    <div class="tabs flex-tabs">
+
+                    
+                        <label for="year-one" id="year-one-label" class="tab year-one">
+                            First year
+                        </label>
+
+                        <label for="year-two" id="year-two-label" class="tab year-two">
+                            Second year
+                        </label>
+                                                                                                        <label for="year-three" id="year-three-label" class="tab year-three">
+                                    Final year
+                                </label>
+
+
+                    
+                                            
+
+                        <div id="year-one-panel" class="panel year-one active">
+                        
+                            
+                              <h3>First year modules</h3>
+
+
+
+                            
+                              <div class="modules-container year-one-mods">
+
+<div class="frame" id="frameYOne">
+  <ul>
+            <li class="items">
+              <p class="module-heading"><strong>Compulsory</strong></p>
+
+                  <div>
+                      <h3>History of Freedom</h3>   
+                      <p>What does it mean to be free and how has the answer to this question changed over time? In ancient and medieval times, there was no expectation of individual freedom as we understand it today, rather there were degrees of &lsquo;unfreedom&rsquo; such as slavery, serfdom, or vassalage. Later, in the age of empire, race determined who could be enslaved, and the slave trade&rsquo;s legacies of racism persist into the present day: the civil rights movements and the struggle against apartheid are known as some of the most prominent recent fights for freedom. Nonetheless, the idea of freedom has far broader connotations, and you will also have the flexibility to explore diverse issues such as religious, cultural or personal freedoms.</p>
+                  </div>
+                  <div>
+                      <h3>Revolutions: Continuity and Change</h3>   
+                      <p>Revolutions are processes and events of profound and enduring change, but they are not just about politics. Before the great revolutions in America, France, Haiti and Russia, global history experienced sweeping changes in society, ideas and technology. Revolutions are not modern phenomena, and they do not belong strictly to Europe: they are ancient and they have taken place all over the globe since the beginning of &lsquo;recorded&rsquo; history. This module will widen your perspective on &lsquo;revolutions&rsquo; by examining a number of revolutionary moments in world history, from ancient times to the present. These will range across technological, social, religious and political revolutions.</p>
+                  </div>
+                  <div>
+                      <h3>All Roads Lead from Rome: the Classical Present</h3>   
+                      <p>No matter how modern we think we are, we&rsquo;re still shaped by the classical past. In every age, the classical world has been used as a benchmark for good taste and has been re-invented for present purposes. Using the artworks, archaeology and artefacts of material and visual culture, this module will explore topics such as how the classical world provided a blueprint for the projection of power through imagery and architecture. From the posturing of great leaders, such as the portraits of Napoleon, to the grand civic buildings of Washington DC or Albert Speer&rsquo;s designs for Hitler&rsquo;s Berlin, the classical world has been influential throughout history.</p>
+                  </div>
+                  <div>
+                      <h3>Human Worlds</h3>   
+                      <p>How have humans shaped their environment, and how has the environment shaped them in return? These questions have controlled how and where we live. The availability of resources has encouraged migration and movement from the trade routes of the Silk Road across Asia to the imperial web of coaling stations that developed for the projection of naval power. How do cities grow &ndash; like St Petersburg, Delhi or Paris, built and rebuilt that has affected how generations of inhabitants later would live their lives?</p>
+                  </div>
+                  <div>
+                      <h3>World War Tudors</h3>   
+                      <p>Why are TV programmes so obsessed with certain episodes in British history such as the Tudors and the world wars? What idea of Britain is conveyed when we focus on a narrow range of stories like Boudicca&rsquo;s fight against Rome, victory at Agincourt, Henry VIII&rsquo;s wives or the Battle of Britain? What gets left out of British history in these simplified versions of the past? This module will invite you to critique popular culture, such as television documentaries or computer games, and to create different fresh ideas for how you think the public could engage with an aspect of the past that inspires you.</p>
+                  </div>
+                  <div>
+                      <h3>History in the News</h3>   
+                      <p>What are the historical roots of what is happening now? You will help to shape the course by identifying some of the most pressing and interesting issues of the world today. We will then work together to research different perspectives on these themes by finding out historical background and historical parallels that help to explain them. The decision as to what we should explore together lies in your hands.</p>
+                  </div>
+            </li>
+  </ul>
+</div>
+
+<div class="controls">
+  <button class="mods-prev" aria-label="Previous"><i class="fas fa-angle-left"><!-- Previous --></i></button>
+  <button class="mods-next" aria-label="Next"><i class="fas fa-angle-right"><!-- Next --></i></button>
+</div>
+
+<div class="scrollbar">
+  <div class="handle">
+    <div class="mousearea"></div>
+  </div>
+</div>
+
+</div>
+
+                                
+                        </div>
+
+                        <div id="year-two-panel" class="panel year-two">
+                        
+                            
+                              <h3>Second year modules</h3>
+
+
+                            
+                              <div class="modules-container year-two-mods">
+
+<div class="frame" id="frameYTwo">
+  <ul>
+            <li class="items">
+              <p class="module-heading"><strong>Compulsory</strong></p>
+
+                  <div>
+                      <h3>Global Britain and its Past</h3>   
+                      <p>Develop specialist skills such as using technology to map time and space, visual literacy, or oral history interviewing whilst learning about the expansion of the English across the British Isles and then across the world as an empire was built.</p>
+                  </div>
+                  <div>
+                      <h3>History: Then and Now</h3>   
+                      <p>This module explores how historians shape and debate the past. Should we study the past on its own terms as we act as neutral observers who are guided by what the sources tell us, or do historians mould the past into their own image, re-writing history for new purposes depending on each historian&rsquo;s subjective preferences? In this module, we will consider these questions of objectivity, facts, bias, distortion, as well as the need for historians to return to the past and consider it from points of view that are relevant to the present.</p>
+                  </div>
+                  <div>
+                      <h3>History Group Project</h3>   
+                      <p>Using all of the skills you&rsquo;ve developed through the programme to date to create a piece of public-facing history in cooperation with your peers. You&rsquo;ll have the freedom and flexibility to choose the historical topic and the means by which you present it. Possible ideas include an exhibition, podcast, a website or something else that you find an effective tool for exploring the past.</p>
+                  </div>
+            </li>
+            <li class="items">
+              <p class="module-heading"><strong>Optional</strong></p>
+
+                  <div>
+                      <h3>The First Superpowers</h3>   
+                      <p>While Britain, the United States and the Soviet Union were the dominant nations of the 19th and 20th centuries, they were not the first superpowers. Some of the world&rsquo;s most powerful entities of pre-modern times were found in Asia, pre-colonial North America, and in the heart of Europe. The ancient and modern world was formed by superpowers, from the Qin Dynasty of ancient China, to the equestrian empires of the Lakota and Comanche, to the Holy Roman and Ottoman empires that shaped history at the centre and edges of an expanding Europe.</p>
+                  </div>
+                  <div>
+                      <h3>Three Sixties: Decades that Changed the World</h3>   
+                      <p>Tracing how themes such as war &amp; technology, ideas &amp; rights, and culture &amp; morality changed in three different decades: the 1760s, the 1860s and the 1960s. Each of these trends were shaped by changing trading and communication networks, economic developments and shifting notions of leisure and class, and thus enable us to reflect on the interconnectedness of these ideas and their spread around the globe.</p>
+                  </div>
+                  <div>
+                      <h3>Trends and Treasures</h3>   
+                      <p>Using the framework of &lsquo;Treasures and Trends&rsquo; we seek to examine how and why different societies (at different points in time) value and classify visual and material remains of the past, often in order to negotiate and understand their contemporary relevance. Looking at trends and fashion as a barometer of taste, popularity, consumerism and acquisitiveness also allows us to explore ways in which these have been shaped by, and further gave shape to material and visual culture, often involving complex networks of trade and exchange that connect local and national histories with wider global forces.</p>
+                  </div>
+                  <div>
+                      <h3>Interactions and Exchanges: The Roots of Globalisation</h3>   
+                      <p>This module is about how people and societies have connected, communicated, clashed, exchanged and evolved over a long span of human history. Focussing on the period of the Columbian Exchange (1492), the emergence of global empires in the eighteenth and nineteenth centuries, and the present-day &lsquo;global village&rsquo; the module will examine the connections between peoples, the movement and flow of people, things, and ideas, the disruptive effects of war and environmental change, and the connections between the local and the global.</p>
+                  </div>
+                  <div>
+                      <h3>Shamans, Priests and Witches</h3>   
+                      <p>People have often looked to the gods to explain the world around them and magic and the devil are often invoked at times of strife and trouble. This module will look at how religion and ritual have developed in key areas of the globe and how people have understood the world around them.</p>
+                  </div>
+                  <div>
+                      <h3>History at Home</h3>   
+                      <p>The spaces we inhabit often reflect our own position within society and are own cultural taste. This module will explore how the idea of the home has changed over time from a mobile settlement to a wide range of spaces. We will study how the household unit has changed, how material culture of homes can help us identify the use of the space, and look at the daily life during key periods in the past.</p>
+                  </div>
+                  <div>
+                      <h3>Come Dine with us: A History of Food and Drink</h3>   
+                      <p>Come Dine With Us explores the universal theme of food and drink to appreciate how our attitudes to basic sustenance have changed during two millennia. Drawing upon a range of art, archaeology, cookery books and television programmes reveals much about societies ranging from Roman Britain, to Imperial Russia, Colonial America to Imperial China.</p>
+                  </div>
+                  <div>
+                      <h3>Being Human: Minds, Bodies and Machines</h3>   
+                      <p>Explore &ldquo;What is it to be human?&rdquo; and examine what it is to be minded or to have a mind; what the relation of the mind is to the body; what being embodied means; and what the place of mindedness is in a natural world apparently devoid of its attributes.&nbsp;</p>
+                  </div>
+            </li>
+  </ul>
+</div>
+
+<div class="controls">
+  <button class="mods-prev" aria-label="Previous"><i class="fas fa-angle-left"><!-- Previous --></i></button>
+  <button class="mods-next" aria-label="Next"><i class="fas fa-angle-right"><!-- Next --></i></button>
+</div>
+
+<div class="scrollbar">
+  <div class="handle">
+    <div class="mousearea"></div>
+  </div>
+</div>
+
+</div>
+
+
+                        </div>
+
+
+
+                        <div id="year-three-panel" class="panel year-three">
+
+                            
+                            
+                              <h3>Final year modules</h3>
+
+
+                            
+                              <div class="modules-container year-three-mods">
+
+<div class="frame" id="frameYThree">
+  <ul>
+            <li class="items">
+              <p class="module-heading"><strong>Compulsory</strong></p>
+
+                  <div>
+                      <h3>Capstone module</h3>   
+                      <p>This year-long project will be the pinnacle of your undergraduate studies with us. Follow your passion for a particular topic, develop and research your project and then present it as you choose. It might be a traditional dissertation (12,000 words of writing) or you might channel your scholarship into perhaps a documentary or an exhibition as a way of conveying your findings. Either way, it will be something you will look back at with pride and satisfaction for years to come.</p>
+                  </div>
+                  <div>
+                      <h3>Co-produced module</h3>   
+                      <p>Our programme is shaped by an ethos of students and staff working in partnership and enabling a flexible approach for students to pursue their interests. This module is the ultimate example of that approach, and it will be designed from scratch by students and staff together, and students will be deeply involved in the design and running of the seminars.</p>
+                  </div>
+                  <div>
+                      <h3>The Past in the Present</h3>   
+                      <p>We began the programme by looking at &lsquo;History in the News&rsquo;, and we will return to the question of how history shapes our understanding of the issues of the present day. We will consider how the study of history and heritage can contribute to social justice, the fairer distribution of rights, wealth, and resources, and environmental and political challenges.</p>
+                  </div>
+            </li>
+            <li class="items">
+              <p class="module-heading"><strong>Optional</strong></p>
+
+                  <div>
+                      <h3>Fame and Fortune</h3>   
+                      <p>Fame and Fortune allows final year students to critically and historically engage with that seemingly most modern concept, Celebrity. Benefitting from recent scholarly scrutiny that engages with a range of related inter-disciplinary approaches, students will be able to choose a historical figure and to assess how, when and why they have emerged as a celebrity, and to communicate their research digitally.</p>
+                  </div>
+                  <div>
+                      <h3>Insiders and Outsiders: Community and Belonging in History</h3>   
+                      <p>For the ancient Greeks, citizens ruled. But their notion of a citizen was exclusive: men ruled over women, children, slaves, animals and things. In ancient societies, most people were excluded from power, participation, markets, resources and opportunity &ndash; they were &lsquo;outsiders&rsquo;. Over time, or so the story goes, societies have worked to ensure the inclusion of outsiders, whether through voting rights, civil rights, access to educational and career opportunities. This module explores the ways in which groups, communities, and nations determine and decide: who belongs.</p>
+                  </div>
+                  <div>
+                      <h3>New Frontiers: Small Steps and Giant Leaps in History</h3>   
+                      <p>This module examines new frontiers: spaces where the old meets the new, and where we can see the operation of profound shifts in politics, society, technology and the environment. Humans have always applied their curiosity to the world around them, inventing, exploring, building, and reshaping themselves and their environments. In some instances, this has resulted in profoundly creative advances, and in others it has unleashed processes of disruption and destruction. In this module, you will explore past and present-day examples where humans have opened up new frontiers.</p>
+                  </div>
+                  <div>
+                      <h3>Fear and Terror</h3>   
+                      <p>Are fear and terror the tools of the weak or of the strong? Totalitarian regimes from Stalin to Pinochet&rsquo;s Chile have used extreme violence, secret police and state sponsored terrorism and assassination to assert their authority. Meanwhile, non-state actors, such as the IRA, Al-Qaeda and the ANC, relatively small in terms of number and weak in terms of infrastructure, have used campaigns of sporadic violence to effect change. Are they ever justified in doing so? Sometimes terror tactics have had important racial and ethnic dimensions as in the exercise of colonial power and in genocidal campaigns. In wartime, is the inducement of fear unavoidable or are atrocities deliberate? Are some acts beyond the pale, to be punished as war crimes? Can Truth and Reconciliation activities in the wake of such acts achieve their goals.</p>
+                  </div>
+                  <div>
+                      <h3>Justice and Law</h3>   
+                      <p>This module seeks to examine the notion of justice and law both in a national, international and global perspective reaching back over 2000 years. How can a historical perspective help us understand assumptions about a free trial and social justice.</p>
+                  </div>
+                  <div>
+                      <h3>Innovation and Invention</h3>   
+                      <p>What have been the major innovations and inventions in the past and where and how did they happen? What impact did the age of steam have on global networks, how has medicine improved the health of the world&rsquo;s population and has the development of computers made humans redundant? We will examine how different areas of the global have contributed to innovations and inventions and look forward to inventions yet to come.</p>
+                  </div>
+            </li>
+  </ul>
+</div>
+
+<div class="controls">
+  <button class="mods-prev" aria-label="Previous"><i class="fas fa-angle-left"><!-- Previous --></i></button>
+  <button class="mods-next" aria-label="Next"><i class="fas fa-angle-right"><!-- Next --></i></button>
+</div>
+
+<div class="scrollbar">
+  <div class="handle">
+    <div class="mousearea"></div>
+  </div>
+</div>
+
+</div>
+
+
+                        </div>
+
+
+
+
+
+
+                    </div>
+
+                    <p class="small">All modules are subject to availability and this list may change at any time.</p>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section class="how" id="how">
+<div class="_container">
+<div class="_content">
+
+  <h2 class="heading-2 -bold -plum-text">
+    How you'll study
+  </h2>
+
+  <div class="section-desc">
+    <p>Throughout your degree, you’re expected to study for 1,200 hours per year. That’s based on 200 hours per 20 credit module. And it includes scheduled hours, time spent on placement and independent study. How this time’s divided among each of these varies each year and depends on the course and modules you study.</p>
+  </div>
+
+  
+
+</div>
+</div>
+</section>
+
+
+
+
+
+
+
+  <section class="students">
+
+    <div class="image-container">
+      <div class="overlay"></div>
+
+      <picture>
+          <source data-sal="fade" data-sal-duration="1500" media="(max-width: 480px)" srcset="/editor-assets/images/history/Holly-Cockerham.xdee89d49.jpg?crop=500,800,900,0">
+
+        <source data-sal="fade" data-sal-duration="1500" srcset="/editor-assets/images/history/Holly-Cockerham.xdee89d49.jpg?f=webp&amp;q=85" alt="Holly-Cockerham" type="image/webp">
+
+        <source data-sal="fade" data-sal-duration="1500" srcset="/editor-assets/images/history/Holly-Cockerham.xdee89d49.jpg?f=jpg&amp;q=85" alt="Holly-Cockerham" type="image/jpg">
+
+        <img data-sal="fade" data-sal-duration="1500" src="/editor-assets/images/history/Holly-Cockerham.xdee89d49.jpg?q=85" alt="Holly-Cockerham" />
+      </picture>
+    </div>
+
+    <div class="_container">
+      <div class="_content">
+
+        <div class="main-video">
+
+          <div class="tags">
+            <span class="name">Holly Cockerham</span>
+            <span class="course">History</span>
+          </div>
+
+          <h4 class="heading">
+            Why I chose History at Hull
+          </h4>
+
+          <a class="button lightBoxVideoLink" href="https://www.youtube-nocookie.com/embed/9Hc1GiRN_K8">Watch video</a>
+
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+
+
+
+
+
+
+
+<section class="pathways -no-margin-top">
+<div class="featured-areas">
+<div class="_container">
+  <div class="feature-blocks">
+
+            <div class="feature-item">
+
+                <picture>
+                    <source data-sal="fade" data-sal-duration="1500" srcset="/editor-assets/images/history/Heritage-History.xebf9d7ae.jpg?w=744&amp;h=600&amp;crop=600,600,72,0&amp;q=85&amp;f=webp" alt="Heritage_History" type="image/webp">
+
+                    <source data-sal="fade" data-sal-duration="1500" srcset="/editor-assets/images/history/Heritage-History.xebf9d7ae.jpg?w=744&amp;h=600&amp;crop=600,600,72,0&amp;q=85&amp;f=jpg" alt="Heritage_History" type="image/jpg">
+                    
+                    <img data-sal="fade" data-sal-duration="1500" src="/editor-assets/images/history/Heritage-History.xebf9d7ae.jpg?w=744&amp;h=600&amp;crop=600,600,72,0&amp;q=85&amp;f=jpg" alt="Heritage_History" />
+                </picture>
+
+                <div class="feature-overlay -bg-plum">
+                    <div class="feature-card">
+                        <h2 class="feature-title">
+                            Steeped in history
+                        </h2>
+                        <div class="feature-description">
+                            <p>
+                                Hull&#39;s specialist historical resources include the Hull History Centre, the Blaydes Maritime Centre and the Wilberforce Institute.
+                            </p>
+                            
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="feature-item">
+
+                <picture>
+                    <source data-sal="fade" data-sal-duration="1500" srcset="/editor-assets/images/history/History.x66598b2a.jpg?w=900&amp;h=600&amp;crop=600,600,150,0&amp;q=85&amp;f=webp" alt="History" type="image/webp">
+
+                    <source data-sal="fade" data-sal-duration="1500" srcset="/editor-assets/images/history/History.x66598b2a.jpg?w=900&amp;h=600&amp;crop=600,600,150,0&amp;q=85&amp;f=jpg" alt="History" type="image/jpg">
+                    
+                    <img data-sal="fade" data-sal-duration="1500" src="/editor-assets/images/history/History.x66598b2a.jpg?w=900&amp;h=600&amp;crop=600,600,150,0&amp;q=85&amp;f=jpg" alt="History" />
+                </picture>
+
+                <div class="feature-overlay -bg-plum">
+                    <div class="feature-card">
+                        <h2 class="feature-title">
+                            Foundation year
+                        </h2>
+                        <div class="feature-description">
+                            <p>
+                                A foundation year is available to boost your skills and confidence if you do not quite meet our entry requirements for this programme.
+                            </p>
+                            
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+  </div>
+
+</div>
+</div>
+</section>
+
+
+
+
+
+
+
+
+
+
+
+<section class="entry-req" id="entry">
+<div class="_container">
+<div class="_content">
+
+  <h2 class="heading-2 -bold -plum-text">
+    Entry requirements
+  </h2>
+
+  <div class="details">
+    <div class="container">
+      <div class="tab-container" role="radiogroup" aria-label="UK or International entry requirements">
+          <input
+            type="radio"
+            title="UK"
+            name="entry-tabs"
+            id="uk"
+            checked=""
+          />
+
+          <input
+            type="radio"
+            title="International students"
+            name="entry-tabs"
+            id="intl"
+          />
+
+          <div class="tabs flex-tabs">
+            <label for="uk" id="uk-label" class="tab uk">
+              UK Residents
+            </label>
+
+            <label for="intl" id="intl-label" class="tab intl">
+              International students
+            </label>
+
+            <div id="uk-panel" class="panel uk active">
+
+              <div class="requirements">
+                <div class="quick-view-container">
+                  
+                  
+                        <div class="grades">
+    <h3 class="-bold">Typical offer</h3>
+    <ul>
+       <li>
+          <div class="alevel">
+                <p><span>A level grades</span> <span>N/A</span></p>
+          </div>
+        </li>
+
+        <li>
+          <div class="alevel">
+                <p>
+                  <span>BTEC grades</span>
+                  <span>N/A</span>
+                </p>
+          </div>
+        </li>
+
+        <li>
+          <div class="ucas-points">
+                <p>
+                  <span>Points required</span> 
+                  <span>N/A</span>
+                </p>
+          </div>
+        </li>
+
+    </ul>
+
+    <p class="work-out">
+      <a href="https://www.ucas.com/ucas/tariff-calculator" rel="noopener" target="_blank">Work out your estimated points <i class="fas fa-external-link-alt"><!-- External link --></i></a>
+    </p>
+  </div>
+
+
+                  <div class="foundation">
+                    <div class="header">
+                      <p>Don&#39;t meet our requirements?</p>
+                    </div>
+                    <div class="info"> 
+
+                      <p>We offer a <a href="/study/ug/foundation-year" title="More about foundation years">Foundation Year</a> to boost your skills and knowledge – it’s a great way to make your way into higher education.</p>
+
+                      <div class="check-container" role="group" aria-label="Switch to the foundation course">
+                        <input class="filter" title="Switch to the foundation year" type="checkbox" name="option" id="entryFY" value="foundation">
+                        <label
+                          aria-label="Switch to the foundation year"
+                          for="entryFY"
+                          class="checkbox-label"
+                          data-off="no"
+                          data-on="yes"
+                        >
+                          <span class="visuallyhidden">Switch to the foundation course</span>
+                        </label>
+
+                        <p>Switch to the foundation year</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="details">
+                  
+                    <p>At Hull, you’re a name not a number. During Clearing, we look at all of your qualifications and experience, not just your academic grades. We may be able to offer you a place whatever your situation.</p>
+                    <p>Some courses still do have requirements such as previous study in your subject area, or specific GCSE grades. Others have additional requirements such as an interview or a satisfactory DBS check.</p>
+                    <p>Please call us now on <a href="tel:+441482466100" title="Call us on 01482 466100"><span class="rTapNumber411559">01482 466100</span></a> or complete our <a href="https://evision.hull.ac.uk/urd/sits.urd/run/siw_sso.go?ktoRthcHkGXx3C3FAiB0k2BWb5vR6bRWIhNvLgRUfHrPJdo5H4" title="Complete our online clearing form" target="_blank">online form</a> to find out if we have a course that’s suitable for you.</p>
+
+                  
+
+
+                </div>
+              </div>
+            </div>
+
+            
+
+
+
+
+
+
+
+<div id="intl-panel" class="panel intl">
+                
+        <p><p>If you require a student visa to study or <a href="/choose-hull/study-at-hull/admissions/english-language-requirements">if your first language is not English</a>&nbsp;you will be required to provide acceptable evidence of your English language proficiency level.</p>
+<p>This course requires academic IELTS 6.0 overall, with no less than 5.5 in each skill. See other <a href="/choose-hull/study-at-hull/admissions/english-language-requirements">English language proficiency qualifications</a> accepted by this University.</p>
+<p>If your English currently does not reach the University's required standard for this programme, you may be interested in&nbsp;<a href="/study/other-courses/english-as-a-foreign-language">one of our English language courses.</a></p>
+<p><a href="/international/country">Visit your country page</a>&nbsp;to find out more about our entry requirements.</p></p>
+</div>    
+
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div>
+</section>
+
+
+
+
+
+
+
+
+
+<section class="study-with -bg-blue -no-margin-top">
+<div class="_container">
+    <div class="_content">
+
+        <div class="staff-info">
+            <h3 class="heading-2 -bold">
+                Our lecturers
+            </h3>
+
+            
+        </div>
+
+        <div class="staff-container ">
+
+            <div class="pull-out-staff">
+                <a class="lightBoxVideoLink" href="https://www.youtube.com/embed/Py5AcymNua4">
+
+                    <picture>
+                        <source data-sal="fade" data-sal-duration="1500" srcset="/staff-directory/images/helen-fenwick.x9f72b6fc.jpg?w=600&amp;h=728&amp;crop=600,600,0,64?f=webp&amp;q=85" alt="Helen Fenwick" type="image/webp">
+                        <source data-sal="fade" data-sal-duration="1500" srcset="/staff-directory/images/helen-fenwick.x9f72b6fc.jpg?w=600&amp;h=728&amp;crop=600,600,0,64?f=jpg&amp;q=85" alt="Helen Fenwick" type="image/jpg">
+                        <img data-sal="fade" data-sal-duration="1500" src="/staff-directory/images/helen-fenwick.x9f72b6fc.jpg?w=600&amp;h=728&amp;crop=600,600,0,64?q=85" alt="Helen Fenwick" />
+                    </picture>
+
+                    <div class="staff-info -bg-plum">
+                        <div class="content">
+                            <p><strong>Dr Helen Fenwick</strong></p>
+                            <p>Senior Lecturer</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+
+            <div class="staff-list">
+                <div class="list-items">
+
+                    <div class="frame" id="frameRelatedStaff">
+
+                        
+
+
+
+<ul class="">
+<li class="items">
+    <div>
+        <a href="/staff-directory/alison-price-moir" class="name">Alison Price-Moir</a>
+        <div class="role"></div>
+    </div>
+    <div>
+        <a href="/staff-directory/amanda-capern" class="name">Dr Amanda Capern</a>
+        <div class="role"></div>
+    </div>
+    <div>
+        <a href="/staff-directory/catherine-baker" class="name">Dr Catherine Baker</a>
+        <div class="role"></div>
+    </div>
+         </li>
+         <li class="items">
+    <div>
+        <a href="/staff-directory/charles-prior" class="name">Dr Charles Prior</a>
+        <div class="role"></div>
+    </div>
+    <div>
+        <a href="/staff-directory/colin-veach" class="name">Dr Colin Veach</a>
+        <div class="role"></div>
+    </div>
+    <div>
+        <a href="/staff-directory/glenn-burgess" class="name">Professor Glenn Burgess</a>
+        <div class="role"></div>
+    </div>
+         </li>
+         <li class="items">
+    <div>
+        <a href="/staff-directory/helen-fenwick" class="name">Dr Helen Fenwick</a>
+        <div class="role"></div>
+    </div>
+    <div>
+        <a href="/staff-directory/jenny-macleod" class="name">Dr Jenny Macleod</a>
+        <div class="role"></div>
+    </div>
+    <div>
+        <a href="/staff-directory/joy-porter" class="name">Professor Joy Porter</a>
+        <div class="role"></div>
+    </div>
+         </li>
+         <li class="items">
+    <div>
+        <a href="/staff-directory/martin-wilcox" class="name">Dr Martin Wilcox</a>
+        <div class="role"></div>
+    </div>
+    <div>
+        <a href="/staff-directory/nicholas-evans" class="name">Dr Nicholas Evans</a>
+        <div class="role"></div>
+    </div>
+    <div>
+        <a href="/staff-directory/stefan-ramsden" class="name">Dr Stefan Ramsden</a>
+        <div class="role"></div>
+    </div>
+         </li>
+         <li class="items">
+</li>
+</ul>
+
+                        
+                    </div>
+
+                    <div class="controls">
+                        <button class="mods-prev" aria-label="Previous"><i class="fas fa-angle-left"><!-- Previous --></i></button>
+                        <button class="mods-next" aria-label="Next"><i class="fas fa-angle-right"><!-- Next --></i></button>
+                    </div>
+
+                    <div class="scrollbar">
+                        <div class="handle">
+                            <div class="mousearea"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+</section>
+
+
+
+
+
+
+
+
+
+<section class="virtual">
+
+<div class="drag">
+    <p>Click and drag</p>
+</div>
+
+<div class="_container -top">
+
+    <div class="central-block -bg-crimson">
+        <div class="centralCont">
+            <h4 class="heading-2 -big -bold">
+            Take a tour of the facilities
+            </h4>
+            
+            <p>Our students benefit from access to&nbsp;the city's specialist historical resources which include the Hull History Centre.</p>
+        </div>
+    </div>
+</div>
+
+<div class="image-container">
+    
+    
+
+
+
+
+<div id="hullhistorycentre"></div>
+
+<script>
+pannellum.viewer('hullhistorycentre', {
+"type": "equirectangular",
+"basePath": "https://www.hull.ac.uk",
+"panorama": "/image-library/equirectangular/2095-hull-history-centre-1-a-1-fb.xd79c5b61.jpg",
+
+
+"hfov": 150,
+"pitch": -15,
+"yaw": 160,
+
+   "autoRotate": -2, "autoRotateInactivityDelay": 2000,
+
+"mouseZoom": false,
+"keyboardZoom": false,
+"showZoomCtrl": false,
+
+   "showControls": false,
+"friction": 0.1,
+"autoLoad": true,
+"hotSpots": [
+]
+});
+</script><noscript><p>Browser does not support script.</p></noscript>  
+
+</div>
+
+<div class="_container -bottom">
+
+    <div class="central-block -bg-crimson">
+        <div class="centralCont">
+            <a href="https://virtualtour.hull.ac.uk/take-a-look-around/area-of-interest/choose-your-subject/history" class="button -default-btn -crimson-text lightBoxVTLink">Explore the virtual tour</a>
+        </div>
+    </div>
+</div>
+
+</section>
+
+
+
+
+
+
+
+
+
+
+
+<section class="fees -bg-grey" id="fees">
+<div class="_container">
+    <div class="_content">
+
+        <div class="">
+            <h3 class="heading-2 -big -bold">
+                Fees and funding
+            </h3>
+
+            <div class="details">
+                <div class="container" role="radiogroup" aria-label="Student fees and additional costs">
+                    <div class="tab-container">
+                        <input
+                        type="radio"
+                        title="Student fees"
+                        name="fees-tabs"
+                        id="studentFees"
+                        checked=""
+                        />
+
+                        <input
+                        type="radio"
+                        title="Additional costs"
+                        name="fees-tabs"
+                        id="additional"
+                        />
+
+                        <div class="tabs flex-tabs">
+                            <label for="studentFees" id="studentFees-label" class="tab studentFees">
+                                Student Fees
+                            </label>
+
+                            <label for="additional" id="additional-label" class="tab additional">
+                                Additional costs
+                            </label>
+
+                            <div id="studentFees-panel" class="panel studentFees active">
+
+                                
+                                      <div class="standard-info">
+      <div class="standard-fees">
+          <div class="home">
+
+            <span>
+              UK
+              
+            </span>
+
+            <p><strong>&pound;9,250 per year*</strong></p>
+
+            
+
+          </div>
+          <div class="international">
+
+            <span>
+              EU/International
+              
+              </span>
+
+            <p><strong>&pound;15,400 per year</strong></p>
+
+            
+            
+          </div>
+      </div>
+
+      <div class="more-info">
+<p><strong>*The amount you pay may increase each year, in line with inflation - but capped to the Retail Price Index (RPI).</strong></p>
+<p>The fees shown are for 2022 entry. The fees for 2023 have not yet been confirmed and may increase.</p>
+<p>UK students can take out a tuition fee loan to cover the cost of their course and a maintenance loan of up to &pound;9,706 to cover living costs.</p>
+<p>Substantial <a href="https://www.hull.ac.uk/choose-hull/study-at-hull/money/scholarships-and-awards?l=int">discounts</a> are available for International students.&nbsp;&nbsp;</p>
+<p>More information on fees can be found in the&nbsp;<a title="Undergrad tuition fees" href="/choose-hull/study-at-hull/money/money">Money section</a>&nbsp;of our website.</p>          </div>
+  </div>
+
+
+                                
+                                                                                                        
+                            </div>
+
+                            <div id="additional-panel" class="panel additional">
+
+                                
+                                          <div class="additional-info">
+          <div class="more-info">
+              <p>Your tuition fees will cover most costs associated with your programme (including registration, tuition, supervision, assessment and examination).<br /><br />There are some extra costs that you might have to pay, or choose to pay, depending on your programme of study and the decisions you make. The list below has some examples, and any extra costs will vary.</p>
+<ul>
+<li>Books (you&rsquo;ll have access to books from your module reading lists in the library, but you may want to buy your own copies)</li>
+<li>Optional field trips</li>
+<li>Study abroad (including travel costs, accommodation, visas, immunisation)</li>
+<li>Placement costs (including travel costs and accommodation)</li>
+<li>Student visas (international students)</li>
+<li>Laptop (you&rsquo;ll have access to laptops and PC&rsquo;s on campus, but you may want to buy your own)</li>
+<li>Printing and photocopying</li>
+<li>Professional-body membership</li>
+<li>Graduation (gown hire and photography)</li>
+</ul>
+<p>Remember, you&rsquo;ll still need to take into account your living costs. This could include accommodation, travel and food &ndash; to name just a few.&nbsp;</p>
+          </div>
+      </div>
+
+
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+
+    </div>
+</div>
+</section>
+
+
+<section class="pull-out-banner">
+<div class="_container">
+    <div class="_content">
+
+        <div class="strip">
+            <div>
+                <p><strong>An affordable city for students</strong></p>
+                <p>From bills, to meals, to pints – you’ll find that your money goes a lot further in Hull.</p>
+            </div>
+            <div>
+                <a href="/choose-hull/student-life/" title="Find out more about Hull as an affordable city" aria-label="Find out more about Hull as an affordable city" class="button -default-btn -plum-text">Find out more</a>
+            </div>
+        </div>
+
+    </div>
+</div>
+</section>
+
+
+
+
+
+
+
+
+
+
+<section class="future" id="future">
+<div class="_container">
+<div class="_content">
+
+
+  <div class="future-container threeCol">
+
+    <div class="heading">
+      <h3 class="heading-2 -big -bold">
+        Your future prospects
+      </h3>
+    </div>
+
+    <div class="roles">
+      <ul>
+<li data-gc-list-depth="1" data-gc-list-style="bullet">Researcher</li>
+<li data-gc-list-depth="1" data-gc-list-style="bullet">Teacher</li>
+<li data-gc-list-depth="1" data-gc-list-style="bullet">Civil servant</li>
+<li data-gc-list-depth="1" data-gc-list-style="bullet">Historian</li>
+<li data-gc-list-depth="1" data-gc-list-style="bullet">Archaeologist</li>
+<li data-gc-list-depth="1" data-gc-list-style="bullet">Museum or gallery conservator</li>
+<li data-gc-list-depth="1" data-gc-list-style="bullet">Auctioneer</li>
+<li data-gc-list-depth="1" data-gc-list-style="bullet">Heritage management</li>
+<li data-gc-list-depth="1" data-gc-list-style="bullet">Archivist</li>
+</ul>
+    </div>
+    <div class="description">
+      <p>The way we teach history gives you skills that employers value. By explaining, supporting and defending your ideas, you&rsquo;ll become a better communicator.</p>
+<p>We also develop your digital literacy through diverse teaching and learning&nbsp;methods, helping you build skills that you can draw on throughout your career.</p>
+    </div>
+
+    <div class="unistats">
+
+      
+            <div class="kis-widget"
+    style="min-width:190px;"
+    data-institution="10007149"
+    data-course="UGHISTXFU01"
+    data-kismode="FullTime" 
+    data-orientation="responsive"
+    data-language="en-GB"></div>
+
+
+    </div>
+
+  </div>
+
+</div>
+</div>
+</section>
+
+
+
+
+
+
+
+
+
+
+<section class="what-next -bg-blue" id="next">
+
+<div class="image-container">
+
+    <picture>
+        <source data-sal="fade" data-sal-duration="1500" srcset="/assets/section/courses/ug/images/test-images/hull-open-day-july.jpg?f=webp&q=85" alt="Open Day at University of Hull" type="image/webp">
+        <source data-sal="fade" data-sal-duration="1500" srcset="/assets/section/courses/ug/images/test-images/hull-open-day-july.jpg?f=jpg&q=85" alt="Open Day at University of Hull" type="image/jpg">
+        <img data-sal="fade" data-sal-duration="1500" src="/assets/section/courses/ug/images/test-images/hull-open-day-july.jpg?q=85" alt="Open Day at University of Hull" />
+    </picture>
+
+</div>
+
+<div class="_container">
+    <div class="_content">
+
+        <h3 class="heading-2 -big -bold">
+            Ready to apply?
+        </h3>
+
+        
+                      <p>Clearing is open. This is your opportunity to get a place at uni if you don’t have one already – for whatever reason. It’s your chance to get the degree you need and the future you want.</p>
+          <a href="https://evision.hull.ac.uk/urd/sits.urd/run/siw_sso.go?ktoRthcHkGXx3C3FAiB0k2BWb5vR6bRWIhNvLgRUfHrPJdo5H4" rel="noopener" class="button -default-btn -blue-text" target="_blank">APPLY ONLINE NOW </a>
+
+        <a href="/choose-hull/study-at-hull/admissions/undergraduate/how-to-apply" class="button -outline-btn">HOW TO APPLY</a>
+
+    </div>
+</div>
+
+<div class="fixed-info">
+    <div class="tag">Not ready to apply?</div>
+    <h3 class="title">Visit our Open Day</h3>
+    <a href="/choose-hull/study-at-hull/visit-us/open-days" class="button -bg-plum">Book a place</a>
+</div>
+
+</section>
+
+
+
+
+
+<section class="related-courses">
+<div class="_container">
+<div class="_content">
+
+  <div class="heading">
+    <h3 class="heading-2 -big -bold">
+      You might also like
+    </h3>
+  </div>
+
+  <div class="courses-container">
+
+    <div class="frame" id="frameRelatedCourses">
+      <ul class="">
+
+
+          <li class="items">
+            <a href="/study/undergraduate/history-and-politics-ba-hons" title="BA (Hons) History and Politics Course">
+              <p>Undergraduate</p>
+
+              <h4 class="heading-3 -bold">
+                History and Politics 
+              </h4>
+              <p>Enhance your knowledge of the human experience over the long term, to apply historical insights to the study of politics and governance today. </p>
+            </a>
+          </li>
+
+
+
+      </ul>
+    </div>
+
+    <div class="controls">
+      <button class="mods-prev" aria-label="Previous"><i class="fas fa-angle-left"><!-- Previous --></i></button>
+      <button class="mods-next" aria-label="Next"><i class="fas fa-angle-right"><!-- Next --></i></button>
+    </div>
+
+    <div class="scrollbar">
+      <div class="handle">
+        <div class="mousearea"></div>
+      </div>
+    </div>
+
+  </div>
+
+</div>
+</div>
+</section>
+
+
+
+
+
+
+
+
+
+
+<section class="hull-highlights -bg-grey">
+<div class="_container">
+<div class="_content">
+  <div class="content">
+    <h3 class="heading-2 -big -bold">
+      This. Is. Hull.
+    </h3>
+    <p>A place where we stand up to kings, do deals with the world and take a wrecking ball to the slave trade. A place where culture stands out and the phone boxes are a different colour. A place where we&#39;re free-thinking, independent and proud of it.</p>
+  </div>
+
+  <div class="overflow">
+    <div class="hi-slider">
+
+      <div class="frame" id="frameHullHighlights">
+        <ul>
+
+              <li class="items">
+                <a href="/special/teamgb">
+                  <div class="image-container">
+                    <picture>
+                      <source data-sal="fade" data-sal-duration="1500" srcset="/editor-assets/archived-content/teamgb/images/hull-university-team-gb-partnership-launch-28th-january-2019-26-recovered.x2815bdaf.jpg?f=webp&amp;q=85" alt="Hull-University-Team-GB-Partnership-Launch---28th-January-2019-26-Recovered" type="image/webp">
+                      <source data-sal="fade" data-sal-duration="1500" srcset="/editor-assets/archived-content/teamgb/images/hull-university-team-gb-partnership-launch-28th-january-2019-26-recovered.x2815bdaf.jpg?f=jpg&amp;q=85" alt="Hull-University-Team-GB-Partnership-Launch---28th-January-2019-26-Recovered" type="image/jpg">
+                      <img data-sal="fade" data-sal-duration="1500" src="/editor-assets/archived-content/teamgb/images/hull-university-team-gb-partnership-launch-28th-january-2019-26-recovered.x2815bdaf.jpg?f=jpg&amp;q=85" alt="Hull-University-Team-GB-Partnership-Launch---28th-January-2019-26-Recovered" />
+                    </picture>
+                  </div>
+                  <p class="caption -bg-plum"><strong>Team GB raising the bar</strong></p>
+                </a>
+              </li>
+              <li class="items">
+                <a href="/choose-hull/student-life/accommodation">
+                  <div class="image-container">
+                    <picture>
+                      <source data-sal="fade" data-sal-duration="1500" srcset="/assets/section/open-days/site-elements/images/general/westfield-court-accommodation.xef4591f8.jpg?f=webp&amp;q=85" alt="Westfield Court accommodation" type="image/webp">
+                      <source data-sal="fade" data-sal-duration="1500" srcset="/assets/section/open-days/site-elements/images/general/westfield-court-accommodation.xef4591f8.jpg?f=jpg&amp;q=85" alt="Westfield Court accommodation" type="image/jpg">
+                      <img data-sal="fade" data-sal-duration="1500" src="/assets/section/open-days/site-elements/images/general/westfield-court-accommodation.xef4591f8.jpg?f=jpg&amp;q=85" alt="Westfield Court accommodation" />
+                    </picture>
+                  </div>
+                  <p class="caption -bg-teal"><strong>Accommodation guaranteed</strong></p>
+                </a>
+              </li>
+              <li class="items">
+                <a href="/choose-hull/student-life">
+                  <div class="image-container">
+                    <picture>
+                      <source data-sal="fade" data-sal-duration="1500" srcset="/editor-assets/images/about/about-hull.x7f2441a7.jpg?f=webp&amp;q=85" alt="About-Hull" type="image/webp">
+                      <source data-sal="fade" data-sal-duration="1500" srcset="/editor-assets/images/about/about-hull.x7f2441a7.jpg?f=jpg&amp;q=85" alt="About-Hull" type="image/jpg">
+                      <img data-sal="fade" data-sal-duration="1500" src="/editor-assets/images/about/about-hull.x7f2441a7.jpg?f=jpg&amp;q=85" alt="About-Hull" />
+                    </picture>
+                  </div>
+                  <p class="caption -bg-blue"><strong>Life in Hull</strong></p>
+                </a>
+              </li>
+              <li class="items">
+                <a href="https://hulluniunion.com/" target="_blank" rel="noopener">
+                  <div class="image-container">
+                    <picture>
+                      <source data-sal="fade" data-sal-duration="1500" srcset="/editor-assets/images/hull-uni-campus/student-central.xf6c9bcc3.jpg?f=webp&amp;q=85" alt="Student Central" type="image/webp">
+                      <source data-sal="fade" data-sal-duration="1500" srcset="/editor-assets/images/hull-uni-campus/student-central.xf6c9bcc3.jpg?f=jpg&amp;q=85" alt="Student Central" type="image/jpg">
+                      <img data-sal="fade" data-sal-duration="1500" src="/editor-assets/images/hull-uni-campus/student-central.xf6c9bcc3.jpg?f=jpg&amp;q=85" alt="Student Central" />
+                    </picture>
+                  </div>
+                  <p class="caption -bg-teal-light"><strong>Hull University Union</strong></p>
+                </a>
+              </li>
+              <li class="items">
+                <a href="/choose-hull/student-life/student-support/student-support">
+                  <div class="image-container">
+                    <picture>
+                      <source data-sal="fade" data-sal-duration="1500" srcset="/editor-assets/images/students/press-or-publication-students-around-picnic-bench-in-pearson-park-1900x800.xc6ed28a5.jpg?f=webp&amp;q=85" alt="Press or Publication-Students around Picnic Bench in Pearson Park 1900x800" type="image/webp">
+                      <source data-sal="fade" data-sal-duration="1500" srcset="/editor-assets/images/students/press-or-publication-students-around-picnic-bench-in-pearson-park-1900x800.xc6ed28a5.jpg?f=jpg&amp;q=85" alt="Press or Publication-Students around Picnic Bench in Pearson Park 1900x800" type="image/jpg">
+                      <img data-sal="fade" data-sal-duration="1500" src="/editor-assets/images/students/press-or-publication-students-around-picnic-bench-in-pearson-park-1900x800.xc6ed28a5.jpg?f=jpg&amp;q=85" alt="Press or Publication-Students around Picnic Bench in Pearson Park 1900x800" />
+                    </picture>
+                  </div>
+                  <p class="caption -bg-plum"><strong>We&#39;re here. For you.</strong></p>
+                </a>
+              </li>
+              <li class="items">
+                <a href="https://sport.hull.ac.uk/facilities/" target="_blank" rel="noopener">
+                  <div class="image-container">
+                    <picture>
+                      <source data-sal="fade" data-sal-duration="1500" srcset="/work-with-us/research/site-elements/images/groups/sport-psychology-coaching.xf5f344f1.jpg?f=webp&amp;q=85" alt="Basketball" type="image/webp">
+                      <source data-sal="fade" data-sal-duration="1500" srcset="/work-with-us/research/site-elements/images/groups/sport-psychology-coaching.xf5f344f1.jpg?f=jpg&amp;q=85" alt="Basketball" type="image/jpg">
+                      <img data-sal="fade" data-sal-duration="1500" src="/work-with-us/research/site-elements/images/groups/sport-psychology-coaching.xf5f344f1.jpg?f=jpg&amp;q=85" alt="Basketball" />
+                    </picture>
+                  </div>
+                  <p class="caption -bg-teal"><strong>&#163;16-million sports facilities</strong></p>
+                </a>
+              </li>
+              <li class="items">
+                <a href="/choose-hull/student-life">
+                  <div class="image-container">
+                    <picture>
+                      <source data-sal="fade" data-sal-duration="1500" srcset="/editor-assets/images/2017/hull-hero.x1d48705e.png?f=webp&amp;q=85" alt="hull-hero" type="image/webp">
+                      <source data-sal="fade" data-sal-duration="1500" srcset="/editor-assets/images/2017/hull-hero.x1d48705e.png?f=jpg&amp;q=85" alt="hull-hero" type="image/jpg">
+                      <img data-sal="fade" data-sal-duration="1500" src="/editor-assets/images/2017/hull-hero.x1d48705e.png?f=jpg&amp;q=85" alt="hull-hero" />
+                    </picture>
+                  </div>
+                  <p class="caption -bg-crimson"><strong>Discover our university</strong></p>
+                </a>
+              </li>
+        </ul>
+      </div>
+
+      <div class="controls">
+        <button class="mods-prev" aria-label="Previous"><i class="fas fa-angle-left"><!-- Previous --></i></button>
+        <button class="mods-next" aria-label="Next"><i class="fas fa-angle-right"><!-- Next --></i></button>
+      </div>
+
+      <div class="scrollbar">
+        <div class="handle">
+          <div class="mousearea"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+</div>
+</section>
+
+
+
+
+
+
+
+
+
+<section class="footnote">
+<div class="_container">
+    <div class="_content">
+            <p># National Student Survey (NSS) 2021, HEIs only.</p>
+            <p>* Number of students in work or further study 15 months after graduating: UK domicile full-time first degree leavers, Graduate Outcomes survey for the academic year 2017/18, published by HESA 2020.</p>
+ </div>
+</div>
+</section>
+
+
+
+
+
+
+
+
+
+
+</article>
+<footer>
+<div class="container">
+<div class="staff">
+<p><strong style="display: block; margin-bottom: 40px; font-size: 24px; font-family: Stag,trebuchet,serif;">Staff and students</strong></p>
+<ul role="list">
+<li><a title="Schools and Faculties" class="sys_0 sys_t28406" href="/faculties">Faculties</a></li>
+<li><a title="Check your email" rel="noopener noreferrer" class="sys_16" href="http://365.hull.ac.uk/">Mail</a></li>
+<li><a title="Library Services" class="sys_0 sys_t0" href="/choose-hull/study-at-hull/library">Library</a></li>
+<li><a title="Canvas" rel="noopener noreferrer" class="sys_16" href="https://canvas.hull.ac.uk">Canvas</a></li>
+<li><a title="Student Support" class="sys_0 sys_t0" href="/choose-hull/student-life/student-support">Student Support</a></li>
+<li><a title="Your Timetable" rel="noopener noreferrer" class="sys_16" href="https://mytimetable.hull.ac.uk">Timetables</a></li>
+<li><a title="SharePoint" rel="noopener noreferrer" class="sys_16" href="https://share.hull.ac.uk">SharePoint</a></li>
+<li><a title="Information and Communication Technology Department" class="sys_16" href="/ict/">ICTD</a></li>
+<li><a title="Online Order and Payment Portal" rel="noopener noreferrer" class="sys_16" href="https://shop.hull.ac.uk">Online Order and Payment Portal</a></li>
+</ul>
+</div>
+<div class="contact" typeof="Organization">
+<p><strong style="display: block; margin-bottom: 40px; font-size: 24px; font-family: Stag,trebuchet,serif;">Contact</strong></p>
+<ul role="list">
+<li property="telephone"><a title="For general enquiries, call us on +44 (0)1482 346311" class="sys_16" href="tel:+441482346311">+44 (0)1482 346311</a></li>
+</ul>
+</div>
+<div class="find" typeof="Organization">
+<p><strong style="display: block; margin-bottom: 40px; font-size: 24px; font-family: Stag,trebuchet,serif;">Find us</strong></p>
+<address typeof="PostalAddress">
+<p><strong style="display: block; margin-bottom: 20px; font-size: 20px; font-family: Stag,trebuchet,serif;"><span property="name">University of Hull</span></strong></p>
+<ul role="list">
+<li property="addressLocality"><span>Hull</span>, <span>UK</span></li>
+<li property="postalCode">HU6 7RX</li>
+</ul>
+</address>
+<ul role="list">
+<li><a title="How to find us" class="sys_0 sys_t28406" href="/choose-hull/study-at-hull/visit-us/how-to-find-us">Getting here</a></li>
+<li><a title="Download the campus map" class="sys_21" href="/editor-assets/docs/campus-map.pdf">Campus map</a></li>
+<li><a title="AccessAble" target="_blank" rel="noopener noreferrer" class="sys_16" href="https://www.accessable.co.uk/university-of-hull/">AccessAble</a></li>
+</ul>
+</div>
+<div class="map"></div>
+<div class="social">
+<ul role="list">
+<li><a title="Visit us on Facebook" aria-label="Visit us on Facebook" target="_blank" rel="noopener noreferrer" class="sys_16" href="https://www.facebook.com/UniversityOfHull"><span class="fab fa-facebook-f">&nbsp;</span></a></li>
+<li><a title="Visit us on Twitter" aria-label="Visit us on Twitter" target="_blank" rel="noopener noreferrer" class="sys_16" href="https://twitter.com/UniOfHull"><span class="fab fa-twitter">&nbsp;</span></a></li>
+<li><a title="Visit us on Snapchat" aria-label="Visit us on Snapchat" target="_blank" rel="noopener noreferrer" class="sys_16" href="https://www.snapchat.com/add/uniofhull"><span class="fab fa-snapchat-ghost">&nbsp;</span></a></li>
+<li><a title="Visit our YouTube channel" aria-label="Visit our YouTube channel" target="_blank" rel="noopener noreferrer" class="sys_16" href="https://www.youtube.com/user/marcomshull"><span class="fab fa-youtube">&nbsp;</span></a></li>
+<li><a title="Visit our Flickr feed" aria-label="Visit our Flickr feed" target="_blank" rel="noopener noreferrer" class="sys_16" href="https://www.flickr.com/photos/universityofhull"><span class="fab fa-flickr">&nbsp;</span></a></li>
+<li><a title="Visit us on LinkedIn" aria-label="Visit us on LinkedIn" target="_blank" rel="noopener noreferrer" class="sys_16" href="https://www.linkedin.com/edu/the-university-of-hull-12668"><span class="fab fa-linkedin-in">&nbsp;</span></a></li>
+<li><a title="View our Instagram page" aria-label="View our Instagram page" target="_blank" rel="noopener noreferrer" class="sys_16" href="https://www.instagram.com/universityofhull/"><span class="fab fa-instagram">&nbsp;</span></a></li>
+</ul>
+</div>
+<div class="copy"><span>&copy;</span> University of Hull, 2022</div>
+<div class="legal">
+<ul role="list">
+<li><a title="accessibility" class="sys_0 sys_t0" href="/legal/accessibility">Accessibility</a></li>
+<li><a title="freedom-of-information" class="sys_0 sys_t0" href="/legal/freedom-of-information">Freedom of information</a></li>
+<li><a title="model-publication-scheme" class="sys_0 sys_t0" href="/legal/model-publication-scheme">Model Publication Scheme</a></li>
+<li><a title="modern-slavery-act" class="sys_0 sys_t0" href="/legal/modern-slavery-act">Modern Slavery</a></li>
+<li><a title="privacy-and-cookies" class="sys_0 sys_t0" href="/legal/privacy-and-cookies">Privacy and cookies</a></li>
+<li><a title="terms-and-conditions" class="sys_0 sys_t0" href="/legal/terms-and-conditions">Website terms and conditions</a></li>
+</ul>
+</div>
+</div>
+</footer>
+
+
+        </main>
+        <a href="#top" class="cd-top">Top</a>
+
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script><noscript><p>Browser does not support script.</p></noscript>
+
+        <script src="/site-elements/js/site.js?build=1201104"></script><noscript><p>Browser does not support script.</p></noscript>
+        <script src="https://kit.fontawesome.com/d19d73a48a.js" crossorigin="anonymous" defer="defer"></script><noscript><p>Browser does not support script.</p></noscript>
+        <script src="/assets/developer/js/4cc3551b1l1ty.js"></script><noscript><p>Browser does not support script.</p></noscript>
+    
+<div class="aspNetHidden">
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CFB0EF75" />
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+</div>
+    <script  type="text/javascript" src="/assets/section/courses/ug/site-elements/js/vendor.js?version=60686&amp;build=153133"></script><noscript><p>Browser does not support script.</p></noscript>
+    <script  type="text/javascript" src="/assets/section/courses/ug/site-elements/js/ug-courses.js?version=68029&amp;build=153133"></script><noscript><p>Browser does not support script.</p></noscript>
+</form>
+
+</body>
+
+</html>

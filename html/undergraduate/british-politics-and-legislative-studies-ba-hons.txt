@@ -1,0 +1,2394 @@
+
+<!DOCTYPE html>
+
+<html lang="en-GB" dir="ltr">
+
+<head><meta http-equiv="X-UA-Compatible" content="IE=Edge" /><meta charset="utf-8"><title>
+BA (Hons) British Politics and Legislative Studies Course | University of Hull
+</title><meta name="theme-color" content="#991E66" />
+
+
+
+<meta name="GENERATOR" content="Contensis CMS Version 15.3" />
+<meta name="description" content="Get to the heart of UK politics and law with a year placement at Westminster on this degree at the University of Hull. Apply now to start in 2022." />
+<meta name="Keywords" content="politics degree, politics and legislative studies, british politics, politics course, politics, law, westminster placement, london placement, placement year, uk politics, L230, 2022, 2023" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="clearing" content="0" />
+<meta name="entry_id" content="9ad6b205-3280-4401-8e06-09afa0e08da6" />
+
+
+<link rel="preload" href="/assets/developer/fonts/stag/stag-light.woff" as="font" type="font/woff" crossorigin="anonymous" /><link rel="preload" href="/assets/developer/fonts/stag/stag-light.woff2" as="font" type="font/woff2" crossorigin="anonymous" /><link rel="preload" href="/assets/developer/fonts/stag/stag-semibold.woff" as="font" type="font/woff" crossorigin="anonymous" /><link rel="preload" href="/assets/developer/fonts/stag/stag-semibold.woff2" as="font" type="font/woff2" crossorigin="anonymous" /><link rel="preload" href="/assets/developer/fonts/stag-sans/stagsans-book.woff" as="font" type="font/woff" crossorigin="anonymous" /><link rel="preload" href="/assets/developer/fonts/stag-sans/stagsans-book.woff2" as="font" type="font/woff2" crossorigin="anonymous" /><link rel="preload" href="/assets/developer/fonts/stag-sans/stagsans-semibold.woff" as="font" type="font/woff" crossorigin="anonymous" /><link rel="preload" href="/assets/developer/fonts/stag-sans/stagsans-semibold.woff2" as="font" type="font/woff2" crossorigin="anonymous" /><link rel="preload" href="/assets/developer/fonts/stag-sans/stagsans-bold.woff" as="font" type="font/woff" crossorigin="anonymous" /><link rel="preload" href="/assets/developer/fonts/stag-sans/stagsans-bold.woff2" as="font" type="font/woff2" crossorigin="anonymous" /><link rel="preload" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" as="style" crossorigin="anonymous" /><link rel="preconnect" href="https://unpkg.com" />
+
+    <!-- Favicons -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/site-elements/img/favicon/apple-touch-icon.png?v=XBJ4bz98X3" /><link rel="icon" type="image/png" sizes="32x32" href="/site-elements/img/favicon/favicon-32x32.png?v=XBJ4bz98X3" /><link rel="icon" type="image/png" sizes="194x194" href="/site-elements/img/favicon/favicon-194x194.png?v=XBJ4bz98X3" /><link rel="icon" type="image/png" sizes="192x192" href="/site-elements/img/favicon/android-chrome-192x192.png?v=XBJ4bz98X3" /><link rel="icon" type="image/png" sizes="16x16" href="/site-elements/img/favicon/favicon-16x16.png?v=XBJ4bz98X3" />
+    <!--link rel="manifest" href="/site-elements/img/favicon/site.webmanifest?v=XBJ4bz98X3" /-->
+    <link rel="mask-icon" href="/site-elements/img/favicon/safari-pinned-tab.svg?v=XBJ4bz98X3" color="#54585a" /><link rel="shortcut icon" href="/site-elements/img/favicon/favicon.ico?v=XBJ4bz98X3" /><meta name="apple-mobile-web-app-title" content="Uni of Hull" /><meta name="application-name" content="Uni of Hull" /><meta name="msapplication-TileColor" content="#ce0058" /><meta name="msapplication-config" content="/site-elements/img/favicon/browserconfig.xml?v=XBJ4bz98X3" /><link href="/assets/developer/css/layout.css" rel="stylesheet" type="text/css" /><link href="/assets/developer/css/site.css?version=67872" rel="stylesheet" type="text/css" />
+<link href="/assets/section/courses/ug/site-elements/css/ug-courses.css?version=68541" rel="stylesheet" type="text/css" />
+<link href="/assets/components/media/panoramic/pannellum.css?version=65086" rel="stylesheet" type="text/css" />
+<!--
+ControlID:Ctrl2946671d351a41529ef9135870e9574b of type CMS_API.WebUI.WebControls.RazorView has set the maximum duration to 600 seconds
+ControlID:__Page of type ASP.study_undergraduate_british_politics_and_legislative_studies_ba_hons_aspx has set the maximum duration to 3600 seconds
+Cache Enabled using rule ControlID:Ctrl2946671d351a41529ef9135870e9574b of type CMS_API.WebUI.WebControls.RazorView has set the maximum duration to 600 seconds
+Cache Page Render Time 13/07/2022 15:38:45
+
+-->		<script  type="text/javascript" src="/assets/components/media/panoramic/pannellum.js?version=65087&amp;build=153133"></script>
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous" /><!-- Google Tag Manager -->
+<script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P978LR');
+</script>
+<!-- End Google Tag Manager -->
+
+    <script defer="" src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
+    <script src="/site-elements/js/vendor/modernizr-custom.min.js" defer="defer"></script>
+<meta name="twitter:card" content="summary" /><meta name="twitter:site" content="@UniOfHull" /><meta name="twitter:title" content="British Politics and Legislative Studies" /><meta name="twitter:description" content="Get to the heart of UK politics and law with a year placement at Westminster on this degree at the University of Hull. Apply now to start in 2022." /><meta name="twitter:image" /><meta name="og:title" content="British Politics and Legislative Studies" /><meta name="og:url" content="https://www.hull.ac.uk/study/undergraduate/british-politics-and-legislative-studies-ba-hons.aspx" /><meta name="og:type" content="website" /><meta name="og:description" content="Get to the heart of UK politics and law with a year placement at Westminster on this degree at the University of Hull. Apply now to start in 2022." /><meta name="og:image" /><link rel="canonical" href="https://www.hull.ac.uk/study/undergraduate/british-politics-and-legislative-studies-ba-hons.aspx" /></head>
+
+<body vocab="https://schema.org/" typeof="WebPage">
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P978LR" title="Google Tag Manager" style="height:0;width:0;display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><!--[if lt IE 9]>
+<p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a class="button button--green" href="https://browsehappy.com/" target="_blank" rel="noopener">upgrade your browser</a> to improve your experience and security.</p>   
+<![endif]-->
+
+    <div>
+        <a href="#main-content" class="visuallyhidden focusable" style="color:#00828b;font-weight:600;cursor:pointer;">Skip to main content</a>
+    </div>
+
+    <form method="post" action="/study/undergraduate/british-politics-and-legislative-studies-ba-hons" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="tLuiFWdyLaEVFI3dtH5vFp4D/h2tPpvHtgFDkmd3UUwCXSX+l7mL2U4DsJcm92BPMjEQ52XqjLFMhBJk6Iw6HqQqeuo=" />
+</div>
+
+
+
+        <main class="wrap" id="top">
+
+            
+
+
+<header class="floating-menu">
+<section class="main-navigation">
+<div class="content">
+<div class="logo"><a class="image-link" title="University homepage" href="/"> <img class="black" alt="The University of Hull" src="//www.hull.ac.uk/site-elements/img/layout/header/logo/UoH-logo-white.svg" height="95" width="150" /> </a></div>
+<nav>
+<ul class="desktop-only" role="list">
+<li class="study"><a class="image-link" role="button" rel="nofollow" href="#0">Study</a></li>
+<li class="choose"><a class="image-link" role="button" rel="nofollow" href="#0">Choose Hull</a></li>
+<li class="international"><a class="image-link" role="button" rel="nofollow" href="#0">International</a></li>
+<li class="research"><a class="image-link" role="button" rel="nofollow" href="#0">Research</a></li>
+<li class="business"><a class="image-link" role="button" rel="nofollow" href="#0">Business</a></li>
+<li class="work"><a class="image-link" role="button" rel="nofollow" href="#0">Work with us</a></li>
+<li class="search"><a class="image-link" role="button" aria-label="Search" rel="nofollow" href="#0"><span class="fa fa-search">&nbsp;</span></a></li>
+</ul>
+<div class="ham-menu mobile-only"><button class="hamburger hamburger--htx" title="Main menu"> <span>toggle menu</span> </button></div>
+</nav></div>
+</section>
+<section class="menu-items search">
+<div class="content">
+<div class="search-container">
+<div class="select-container"><select id="filters" class="select-filter" aria-label="Search categories" name="filters">
+<option selected="selected">All</option>
+<option value="courses">Courses</option>
+<option value="research">Research</option>
+<option value="staff">Staff</option>
+<option value="news">News</option>
+</select></div>
+<div class="searchbox-container"><input id="siteSearch" accesskey="q" class="search" title="Search the website" type="search" autocomplete="off" placeholder="Search the website" size="15" name="query" /> <input id="goButton" title="Search our website" type="button" /></div>
+</div>
+</div>
+</section>
+<section class="navigation">
+<div class="content">
+<div class="primary mobile-only">
+<div class="magic-box">
+<ul role="list">
+<li class="study"><a class="image-link" role="button" rel="nofollow" href="#0">Study</a></li>
+<li class="choose"><a class="image-link" role="button" rel="nofollow" href="#0">Choose Hull</a></li>
+<li class="international"><a class="image-link" role="button" rel="nofollow" href="#0">International</a></li>
+<li class="research"><a class="image-link" role="button" rel="nofollow" href="#0">Research</a></li>
+<li class="business"><a class="image-link" role="button" rel="nofollow" href="#0">Business</a></li>
+<li class="work"><a class="image-link" role="button" rel="nofollow" href="#0">Work with us</a></li>
+</ul>
+</div>
+</div>
+<div class="secondary">
+<div class="menu-items study"><strong>Choose your subject</strong>
+
+<ul role="list">
+    <li><a href="/faculties/subjects/accounting-and-finance">Accounting and Finance</a></li>
+    <li><a href="/faculties/subjects/american-studies">American Studies</a></li>
+    <li><a href="/faculties/subjects/biochemistry">Biochemistry</a></li>
+    <li><a href="/faculties/subjects/biological-and-marine-science">Biology</a></li>
+    <li><a href="/faculties/subjects/biomedical-sciences">Biomedical Science</a></li>
+    <li><a href="/faculties/subjects/business-management">Business and Management</a></li>
+    <li><a href="/faculties/subjects/chemical-engineering">Chemical Engineering</a></li>
+    <li><a href="/faculties/subjects/chemistry">Chemistry</a></li>
+    <li><a href="/faculties/subjects/computer-science">Computer Science</a></li>
+    <li><a href="/faculties/subjects/criminology-and-professional-policing">Criminology and Professional Policing</a></li>
+    <li><a href="/faculties/subjects/drama">Drama, Theatre and Performance</a></li>
+    <li><a href="/faculties/subjects/economics">Economics</a></li>
+    <li><a href="/faculties/subjects/education-teaching-and-childhood-studies">Education, Teaching and Childhood Studies</a></li>
+    <li><a href="/faculties/subjects/electrical-and-electronic-engineering">Electrical and Electronic Engineering</a></li>
+    <li><a href="/faculties/subjects/english">English and Creative Writing</a></li>
+    <li><a href="/faculties/subjects/environmental-science">Environmental Science</a></li>
+    <li><a href="/faculties/subjects/film-and-media-studies">Film and Media Studies</a></li>
+    <li><a href="/faculties/subjects/forensic-science">Forensic Science</a></li>
+    <li><a href="/faculties/subjects/game-graphic-design">Game and Graphic Design</a></li>
+    <li><a href="/faculties/subjects/geography">Geography</a></li>
+    <li><a href="/faculties/subjects/health-nursing-and-midwifery">Health, Nursing and Midwifery</a></li>
+    <li><a href="/faculties/subjects/history">History</a></li>
+    <li><a href="/faculties/subjects/law">Law</a></li>
+    <li><a href="/faculties/subjects/marine-biology">Marine Biology</a></li>
+    <li><a href="/faculties/subjects/marketing">Marketing</a></li>
+    <li><a href="/faculties/subjects/mathematics">Mathematics</a></li>
+    <li><a href="/faculties/subjects/mechanical-engineering">Mechanical Engineering</a></li>
+    <li><a href="/faculties/subjects/medical-and-biomedical-engineering">Medical and Biomedical Engineering</a></li>
+    <li><a href="/faculties/subjects/medicine">Medicine</a></li>
+    <li><a href="/faculties/subjects/music">Music</a></li>
+    <li><a href="/faculties/subjects/philosophy">Philosophy</a></li>
+    <li><a href="/faculties/subjects/physics-and-astrophysics">Physics and Astrophysics</a></li>
+    <li><a href="/faculties/subjects/politics-and-international-studies">Politics and International Studies</a></li>
+    <li><a href="/faculties/subjects/psychology">Psychology</a></li>
+    <li><a href="/faculties/subjects/robotics-and-artificial-intelligence">Robotics and Artificial Intelligence</a></li>
+    <li><a href="/faculties/subjects/social-work">Social Work</a></li>
+    <li><a href="/faculties/subjects/sport-health-and-exercise-science">Sport, Health and Exercise Science</a></li>
+    <li><a href="/faculties/subjects/teacher-education">Teacher Education</a></li>
+    <li><a href="/faculties/subjects/zoology">Zoology</a></li>
+</ul>
+
+<div class="more-courses"><span>View all our courses:</span> <a title="View all our undergraduate courses" class="sys_0 sys_t0" href="/study/undergraduate">Undergraduate</a> <a title="View all our postgraduate taught courses" class="sys_0 sys_t0" href="/study/postgraduate/next-step">Postgraduate Taught</a> <a title="View all our postgraduate research courses" class="sys_0 sys_t34521" href="/study/postgraduate/research">Postgraduate Research</a> <a title="View all our PhD Scholarships" class="sys_0 sys_t28406" href="/study/postgraduate/research/phd">PhD Scholarships</a> <a title="View all our Online courses" target="_blank" rel="noopener" class="sys_16" href="https://online.hull.ac.uk">Online</a> <a class="orderpros" title="Order a prospectus" href="/study/order-or-download-a-prospectus">Order a prospectus</a></div>
+</div>
+<div class="menu-items choose">
+<div class="menu-item-containers"><strong>University and region</strong>
+
+
+
+<ul role="list">
+<li><a href="/choose-hull/university-and-region/about-us/about-the-university-of-hull">About the University of Hull</a></li>
+<li><a href="/choose-hull/university-and-region/team-gb/team-gb-partnership">Team GB Partnership</a></li>
+<li><a href="/choose-hull/university-and-region/the-city-of-hull/about-hull-and-the-region">Hull and the Region</a></li>
+<li><a href="/choose-hull/university-and-region/sustainability/sustainability">Sustainability</a></li>
+<li><a href="/choose-hull/university-and-region/key-documents">Key documents</a></li>
+</ul>
+</div>
+<div class="menu-item-containers"><strong>Study at Hull</strong>
+
+
+
+<ul role="list">
+<li><a href="/choose-hull/study-at-hull/visit-us">Visit Us</a></li>
+<li><a href="/choose-hull/study-at-hull/money">Fees and Finance</a></li>
+<li><a href="/choose-hull/study-at-hull/admissions">Applying to Hull</a></li>
+<li><a href="/choose-hull/study-at-hull/mature-students">Mature students</a></li>
+<li><a href="/choose-hull/study-at-hull/doctoral-college">Doctoral College</a></li>
+<li><a href="/choose-hull/study-at-hull/student-contract">Student Contract</a></li>
+<li><a href="/choose-hull/study-at-hull/careers-and-employability">Student Futures</a></li>
+<li><a href="/choose-hull/study-at-hull/library">Library</a></li>
+<li><a href="/choose-hull/study-at-hull/teaching-academy">Teaching Academy</a></li>
+</ul>
+</div>
+<div class="menu-item-containers"><strong>Student life</strong>
+
+
+
+<ul role="list">
+<li><a href="/choose-hull/student-life">Choose Hull</a></li>
+<li><a href="/choose-hull/student-life/student-support">Student support</a></li>
+<li><a href="/choose-hull/student-life/virtual-tour">Virtual tour</a></li>
+<li><a href="/choose-hull/student-life/accommodation">Accommodation</a></li>
+<li><a href="/choose-hull/student-life/students-union/students-union">Students&#39; union</a></li>
+<li><a href="/choose-hull/student-life/clubs-and-societies/clubs-and-societies">Clubs and societies</a></li>
+<li><a href="/choose-hull/student-life/sport-and-leisure">Sports and leisure</a></li>
+<li><a href="/choose-hull/student-life/graduation-ceremonies">Graduation ceremonies</a></li>
+</ul>
+</div>
+</div>
+<div class="menu-items international">
+<div class="heading"><a title="International home" class="sys_0 sys_t0" href="/international">Visit International home</a></div>
+<div class="main-links">
+<div><strong>International <br /> students</strong>
+<ul role="list">
+<li><a title="International students" class="sys_0 sys_t0" href="/international/international-students">International students</a></li>
+<li><a title="Studying in Hull" class="sys_0 sys_t0" href="/international/studying-in-hull">Studying in Hull</a></li>
+<li><a title="Where are you from?" class="sys_0 sys_t0" href="/international/country">Where are you from?</a></li>
+<li><a title="Inbound Exchanges and Visiting Students" class="sys_0 sys_t0" href="/international/inbound">International Exchange Students</a></li>
+<li><a title="International Application Guide" class="sys_0 sys_t0" href="/international/application-guide">How to apply</a></li>
+<li><a title="Pre-Sessional English" class="sys_0 sys_t0" href="/international/courses/pre-sessional-english">Pre-Sessional English</a></li>
+<li><a title="In-Sessional English" class="sys_0 sys_t0" href="/international/courses/in-sessional-english">In-Sessional English Language Support</a></li>
+<li><a title="Visas and Immigration" class="sys_0 sys_t0" href="/international/visas-and-immigration">Visas and Immigration</a></li>
+<li><a title="Planning your arrival" class="sys_0 sys_t0" href="/international/planning-your-arrival">Pre-Departure and Arrivals</a></li>
+<li><a title="Meet with us" class="sys_0 sys_t0" href="/international/meet-with-us">Meet with us</a></li>
+</ul>
+</div>
+<div><strong>Global Opportunities</strong>
+<ul role="list">
+<li><a title="Global Opportunities" class="sys_0 sys_t0" href="/choose-hull/study-at-hull/international/global-opportunities">Global Opportunities</a></li>
+</ul>
+</div>
+<div><strong>Global Engagement</strong>
+<ul role="list">
+<li><a title="Global Engagement" class="sys_0 sys_t0" href="/choose-hull/study-at-hull/international/global-engagement">Global Engagement</a></li>
+</ul>
+</div>
+<div><strong>Contact us<br /></strong>
+<ul role="list">
+<li><a title="Contact International" class="sys_0 sys_t0" href="/international/contact">Contact us</a></li>
+</ul>
+</div>
+<!--div>
+                        <strong>Short Courses</strong>
+                        <ul role="list">
+                            <li><a title="Supporting our researchers" href="#contensis" data-cms="{&quot;contentId&quot;:5358,&quot;contentTypeId&quot;:0}">Short courses</a></li>
+                        </ul>
+                    </div--></div>
+</div>
+<div class="menu-items research">
+<div class="heading"><a title="Our research" class="sys_0 sys_t0" href="/work-with-us/research"> Visit Research home </a></div>
+<div class="main-links">
+<div><strong>Our research challenges</strong>
+<ul role="list">
+<li><a title="Accelerating a net zero future" class="sys_0 sys_t0" href="/work-with-us/research/themes/accelerating-a-net-zero-future">Accelerating a net zero future</a></li>
+<li><a title="Promoting justice and fairness for all" class="sys_0 sys_t0" href="/work-with-us/research/themes/promoting-justice-and-fairness-for-all">Promoting justice and fairness for all</a></li>
+<li><a title="Improving health outcomes" class="sys_0 sys_t0" href="/work-with-us/research/themes/improving-health-outcomes">Improving health outcomes</a></li>
+<li><a title="Living with water" class="sys_0 sys_t0" href="/work-with-us/research/themes/living-with-water">Living with water</a></li>
+<li><a title="Enhancing heritage and creative industries" class="sys_0 sys_t0" href="/work-with-us/research/themes/enhancing-heritage-and-creative-industries">Enhancing heritage and creative industries</a></li>
+</ul>
+</div>
+<div><strong>Our research</strong>
+<ul role="list">
+<li><a title="Research Institutes" class="sys_16" href="/work-with-us/research/index.aspx#institutes">Research Institutes</a></li>
+<li><a title="Research Groups and Centres" class="sys_16" href="/work-with-us/research/index.aspx#groups-centres">Research Groups and Centres</a></li>
+<li><a title="Faculties, Schools and Departments" class="sys_0 sys_t28406" href="/faculties">Faculties, Schools and Departments</a></li>
+<li><a title="Research directory" class="sys_0 sys_t0" href="/work-with-us/research/research-directory">Research directory</a></li>
+</ul>
+</div>
+<div><strong>Our people</strong>
+<ul role="list">
+<li><a title="Meet our researchers" class="sys_16" href="/work-with-us/research/index.aspx#people">Meet our researchers</a></li>
+<li><a title="Research - Our people" class="sys_0 sys_t0" href="/work-with-us/research/our-people">Search our experts</a></li>
+</ul>
+</div>
+<div><strong>Research with us</strong>
+<ul role="list">
+<li><a title="Supporting our researchers" class="sys_0 sys_t28406" href="/work-with-us/research/why-join-us">Supporting our researchers</a></li>
+<li><a title="Postgraduate research" class="sys_0 sys_t34521" href="/study/postgraduate/research">Postgraduate research</a></li>
+<li><a title="Doctoral College" class="sys_0 sys_t0" href="/choose-hull/study-at-hull/doctoral-college">Doctoral College</a></li>
+</ul>
+</div>
+<!--div><strong>Research environment</strong>
+                        <ul role="list">
+                            <li><a title="Research integrity and governance" href="#contensis" data-cms="{&quot;contentId&quot;:5339,&quot;contentTypeId&quot;:0}">Research integrity and governance</a></li>
+                            <li><a title="Research news" href="/work-with-us/more/media-centre/news/news-archive.aspx?cat=research">Research news</a></li>
+                        </ul>
+                    </div--></div>
+<div class="links"><strong>Quick links</strong> <a class="quick" title="Research News" href="/work-with-us/research/index.aspx#research-news">Research News</a> <!--a class="quick" title="Research directory" href="#contensis" data-cms="{&quot;contentId&quot;:7279,&quot;contentTypeId&quot;:0}">Search all research</a> 
+                <a class="quick" title="Research - Our people" href="#contensis" data-cms="{&quot;contentId&quot;:7767,&quot;contentTypeId&quot;:0}">Find a researcher</a> 
+                <a class="quick" href="#contensis" data-cms="{&quot;contentId&quot;:5364,&quot;contentTypeId&quot;:0}">Contact us</a--></div>
+</div>
+<div class="menu-items business">
+<div class="menu-item-containers"><strong>Business</strong>
+
+
+
+<ul role="list">
+<li><a href="/work-with-us/business">Business</a></li>
+<li><a href="/work-with-us/business/partnerships-and-collaborations">Partnerships and collaborations</a></li>
+<li><a href="/work-with-us/business/develop-your-people">Develop your people</a></li>
+<li><a href="/work-with-us/business/access-to-funding">Access to funding</a></li>
+<li><a href="/work-with-us/business/supporting-growth-and-innovation">Supporting growth and innovation</a></li>
+<li><a href="/work-with-us/business/jobs-internships-industry-placements">Jobs, internships and industry placements</a></li>
+<li><a href="/work-with-us/business/contact-us">Contact Business</a></li>
+</ul>
+</div>
+</div>
+<div class="menu-items work">
+<div class="menu-item-containers"><strong>Work with us</strong>
+
+
+
+<ul role="list">
+<li><a href="/work-with-us/more/jobs/work-with-us">Work with us</a></li>
+<li><a href="/work-with-us/more/media-centre/news">News</a></li>
+<li><a href="/work-with-us/more/conferences-and-venue-hire/conferences-and-venue-hire">Conferences, events and venue hire</a></li>
+<li><a href="/work-with-us/more/schools-and-colleges">Schools and colleges</a></li>
+<li><a href="/work-with-us/more/alumni">Hull University Alumni</a></li>
+<li><a href="/work-with-us/more/academic-partnerships">Academic partnerships</a></li>
+<li><a href="/work-with-us/more/health-safety-services">Health &amp; Safety Services</a></li>
+<li><a href="/work-with-us/more/supplying-our-university/procurement">Procurement</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</section>
+</header>
+<article itemprop="mainEntity" itemtype="http://schema.org/CreativeWork" id="main-content" role="main">
+
+
+
+
+
+
+
+
+
+
+<section class="page-navigation">
+
+<div class="sticky-course">
+<div class="_container">
+  <div class="_content">
+    <div class="page-title">
+        <p>
+            <strong>
+            
+                  <span property="award">BA </span>
+British Politics and Legislative Studies
+            </strong>
+        </p>
+    </div>
+    
+    <div class="select-container">
+      <select name="variantList" id="variantList" aria-label="Available course options">
+          <option value="standard">Standard course option</option>
+
+          
+          
+
+
+
+      </select>
+    </div>
+
+    <div class="select-container year">
+      <select name="variantListYear" id="variantListYear" aria-label="Available in these years">
+          <option value="2022">2022</option>
+          <option value="2023">2023</option>
+      </select>
+    </div>
+  </div>
+</div>
+</div>
+
+<div class="sticky-links">
+<div class="_container">
+  <div class="_content">
+    <ul>
+      <li><a href="#overview">Overview</a></li>
+      <li><a href="#study">Course structure</a></li>
+      <li><a href="#entry">Entry requirements</a></li>
+      <li><a href="#fees">Fees &amp; funding</a></li>
+      <li><a href="#future">Future prospects</a></li>
+      <li><a href="#next">Next steps</a></li>
+    </ul>
+  </div>
+</div>
+</div>
+
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+<input id="CourseVariation" name="CourseVariation" type="hidden" value="" />
+<input id="CourseYear" name="CourseYear" type="hidden" value="" />
+
+
+<section class="course-hero">
+<div class="image-container">
+    <div class="overlay"></div>
+    
+    <picture>
+        <source media="(max-width: 480px)" srcset="/editor-assets/images/politics/lucy-dunwell-politics.x5ab72e73.jpg?crop=1800,800,50,0">
+
+        <source data-sal="fade" data-sal-duration="1500" srcset="/editor-assets/images/politics/lucy-dunwell-politics.x5ab72e73.jpg?crop=1800,800,50,0&amp;f=webp&amp;q=85" alt="Lucy Dunwell Politics" type="image/webp">
+        <source data-sal="fade" data-sal-duration="1500" srcset="/editor-assets/images/politics/lucy-dunwell-politics.x5ab72e73.jpg?crop=1800,800,50,0&amp;f=jpg&amp;q=85" alt="Lucy Dunwell Politics" type="image/jpg">
+        <img data-sal="fade" data-sal-duration="1500" src="/editor-assets/images/politics/lucy-dunwell-politics.x5ab72e73.jpg?crop=1800,800,50,0&amp;f=jpg&amp;q=85" alt="Lucy Dunwell Politics" />
+    </picture>
+
+</div>
+
+<div class="_container" typeof="Course">
+
+    <div class="course-content" style="position:relative;">
+        <meta property="provider" content="University of Hull">
+        
+        <div class="course-level">
+        <p>
+            <span>Undergraduate</span> 
+        
+        
+            <span class="clearing">
+                <i class="fas fa-check-circle"><!-- Available in clearing --></i> Available in Clearing
+            </span>
+        </p>
+        </div>
+
+        <h1 class="heading-1 course-title -bold" property="name">
+            <span class="slabtext">
+                
+                      <span property="award">BA </span>
+
+            
+British Politics and                 </span>
+
+            <span class="slabtext">
+                Legislative Studies
+            </span>
+
+
+        </h1>
+
+
+        <div class="course-interest">
+            <p property="description">Gain an understanding of the British political system. Then experience it for yourself with a unique 12-month placement in Westminster.​</p>
+        </div>
+            
+    </div>
+
+    
+
+
+
+
+
+
+
+<section class="key-info">
+<div class="content central-block -bg-crimson">
+    <div class="centralCont">
+
+    <p class="heading-3 -bold">
+        Key information
+    </p>
+
+    <div class="info-container">
+
+        <div class="course-info">
+
+            
+                  <div class="mode" rel="hasCourseInstance" typeof="CourseInstance">
+    <meta property="name" content="University of Hull">
+    <meta property="startDate" content="15 Sept 2022">
+    <div property="location" typeof="Place">
+      <meta property="name" content="University of Hull">
+      <div property="address" typeof="PostalAddress">
+        <meta property="postalCode" content="HU6 7RX">
+      </div>
+    </div>
+
+    <p>Study mode</p>
+    <p><strong property="courseMode">Full-time</strong></p>
+  </div>
+  <div class="length">
+    <p>Course length</p>
+    <p><strong>4 years</strong></p>
+  </div>
+  <div class="entry">
+    <p>Typical offer</p>
+          <p><strong>N/A</strong></p>
+          <p class="grades"><a href="#entry">See requirements</a></p>
+  </div>
+    <div class="ucas">
+      <p>UCAS code</p>
+      <p><strong property="courseCode">L230</strong></p>
+    </div>
+
+            
+        </div>
+
+        <div class="pathway-select">
+
+            <div class="options" role="radiogroup" aria-label="Course variation options">
+                <p>Choose an option</p>
+
+                <input class="filter" aria-label="Standard Course Option" type="radio" name="option" id="standard" value="standard" checked>
+                <label for="standard">Standard course option</label>
+
+                
+                
+
+
+
+
+            </div>
+
+            <div class="start" role="radiogroup" aria-label="Course dates">
+                <p>Start date</p>
+
+                        <input class="filter" aria-label="Study in 2022" type="radio" name="start" id="thisYear" value="2022" checked>
+                        <label for="thisYear">Sept 2022</label>
+                        <input class="filter" aria-label="Study in 2023" type="radio" name="start" id="nextYear" value="2023">
+                        <label for="nextYear">Sept 2023</label>
+            </div>
+
+        </div>
+    </div>
+</div>
+</div>
+</section>        
+    
+</div>
+</section>
+
+
+
+
+
+
+
+
+
+<section class="overview" id="overview">
+<div class="_container">
+
+    
+    
+    <div class="_content">
+
+
+        <div >
+
+
+            <h2 class="heading-2 -bold -plum-text">
+                Course overview <span class="testUrl"></span>
+            </h2>
+
+            <div class="visible-content">
+                <p><strong>Gain a thorough understanding of the UK&rsquo;s political system. Then apply it to the real world during a unique 12-month placement in Westminster working for a Member of Parliament or a peer, where you&rsquo;ll get in-depth exposure to British parliamentary procedures and behaviours.</strong></p>
+<p>Studying at Hull opens doors to those considering a career in Parliament. Our graduates are well known throughout the major UK political parties.</p>
+<p>In fact, so many of them now work in Westminster that they&rsquo;ve become affectionately known as &lsquo;the Hull Mafia&rsquo;.</p>
+            </div>
+
+
+
+
+
+
+
+<div class="on-demand-widget -deep-purple ">
+<div class="widget-video-heading">
+<h3 class="heading-3">Learn more about your course in our subject sessions</h3>
+</div>
+
+
+ <div class="widget-video-block">
+
+<div class="subject-container">
+  <p class="tag">On-demand session</p>
+  <p class="subject">Politics</p>
+</div>
+
+
+   <a class="image-container lightBoxVideoLink" href="https://www.youtube-nocookie.com/embed/BFXcN2iq5mo">
+
+  <div class="overlay"><i class="fas fa-play"></i></div>
+  <picture>
+    <source srcset="/editor-assets/images/courses/subject-sessions/politics-subject-session.x99c88563.jpg?w=186&amp;h=186&amp;f=webp" type="image/webp" /> 
+    <img alt="politics-subject-session" src="/editor-assets/images/courses/subject-sessions/politics-subject-session.x99c88563.jpg?w=186&amp;h=186" width="300" height="300" />
+  </picture>
+
+
+   </a>
+ </div>
+</div>
+        </div>
+
+        <div class="apply" style="padding-top:30px;">
+            <div class="link-tag">
+                More to explore
+            </div>
+
+            <div class="link-container">
+                
+                    <a href="https://evision.hull.ac.uk/urd/sits.urd/run/siw_sso.go?ktoRthcHkGXx3C3FAiB0k2BWb5vR6bRWIhNvLgRUfHrPJdo5H4" class="link" target="_blank">
+                        <span class="fad fa-pencil-alt"></span>
+                        <span class="link-text">Apply online now</span>
+                        <span class="fas fa-arrow-right"></span>
+                    </a>
+                <a href="/study/order-or-download-a-prospectus" class="link" target="_blank">
+                    <span class="fad fa-book-alt"></span>
+                    <span class="link-text">Download your prospectus</span>
+                    <span class="fas fa-arrow-right"></span>
+                </a>
+                <a href="/choose-hull/study-at-hull/visit-us/open-days" class="link">
+                    <span class="fad fa-map-marker-alt"></span>
+                    <span class="link-text">Come to an Open Day</span>
+                    <span class="fas fa-arrow-right"></span>
+                </a>
+                <a href="/choose-hull/student-life/accommodation" class="link">
+                    <span class="fad fa-house"></span>
+                    <span class="link-text">Accommodation</span>
+                    <span class="fas fa-arrow-right"></span>
+                </a>
+                <a href="/choose-hull/study-at-hull/money" class="link">
+                    <span class="fad fa-credit-card-front"></span>
+                    <span class="link-text">Fees and finance</span>
+                    <span class="fas fa-arrow-right"></span>
+                </a>
+                <a href="/choose-hull/student-life" class="link">
+                    <span class="fad fa-check-square"></span>
+                    <span class="link-text">Choose Hull</span>
+                    <span class="fas fa-arrow-right"></span>
+                </a>
+                <a href="/faculties/departments/school-of-politics-and-international-studies" class="link">
+                    <span class="fad fa-building"></span>
+                    <span class="link-text">School of Politics and International Studies</span>
+                    <span class="fas fa-arrow-right"></span>
+                </a>
+            </div>
+        </div>
+
+    </div>
+</div>
+</section>
+
+
+
+
+
+
+
+
+
+
+
+<section class="reasons">
+<div class="_container">
+<div class="_content">
+
+  <div class="central-block -bg-teal">
+    <div class="centralCont">
+      <p class="reasons-title">
+        Six reasons to study British Politics and Legislative Studies at Hull
+      </p>
+
+      <ol>
+<li data-gc-list-depth="1" data-gc-list-style="bullet">Spend a full year on a Westminster placement</li>
+<li data-gc-list-depth="1" data-gc-list-style="bullet">You'll work alongside an MP or peer</li>
+<li data-gc-list-depth="1" data-gc-list-style="bullet">Politics is in the top 15 in the UK for overall satisfaction<sup>&dagger;</sup></li>
+<li data-gc-list-depth="1" data-gc-list-style="bullet">Exclusive seminars by top parliamentary officials</li>
+<li data-gc-list-depth="1" data-gc-list-style="bullet">89% graduate employability rating*</li>
+<li data-gc-list-depth="1" data-gc-list-style="bullet">Join the 'Hull mafia' of our graduates in politics</li>
+</ol>
+    </div>
+  </div>
+
+  <div class="accreditations">
+
+
+  </div>
+
+</div>
+</div>
+</section>
+
+
+
+
+
+
+
+
+
+
+<section class="modules -bg-grey" id="study">
+<div class="_container">
+    <div class="_content">
+
+        <h2 class="heading-2 -bold -plum-text">
+            What you'll study
+        </h2>
+        
+        <p class="section-desc">The course consists of 120 credits per year. Most modules are 20 credits, meaning you’ll study six modules each year. Some longer modules, such as a dissertation, are worth more (e.g. 40 credits). In these cases, you’ll study fewer modules - but the number of credits will always add up to 120.</p>
+
+        <div class="details">
+            <div class="container">
+                <div class="tab-container" role="radiogroup" aria-label="Modules per year">
+
+
+                    <input
+                        type="radio"
+                        title="First year"
+                        name="module-tabs"
+                        id="year-one"
+                        checked
+                    />
+
+                    <input
+                        type="radio"
+                        title="Second year"
+                        name="module-tabs"
+                        id="year-two"
+                    />
+
+
+                    <input
+                        type="radio"
+                        title="Placement"
+                        name="module-tabs"
+                        id="placement-year"
+                    />
+
+                    <input
+                        type="radio"
+                        title="Third year"
+                        name="module-tabs"
+                        id="year-three"
+                    />
+
+
+
+
+
+                    <div class="tabs flex-tabs">
+
+                    
+                        <label for="year-one" id="year-one-label" class="tab year-one">
+                            First year
+                        </label>
+
+                        <label for="year-two" id="year-two-label" class="tab year-two">
+                            Second year
+                        </label>
+                                                                        <label for="placement-year" id="placement-year-label" class="tab placement">
+                            Placement
+                        </label>
+                                                        <label for="year-three" id="year-three-label" class="tab year-three">
+                                    Final year
+                                </label>
+
+
+                    
+                                            
+
+                        <div id="year-one-panel" class="panel year-one active">
+                        
+                            
+                              <h3>First year modules</h3>
+
+
+
+                            
+                              <div class="modules-container year-one-mods">
+
+<div class="frame" id="frameYOne">
+  <ul>
+            <li class="items">
+              <p class="module-heading"><strong>Compulsory</strong></p>
+
+                  <div>
+                      <h3>British Political History since 1945</h3>   
+                      <p>The UK's political history after World War Two: from Eden to the EEC and from Wilson to the 'Winter of Discontent', encounter the people, ideas and policies that have shaped modern Britain.</p>
+                  </div>
+                  <div>
+                      <h3>Introduction to the Politics of the World Economy</h3>   
+                      <p>Explore how politics defines the power map of the world's economy and provides the constitution for markets.&nbsp;</p>
+                  </div>
+                  <div>
+                      <h3>British Government</h3>   
+                      <p>In the age of Brexit, who governs Britain? Discover the institutions of the British state, from Downing Street to the devolved assemblies, and from the Conservatives to Labour.</p>
+                  </div>
+                  <div>
+                      <h3>Introduction to Comparative Politics</h3>   
+                      <p>This module combines a thematic assessment of key features of modern states with a country-by-country study, allowing you to begin making comparisons.</p>
+                  </div>
+                  <div>
+                      <h3>Philosophy, History and Ideology</h3>   
+                      <p>Learn how to analyse the structure of contemporary political ideologies and assess the historical interrelations between key philosophical concepts and their political implications.</p>
+                  </div>
+                  <div>
+                      <h3>Contemporary Political Issues</h3>   
+                      <p>Develop your critical thinking and analytical skills by considering views, debates and policies on topics such as immigration, environment, UK political crises, domestic terrorism and human rights.</p>
+                  </div>
+            </li>
+  </ul>
+</div>
+
+<div class="controls">
+  <button class="mods-prev" aria-label="Previous"><i class="fas fa-angle-left"><!-- Previous --></i></button>
+  <button class="mods-next" aria-label="Next"><i class="fas fa-angle-right"><!-- Next --></i></button>
+</div>
+
+<div class="scrollbar">
+  <div class="handle">
+    <div class="mousearea"></div>
+  </div>
+</div>
+
+</div>
+
+                                
+                        </div>
+
+                        <div id="year-two-panel" class="panel year-two">
+                        
+                            
+                              <h3>Second year modules</h3>
+
+
+                            
+                              <div class="modules-container year-two-mods">
+
+<div class="frame" id="frameYTwo">
+  <ul>
+            <li class="items">
+              <p class="module-heading"><strong>Compulsory</strong></p>
+
+                  <div>
+                      <h3>The Contemporary House of Commons</h3>   
+                      <p>Study the functions of the House of Commons and how they are shaped by the changes in the political environment. Examine what MPs do - collectively and individually.</p>
+                  </div>
+                  <div>
+                      <h3>Electoral and Voting Systems</h3>   
+                      <p>Stalin said: &ldquo;It's not the people who vote that count. It's the people who count the votes.&rdquo; Investigate into how far systems of voting determine election results around the world.</p>
+                  </div>
+                  <div>
+                      <h3>Paths of Research</h3>   
+                      <p>Discover the research techniques and skills used in the study of politics. This module unpacks everything you'll need for conducting research in your own area of interest.</p>
+                  </div>
+                  <div>
+                      <h3>Parliament in the UK: Approaches to Reform</h3>   
+                      <p>Study Parliament in the context of constitutional change. You'll explore electoral reform, pressure for a Bill of Rights, devolution, referendums and membership of the EU.</p>
+                  </div>
+            </li>
+            <li class="items">
+              <p class="module-heading"><strong>Optional</strong></p>
+
+                  <div>
+                      <h3>Understanding China</h3>   
+                      <p>This module examines the economic transformations of China in a historical, cultural and political context. You'll evaluate the major issues and challenges facing the nation.</p>
+                  </div>
+                  <div>
+                      <h3>Understanding States and Markets: An Introduction to Political Economy</h3>   
+                      <p>Discover the history of ideas in political economy, and their modern relevance. You&rsquo;ll explore the work of Karl Marx, John Maynard Keynes, Friedrich Hayek and Joseph Stiglitz.</p>
+                  </div>
+                  <div>
+                      <h3>History of Political Thought</h3>   
+                      <p>You'll learn about the thoughts and historical context of some of the world's most important philosophers and political theorists Plato, Aristotle, Machiavelli, and Marx (among others).</p>
+                  </div>
+                  <div>
+                      <h3>Understanding the European Union</h3>   
+                      <p>Learn about the history and politics of the European Union. You'll consider its core policies, including the European Single Market, environmental policy and the implications of Brexit.</p>
+                  </div>
+                  <div>
+                      <h3>Understanding America</h3>   
+                      <p>An introduction to the political culture and institutions of the USA. You'll&nbsp;consider America's international role and the relationship between its domestic and international policies.</p>
+                  </div>
+            </li>
+  </ul>
+</div>
+
+<div class="controls">
+  <button class="mods-prev" aria-label="Previous"><i class="fas fa-angle-left"><!-- Previous --></i></button>
+  <button class="mods-next" aria-label="Next"><i class="fas fa-angle-right"><!-- Next --></i></button>
+</div>
+
+<div class="scrollbar">
+  <div class="handle">
+    <div class="mousearea"></div>
+  </div>
+</div>
+
+</div>
+
+
+                        </div>
+
+
+                        <div id="placement-year-panel" class="panel placement">
+                        
+                            
+                              <h3>Placement year modules</h3>
+    <p><p>The third year is spent in Westminster working for a Member of Parliament or a peer.</p>
+<p>You'll be fully supported throughout your internship &ndash; both in Westminster by former Hull placement students who now work there full-time, and by our dedicated member of staff in Hull who will be in regular contact.</p>
+<p>While on placement, you&rsquo;ll also complete the following modules.</p></p>
+
+
+                            
+                              <div class="modules-container placement-mods">
+
+<div class="frame" id="framePl">
+  <ul>
+            <li class="items">
+              <p class="module-heading"><strong>Compulsory</strong></p>
+
+                  <div>
+                      <h3>Research Proposal</h3>   
+                      
+                  </div>
+                  <div>
+                      <h3>Research Paper</h3>   
+                      
+                  </div>
+                  <div>
+                      <h3>Self-Evaluation Document</h3>   
+                      
+                  </div>
+            </li>
+  </ul>
+</div>
+
+<div class="controls">
+  <button class="mods-prev" aria-label="Previous"><i class="fas fa-angle-left"><!-- Previous --></i></button>
+  <button class="mods-next" aria-label="Next"><i class="fas fa-angle-right"><!-- Next --></i></button>
+</div>
+
+<div class="scrollbar">
+  <div class="handle">
+    <div class="mousearea"></div>
+  </div>
+</div>
+
+</div>
+
+
+                        </div>
+
+                        <div id="year-three-panel" class="panel year-three">
+
+                            
+                            
+                              <h3>Final year modules</h3>
+
+
+                            
+                              <div class="modules-container year-three-mods">
+
+<div class="frame" id="frameYThree">
+  <ul>
+            <li class="items">
+              <p class="module-heading"><strong>Compulsory</strong></p>
+
+                  <div>
+                      <h3>Dissertation</h3>   
+                      <p>You will make an original contribution to research by designing, carrying out and writing up your own project on a topic you choose, supported by your dissertation supervisor.</p>
+                  </div>
+                  <div>
+                      <h3>Comparative Legislatures</h3>   
+                      <p>Examine how legislatures fit within systems of government.&nbsp;You'll explore the&nbsp;Westminster model, US Congress, and the Brazilian, German, South African and Chinese parliaments.</p>
+                  </div>
+            </li>
+            <li class="items">
+              <p class="module-heading"><strong>Optional</strong></p>
+
+                  <div>
+                      <h3>Conflicts in British Culture</h3>   
+                      <p>What causes the culture wars? Explore the controversies. From identity politics to free speech and BLM to transgenderism.</p>
+                  </div>
+                  <div>
+                      <h3>BRICS: Emerging Powers in International Affairs</h3>   
+                      <p>Discover challenges facing the five emerging powers (Brazil, Russia, India, China and South Africa) in the shifting power structures of international affairs.</p>
+                  </div>
+                  <div>
+                      <h3>Critics of Capitalism</h3>   
+                      <p>Study some of the most important critics of capitalist societies. You'll explore issues such as capitalist oppression, exploitation and the corruption of music and art.</p>
+                  </div>
+                  <div>
+                      <h3>Politics of the Environment</h3>   
+                      <p>Analyse attitudes towards the environment and the politics of the environmental movement, pressure groups, political parties, states, the EU and international organisations.</p>
+                  </div>
+                  <div>
+                      <h3>Dangerous Minds</h3>   
+                      <p>Study the relationship between ideas, the people who promote them, and political practice. From Plato, to Machiavelli, explore just how influential and dangerous ideas can be.</p>
+                  </div>
+                  <div>
+                      <h3>UK Politics in an Age of Austerity and Brexit</h3>   
+                      <p>Examine contemporary debates on economic, social and political renewal. You'll cover topics such as: Brexit, austerity, foreign policy and the future of the welfare state.</p>
+                  </div>
+                  <div>
+                      <h3>Contemporary Political Philosophy</h3>   
+                      <p>How should we think about justice, equality, liberty and democracy? Explore ways of addressing these topics through critical readings of leading political philosophers.</p>
+                  </div>
+                  <div>
+                      <h3>Democracy and Legitimacy in the European Union</h3>   
+                      <p>This module focuses on the theoretical and empirical context in which democracy and legitimacy have become existential challenges for the European Union.</p>
+                  </div>
+                  <div>
+                      <h3>Germany in the New Europe</h3>   
+                      <p>This module assesses the reunified Germany and its role in the new Europe. You'll learn about Germany's political parties, its government and its main policies.</p>
+                  </div>
+            </li>
+  </ul>
+</div>
+
+<div class="controls">
+  <button class="mods-prev" aria-label="Previous"><i class="fas fa-angle-left"><!-- Previous --></i></button>
+  <button class="mods-next" aria-label="Next"><i class="fas fa-angle-right"><!-- Next --></i></button>
+</div>
+
+<div class="scrollbar">
+  <div class="handle">
+    <div class="mousearea"></div>
+  </div>
+</div>
+
+</div>
+
+
+                        </div>
+
+
+
+
+
+
+                    </div>
+
+                    <p class="small">All modules are subject to availability and this list may change at any time.</p>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section class="how" id="how">
+<div class="_container">
+<div class="_content">
+
+  <h2 class="heading-2 -bold -plum-text">
+    How you'll study
+  </h2>
+
+  <div class="section-desc">
+    <p>Throughout your degree, you’re expected to study for 1,200 hours per year. That’s based on 200 hours per 20 credit module. And it includes scheduled hours, time spent on placement and independent study. How this time’s divided among each of these varies each year and depends on the course and modules you study.</p>
+  </div>
+
+  
+  <div class="details">
+    <div class="container">
+      <div class="tab-container" role="radiogroup" aria-label="How you'll study">
+
+
+        <input
+          type="radio"
+          title="First year"
+          name="how-tabs"
+          id="yOne-how"
+          checked
+        />
+
+        <input
+          type="radio"
+          title="Second year"
+          name="how-tabs"
+          id="yTwo-how"
+        />
+
+        
+        <input
+          type="radio"
+          title="Placement year"
+          name="how-tabs"
+          id="pl-how"
+        />
+
+        <input
+          type="radio"
+          title="Third year"
+          name="how-tabs"
+          id="yThree-how"
+        />
+
+
+
+        <div class="tabs flex-tabs">
+
+          <label for="yOne-how" id="yOne-how-label" class="tab yOne-how">
+              First year
+          </label>
+
+          <label for="yTwo-how" id="yTwo-how-label" class="tab yTwo-how">
+              Second year
+          </label>
+                                      <label for="pl-how" id="pl-how-label" class="tab pl-how">
+              Placement
+          </label>
+                                  <label for="yThree-how" id="yThree-how-label" class="tab yThree-how">
+                        Final year
+                    </label>
+
+          
+                        
+
+          <div id="yOne-how-panel" class="panel yOne-how active">
+            <div class="study-container">
+
+              <div class="workload">
+
+                
+                  <style>
+.hours a.button {
+  background: #ce0058;
+  margin-top:30px;
+}
+.hours a.button:hover {
+  background: #6b1547;
+}
+</style>
+<h3 class="-bold">Overall workload</h3>
+<div class="hours">
+<p style="color: rgba(84,88,90,1)">If you’re enrolled on a full-time programme of study, you’ll be expected to complete about 40 hours of academic work each week.</p>
+<a href="/special/undergraduate-courses-how-you-will-learn" title="How you’ll learn" aria-label="How you’ll learn" class="button">How you’ll learn</a>
+</div> 
+
+              
+              </div>
+
+              <div class="assessment">
+
+                
+                  <h3 class="-bold">Indicative assessment proportions</h3>
+<div class="graph">
+<div class="exam" style="width: 70%;">
+  70%
+</div>
+        <div class="cwork" style="width: 30%;">
+  30%
+</div>
+</div>
+<ul>
+
+<li class="exam">
+  <div>
+    <span><!-- Exam colour --></span> Examination
+  </div>
+  <div>
+    <p>Written assessment typically includes exams and multiple choice tests.</p>
+  </div>
+</li>
+        <li class="cwork">
+  <div>
+    <span><!-- Exam colour --></span> Coursework
+  </div>
+  <div>
+      <p>Coursework typically includes essays, written assignments, dissertations, research projects or producing a portfolio of your work.</p>
+  </div>
+</li>
+</ul>
+
+
+              </div>
+
+            </div>
+          </div>
+
+          <div id="yTwo-how-panel" class="panel yTwo-how">
+            <div class="study-container">
+
+              <div class="workload">
+
+                
+                  <style>
+.hours a.button {
+  background: #ce0058;
+  margin-top:30px;
+}
+.hours a.button:hover {
+  background: #6b1547;
+}
+</style>
+<h3 class="-bold">Overall workload</h3>
+<div class="hours">
+<p style="color: rgba(84,88,90,1)">If you’re enrolled on a full-time programme of study, you’ll be expected to complete about 40 hours of academic work each week.</p>
+<a href="/special/undergraduate-courses-how-you-will-learn" title="How you’ll learn" aria-label="How you’ll learn" class="button">How you’ll learn</a>
+</div> 
+
+
+              </div>
+
+              <div class="assessment">
+
+                
+                  <h3 class="-bold">Indicative assessment proportions</h3>
+<div class="graph">
+<div class="exam" style="width: 42%;">
+  42%
+</div>
+        <div class="cwork" style="width: 58%;">
+  58%
+</div>
+</div>
+<ul>
+
+<li class="exam">
+  <div>
+    <span><!-- Exam colour --></span> Examination
+  </div>
+  <div>
+    <p>Written assessment typically includes exams and multiple choice tests.</p>
+  </div>
+</li>
+        <li class="cwork">
+  <div>
+    <span><!-- Exam colour --></span> Coursework
+  </div>
+  <div>
+      <p>Coursework typically includes essays, written assignments, dissertations, research projects or producing a portfolio of your work.</p>
+  </div>
+</li>
+</ul>
+
+
+              </div>
+
+            </div>
+          </div>
+
+
+          <div id="pl-how-panel" class="panel pl-how">
+            <div class="study-container">
+
+              <div class="workload">
+
+                
+                  <style>
+.hours a.button {
+  background: #ce0058;
+  margin-top:30px;
+}
+.hours a.button:hover {
+  background: #6b1547;
+}
+</style>
+<h3 class="-bold">Overall workload</h3>
+<div class="hours">
+<p style="color: rgba(84,88,90,1)">If you’re enrolled on a full-time programme of study, you’ll be expected to complete about 40 hours of academic work each week.</p>
+<a href="/special/undergraduate-courses-how-you-will-learn" title="How you’ll learn" aria-label="How you’ll learn" class="button">How you’ll learn</a>
+</div> 
+
+
+              </div>
+
+              <div class="assessment">
+
+                
+                  <h3 class="-bold">Indicative assessment proportions</h3>
+<div class="graph">
+        <div class="cwork" style="width: 100%;">
+  100%
+</div>
+</div>
+<ul>
+
+        <li class="cwork">
+  <div>
+    <span><!-- Exam colour --></span> Coursework
+  </div>
+  <div>
+      <p>Coursework typically includes essays, written assignments, dissertations, research projects or producing a portfolio of your work.</p>
+  </div>
+</li>
+</ul>
+
+
+              </div>
+
+            </div>
+          </div>
+
+          <div id="yThree-how-panel" class="panel yThree-how">
+            <div class="study-container">
+
+              <div class="workload">
+
+                
+                  <style>
+.hours a.button {
+  background: #ce0058;
+  margin-top:30px;
+}
+.hours a.button:hover {
+  background: #6b1547;
+}
+</style>
+<h3 class="-bold">Overall workload</h3>
+<div class="hours">
+<p style="color: rgba(84,88,90,1)">If you’re enrolled on a full-time programme of study, you’ll be expected to complete about 40 hours of academic work each week.</p>
+<a href="/special/undergraduate-courses-how-you-will-learn" title="How you’ll learn" aria-label="How you’ll learn" class="button">How you’ll learn</a>
+</div> 
+
+
+              </div>
+
+              <div class="assessment">
+
+                
+                  <h3 class="-bold">Indicative assessment proportions</h3>
+<div class="graph">
+<div class="exam" style="width: 34%;">
+  34%
+</div>
+        <div class="cwork" style="width: 66%;">
+  66%
+</div>
+</div>
+<ul>
+
+<li class="exam">
+  <div>
+    <span><!-- Exam colour --></span> Examination
+  </div>
+  <div>
+    <p>Written assessment typically includes exams and multiple choice tests.</p>
+  </div>
+</li>
+        <li class="cwork">
+  <div>
+    <span><!-- Exam colour --></span> Coursework
+  </div>
+  <div>
+      <p>Coursework typically includes essays, written assignments, dissertations, research projects or producing a portfolio of your work.</p>
+  </div>
+</li>
+</ul>
+
+
+              </div>
+
+            </div>
+          </div>
+
+
+
+
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+</div>
+</section>
+
+
+
+
+
+
+
+  <section class="students">
+
+    <div class="image-container">
+      <div class="overlay"></div>
+
+      <picture>
+          <source data-sal="fade" data-sal-duration="1500" media="(max-width: 480px)" srcset="/editor-assets/images/politics/lucy-dunwell-politics-houses-of-parliament.x051e38fa.jpg?crop=1544,800,356,0?crop=500,800,900,0">
+
+        <source data-sal="fade" data-sal-duration="1500" srcset="/editor-assets/images/politics/lucy-dunwell-politics-houses-of-parliament.x051e38fa.jpg?crop=1544,800,356,0?f=webp&amp;q=85" alt="Lucy Dunwell Politics houses of parliament" type="image/webp">
+
+        <source data-sal="fade" data-sal-duration="1500" srcset="/editor-assets/images/politics/lucy-dunwell-politics-houses-of-parliament.x051e38fa.jpg?crop=1544,800,356,0?f=jpg&amp;q=85" alt="Lucy Dunwell Politics houses of parliament" type="image/jpg">
+
+        <img data-sal="fade" data-sal-duration="1500" src="/editor-assets/images/politics/lucy-dunwell-politics-houses-of-parliament.x051e38fa.jpg?crop=1544,800,356,0?q=85" alt="Lucy Dunwell Politics houses of parliament" />
+      </picture>
+    </div>
+
+    <div class="_container">
+      <div class="_content">
+
+        <div class="main-video">
+
+          <div class="tags">
+            <span class="name">Lucy Dunwell</span>
+            <span class="course">Politics</span>
+          </div>
+
+          <h4 class="heading">
+            Why I chose Politics at Hull
+          </h4>
+
+          <a class="button lightBoxVideoLink" href="https://www.youtube-nocookie.com/embed/prlXnK6jPhg">Watch video</a>
+
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+
+
+
+
+
+
+
+<section class="pathways -no-margin-top">
+<div class="featured-areas">
+<div class="_container">
+  <div class="feature-blocks">
+
+            <div class="feature-item">
+
+                <picture>
+                    <source data-sal="fade" data-sal-duration="1500" srcset="/editor-assets/images/politics/westminster-placement.x2f5af783.jpg?q=85&amp;f=webp" alt="Westminster-placement" type="image/webp">
+
+                    <source data-sal="fade" data-sal-duration="1500" srcset="/editor-assets/images/politics/westminster-placement.x2f5af783.jpg?q=85&amp;f=jpg" alt="Westminster-placement" type="image/jpg">
+                    
+                    <img data-sal="fade" data-sal-duration="1500" src="/editor-assets/images/politics/westminster-placement.x2f5af783.jpg?q=85&amp;f=jpg" alt="Westminster-placement" />
+                </picture>
+
+                <div class="feature-overlay -bg-plum">
+                    <div class="feature-card">
+                        <h2 class="feature-title">
+                            Westminster placement
+                        </h2>
+                        <div class="feature-description">
+                            <p>
+                                Work alongside an MP or peer in Westminster on a 12-month placement. Our links with a large pool of MPs mean we&#39;re likely to be able to match you with a politician whose role reflects your area of political interest. 
+                            </p>
+                            
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="feature-item">
+
+                <picture>
+                    <source data-sal="fade" data-sal-duration="1500" srcset="/faculties/fblp/section-elements/img/centre-for-professional-success/C4PSPoliticsBanner.x30934ed1.jpg?w=1440&amp;h=600&amp;crop=600,600,0,0&amp;q=85&amp;f=webp" alt="C4PSPoliticsBanner" type="image/webp">
+
+                    <source data-sal="fade" data-sal-duration="1500" srcset="/faculties/fblp/section-elements/img/centre-for-professional-success/C4PSPoliticsBanner.x30934ed1.jpg?w=1440&amp;h=600&amp;crop=600,600,0,0&amp;q=85&amp;f=jpg" alt="C4PSPoliticsBanner" type="image/jpg">
+                    
+                    <img data-sal="fade" data-sal-duration="1500" src="/faculties/fblp/section-elements/img/centre-for-professional-success/C4PSPoliticsBanner.x30934ed1.jpg?w=1440&amp;h=600&amp;crop=600,600,0,0&amp;q=85&amp;f=jpg" alt="C4PSPoliticsBanner" />
+                </picture>
+
+                <div class="feature-overlay -bg-plum">
+                    <div class="feature-card">
+                        <h2 class="feature-title">
+                            Exclusive seminar series
+                        </h2>
+                        <div class="feature-description">
+                            <p>
+                                While on placement, You&#39;ll enjoy access to our exclusive seminar series presented by senior Parliamentary officials including Black Rod and the Speaker.
+                            </p>
+                            
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+  </div>
+
+</div>
+</div>
+</section>
+
+
+
+
+
+
+
+
+
+
+
+<section class="entry-req" id="entry">
+<div class="_container">
+<div class="_content">
+
+  <h2 class="heading-2 -bold -plum-text">
+    Entry requirements
+  </h2>
+
+  <div class="details">
+    <div class="container">
+      <div class="tab-container" role="radiogroup" aria-label="UK or International entry requirements">
+          <input
+            type="radio"
+            title="UK"
+            name="entry-tabs"
+            id="uk"
+            checked=""
+          />
+
+          <input
+            type="radio"
+            title="International students"
+            name="entry-tabs"
+            id="intl"
+          />
+
+          <div class="tabs flex-tabs">
+            <label for="uk" id="uk-label" class="tab uk">
+              UK Residents
+            </label>
+
+            <label for="intl" id="intl-label" class="tab intl">
+              International students
+            </label>
+
+            <div id="uk-panel" class="panel uk active">
+
+              <div class="requirements">
+                <div class="quick-view-container">
+                  
+                  
+                        <div class="grades">
+    <h3 class="-bold">Typical offer</h3>
+    <ul>
+       <li>
+          <div class="alevel">
+                <p><span>A level grades</span> <span>N/A</span></p>
+          </div>
+        </li>
+
+        <li>
+          <div class="alevel">
+                <p>
+                  <span>BTEC grades</span>
+                  <span>N/A</span>
+                </p>
+          </div>
+        </li>
+
+        <li>
+          <div class="ucas-points">
+                <p>
+                  <span>Points required</span> 
+                  <span>N/A</span>
+                </p>
+          </div>
+        </li>
+
+    </ul>
+
+    <p class="work-out">
+      <a href="https://www.ucas.com/ucas/tariff-calculator" rel="noopener" target="_blank">Work out your estimated points <i class="fas fa-external-link-alt"><!-- External link --></i></a>
+    </p>
+  </div>
+
+
+                </div>
+
+                <div class="details">
+                  
+                    <p>At Hull, you’re a name not a number. During Clearing, we look at all of your qualifications and experience, not just your academic grades. We may be able to offer you a place whatever your situation.</p>
+                    <p>Some courses still do have requirements such as previous study in your subject area, or specific GCSE grades. Others have additional requirements such as an interview or a satisfactory DBS check.</p>
+                    <p>Please call us now on <a href="tel:+441482466100" title="Call us on 01482 466100"><span class="rTapNumber411559">01482 466100</span></a> or complete our <a href="https://evision.hull.ac.uk/urd/sits.urd/run/siw_sso.go?ktoRthcHkGXx3C3FAiB0k2BWb5vR6bRWIhNvLgRUfHrPJdo5H4" title="Complete our online clearing form" target="_blank">online form</a> to find out if we have a course that’s suitable for you.</p>
+
+                  
+
+
+                </div>
+              </div>
+            </div>
+
+            
+
+
+
+
+
+
+
+<div id="intl-panel" class="panel intl">
+                
+        <p><p>If you require a student visa to study or <a href="/choose-hull/study-at-hull/admissions/english-language-requirements">if your first language is not English</a>&nbsp;you will be required to provide acceptable evidence of your English language proficiency level.</p>
+<p>This course requires academic IELTS 6.0 overall, with no less than 5.5 in each skill. See other <a href="/choose-hull/study-at-hull/admissions/english-language-requirements">English language proficiency qualifications</a> accepted by this University.</p>
+<p>If your English currently does not reach the University's required standard for this programme, you may be interested in&nbsp;<a href="/study/other-courses/english-as-a-foreign-language">one of our English language courses.</a></p>
+<p><a href="/international/country">Visit your country page</a>&nbsp;to find out more about our entry requirements.</p></p>
+</div>    
+
+          </div>
+        </div>
+    </div>
+  </div>
+</div>
+</div>
+</section>
+
+
+
+
+
+
+
+
+
+<section class="study-with -bg-blue -no-margin-top">
+<div class="_container">
+    <div class="_content">
+
+        <div class="staff-info">
+            <h3 class="heading-2 -bold">
+                Our lecturers
+            </h3>
+
+            
+        </div>
+
+        <div class="staff-container full-list">
+
+
+            <div class="staff-list">
+                <div class="list-items">
+
+                    <div class="frame" id="frameRelatedStaff">
+
+                        
+
+
+
+<ul class="">
+<li class="items">
+    <div>
+        <a href="/staff-directory/antony-hatzistavrou" class="name">Dr Antony Hatzistavrou</a>
+        <div class="role"></div>
+    </div>
+    <div>
+        <a href="/staff-directory/christopher-fear" class="name">Dr Christopher Fear</a>
+        <div class="role"></div>
+    </div>
+    <div>
+        <a href="/staff-directory/elizabeth-monaghan" class="name">Dr Elizabeth Monaghan</a>
+        <div class="role"></div>
+    </div>
+         </li>
+         <li class="items">
+    <div>
+        <a href="/staff-directory/matt-beech" class="name">Dr Matt Beech</a>
+        <div class="role"></div>
+    </div>
+    <div>
+        <a href="/staff-directory/philip-lord-norton-of-louth" class="name">Professor Philip Lord Norton of Louth</a>
+        <div class="role"></div>
+    </div>
+    <div>
+        <a href="/staff-directory/raphael-cohen-almagor" class="name">Professor Raphael Cohen-Almagor</a>
+        <div class="role"></div>
+    </div>
+         </li>
+         <li class="items">
+    <div>
+        <a href="/staff-directory/simon-lee" class="name">Dr Simon Lee</a>
+        <div class="role"></div>
+    </div>
+</li>
+</ul>
+
+                        
+                    </div>
+
+                    <div class="controls">
+                        <button class="mods-prev" aria-label="Previous"><i class="fas fa-angle-left"><!-- Previous --></i></button>
+                        <button class="mods-next" aria-label="Next"><i class="fas fa-angle-right"><!-- Next --></i></button>
+                    </div>
+
+                    <div class="scrollbar">
+                        <div class="handle">
+                            <div class="mousearea"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+</section>
+
+
+
+
+
+
+
+
+
+<section class="virtual">
+
+<div class="drag">
+    <p>Click and drag</p>
+</div>
+
+<div class="_container -top">
+
+    <div class="central-block -bg-crimson">
+        <div class="centralCont">
+            <h4 class="heading-2 -big -bold">
+            Take a tour of the facilities
+            </h4>
+            
+            <p>A video presentation in the Allam Lecture Theatre. See more of the campus by taking our virtual tour.</p>
+        </div>
+    </div>
+</div>
+
+<div class="image-container">
+    
+    
+
+
+
+
+<div id="allamlecturetheatre"></div>
+
+<script>
+pannellum.viewer('allamlecturetheatre', {
+"type": "equirectangular",
+"basePath": "https://www.hull.ac.uk",
+"panorama": "/image-library/equirectangular/48-business-allam-theatre-1-a-1-use.x74599912.jpg",
+
+
+"hfov": 150,
+"pitch": -15,
+"yaw": 10,
+
+   "autoRotate": -2, "autoRotateInactivityDelay": 2000,
+
+"mouseZoom": false,
+"keyboardZoom": false,
+"showZoomCtrl": false,
+
+   "showControls": false,
+"friction": 0.1,
+"autoLoad": true,
+"hotSpots": [
+]
+});
+</script><noscript><p>Browser does not support script.</p></noscript>  
+
+</div>
+
+<div class="_container -bottom">
+
+    <div class="central-block -bg-crimson">
+        <div class="centralCont">
+            <a href="https://virtualtour.hull.ac.uk/take-a-look-around/area-of-interest/choose-your-subject/politics-and-international-studies" class="button -default-btn -crimson-text lightBoxVTLink">Explore the virtual tour</a>
+        </div>
+    </div>
+</div>
+
+</section>
+
+
+
+
+
+
+
+
+
+
+
+<section class="fees -bg-grey" id="fees">
+<div class="_container">
+    <div class="_content">
+
+        <div class="">
+            <h3 class="heading-2 -big -bold">
+                Fees and funding
+            </h3>
+
+            <div class="details">
+                <div class="container" role="radiogroup" aria-label="Student fees and additional costs">
+                    <div class="tab-container">
+                        <input
+                        type="radio"
+                        title="Student fees"
+                        name="fees-tabs"
+                        id="studentFees"
+                        checked=""
+                        />
+
+                        <input
+                        type="radio"
+                        title="Additional costs"
+                        name="fees-tabs"
+                        id="additional"
+                        />
+
+                        <div class="tabs flex-tabs">
+                            <label for="studentFees" id="studentFees-label" class="tab studentFees">
+                                Student Fees
+                            </label>
+
+                            <label for="additional" id="additional-label" class="tab additional">
+                                Additional costs
+                            </label>
+
+                            <div id="studentFees-panel" class="panel studentFees active">
+
+                                
+                                      <div class="standard-info">
+      <div class="standard-fees">
+          <div class="home">
+
+            <span>
+              UK
+              
+            </span>
+
+            <p><strong>&pound;9,250 per year*</strong></p>
+
+            
+
+          </div>
+          <div class="international">
+
+            <span>
+              EU/International
+              
+              </span>
+
+            <p><strong>&pound;15,400 per year</strong></p>
+
+            
+            
+          </div>
+      </div>
+
+      <div class="more-info">
+<p><strong>*The amount you pay may increase each year, in line with inflation - but capped to the Retail Price Index (RPI).</strong></p>
+<p>The fees shown are for 2022 entry. The fees for 2023 have not yet been confirmed and may increase.</p>
+<p>UK students can take out a tuition fee loan to cover the cost of their course and a maintenance loan of up to &pound;9,706 to cover living costs.</p>
+<p>Substantial <a href="https://www.hull.ac.uk/choose-hull/study-at-hull/money/scholarships-and-awards?l=int">discounts</a> are available for International students.&nbsp;&nbsp;</p>
+<p>More information on fees can be found in the&nbsp;<a title="Undergrad tuition fees" href="/choose-hull/study-at-hull/money/money">Money section</a>&nbsp;of our website.</p>          </div>
+  </div>
+
+
+                                
+                                                                                                        
+                            </div>
+
+                            <div id="additional-panel" class="panel additional">
+
+                                
+                                          <div class="additional-info">
+          <div class="more-info">
+              <p>Your tuition fees will cover most costs associated with your programme (including registration, tuition, supervision, assessment and examination).<br /><br />There are some extra costs that you might have to pay, or choose to pay, depending on your programme of study and the decisions you make. The list below has some examples, and any extra costs will vary.</p>
+<ul>
+<li>Books (you&rsquo;ll have access to books from your module reading lists in the library, but you may want to buy your own copies)</li>
+<li>Optional field trips</li>
+<li>Study abroad (including travel costs, accommodation, visas, immunisation)</li>
+<li>Placement costs (including travel costs and accommodation)</li>
+<li>Student visas (international students)</li>
+<li>Laptop (you&rsquo;ll have access to laptops and PC&rsquo;s on campus, but you may want to buy your own)</li>
+<li>Printing and photocopying</li>
+<li>Professional-body membership</li>
+<li>Graduation (gown hire and photography)</li>
+</ul>
+<p>Remember, you&rsquo;ll still need to take into account your living costs. This could include accommodation, travel and food &ndash; to name just a few.&nbsp;</p>
+          </div>
+      </div>
+
+
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+
+    </div>
+</div>
+</section>
+
+
+<section class="pull-out-banner">
+<div class="_container">
+    <div class="_content">
+
+        <div class="strip">
+            <div>
+                <p><strong>An affordable city for students</strong></p>
+                <p>From bills, to meals, to pints – you’ll find that your money goes a lot further in Hull.</p>
+            </div>
+            <div>
+                <a href="/choose-hull/student-life/" title="Find out more about Hull as an affordable city" aria-label="Find out more about Hull as an affordable city" class="button -default-btn -plum-text">Find out more</a>
+            </div>
+        </div>
+
+    </div>
+</div>
+</section>
+
+
+
+
+
+
+
+
+
+
+<section class="future" id="future">
+<div class="_container">
+<div class="_content">
+
+
+  <div class="future-container threeCol">
+
+    <div class="heading">
+      <h3 class="heading-2 -big -bold">
+        Your future prospects
+      </h3>
+    </div>
+
+    <div class="roles">
+      <ul>
+<li data-gc-list-depth="1" data-gc-list-style="bullet">Civil Service Fast Streamer</li>
+<li data-gc-list-depth="1" data-gc-list-style="bullet">Policy officer</li>
+<li data-gc-list-depth="1" data-gc-list-style="bullet">Politician's assistant</li>
+<li data-gc-list-depth="1" data-gc-list-style="bullet">Public affairs consultant</li>
+<li data-gc-list-depth="1" data-gc-list-style="bullet">Government social research officer</li>
+</ul>
+    </div>
+    <div class="description">
+      <p>This course leads to a variety of careers, such as political consultancy, the media, the Civil Service, public relations, political parties, Parliament, charities, as well as international organisations.</p>
+    </div>
+
+    <div class="unistats">
+
+      
+            <div class="kis-widget"
+    style="min-width:190px;"
+    data-institution="10007149"
+    data-course="UGBPLSPFU01"
+    data-kismode="FullTime" 
+    data-orientation="responsive"
+    data-language="en-GB"></div>
+
+
+    </div>
+
+  </div>
+
+</div>
+</div>
+</section>
+
+
+
+
+
+
+
+
+
+
+<section class="what-next -bg-blue" id="next">
+
+<div class="image-container">
+
+    <picture>
+        <source data-sal="fade" data-sal-duration="1500" srcset="/assets/section/courses/ug/images/test-images/hull-open-day-july.jpg?f=webp&q=85" alt="Open Day at University of Hull" type="image/webp">
+        <source data-sal="fade" data-sal-duration="1500" srcset="/assets/section/courses/ug/images/test-images/hull-open-day-july.jpg?f=jpg&q=85" alt="Open Day at University of Hull" type="image/jpg">
+        <img data-sal="fade" data-sal-duration="1500" src="/assets/section/courses/ug/images/test-images/hull-open-day-july.jpg?q=85" alt="Open Day at University of Hull" />
+    </picture>
+
+</div>
+
+<div class="_container">
+    <div class="_content">
+
+        <h3 class="heading-2 -big -bold">
+            Ready to apply?
+        </h3>
+
+        
+                      <p>Clearing is open. This is your opportunity to get a place at uni if you don’t have one already – for whatever reason. It’s your chance to get the degree you need and the future you want.</p>
+          <a href="https://evision.hull.ac.uk/urd/sits.urd/run/siw_sso.go?ktoRthcHkGXx3C3FAiB0k2BWb5vR6bRWIhNvLgRUfHrPJdo5H4" rel="noopener" class="button -default-btn -blue-text" target="_blank">APPLY ONLINE NOW </a>
+
+        <a href="/choose-hull/study-at-hull/admissions/undergraduate/how-to-apply" class="button -outline-btn">HOW TO APPLY</a>
+
+    </div>
+</div>
+
+<div class="fixed-info">
+    <div class="tag">Not ready to apply?</div>
+    <h3 class="title">Visit our Open Day</h3>
+    <a href="/choose-hull/study-at-hull/visit-us/open-days" class="button -bg-plum">Book a place</a>
+</div>
+
+</section>
+
+
+
+
+
+<section class="related-courses">
+<div class="_container">
+<div class="_content">
+
+  <div class="heading">
+    <h3 class="heading-2 -big -bold">
+      You might also like
+    </h3>
+  </div>
+
+  <div class="courses-container">
+
+    <div class="frame" id="frameRelatedCourses">
+      <ul class="">
+
+
+          <li class="items">
+            <a href="/study/undergraduate/history-and-politics-ba-hons" title="BA (Hons) History and Politics Course">
+              <p>Undergraduate</p>
+
+              <h4 class="heading-3 -bold">
+                History and Politics 
+              </h4>
+              <p>Enhance your knowledge of the human experience over the long term, to apply historical insights to the study of politics and governance today. </p>
+            </a>
+          </li>
+          <li class="items">
+            <a href="/study/undergraduate/law-with-politics-llb-hons" title="LLB (Hons) Law with Politics Course">
+              <p>Undergraduate</p>
+
+              <h4 class="heading-3 -bold">
+                Law with Politics 
+              </h4>
+              <p>Study a qualifying law degree while gaining insight into how the law works in different political systems. </p>
+            </a>
+          </li>
+          <li class="items">
+            <a href="/study/undergraduate/politics-ba-hons" title="BA (Hons) Politics Course">
+              <p>Undergraduate</p>
+
+              <h4 class="heading-3 -bold">
+                Politics 
+              </h4>
+              <p>Focus on the most important topics and debates in past and contemporary politics whilst questioning conventional wisdom and your own preconceived ideas. </p>
+            </a>
+          </li>
+          <li class="items">
+            <a href="/study/undergraduate/philosophy-and-politics-ba-hons" title="BA (Hons) Philosophy and Politics Course">
+              <p>Undergraduate</p>
+
+              <h4 class="heading-3 -bold">
+                Philosophy and Politics 
+              </h4>
+              <p>Learn how to engage, debate, influence and lead. This programme teaches you to think about matters of fundamental importance from a wider perspective. </p>
+            </a>
+          </li>
+          <li class="items">
+            <a href="/study/undergraduate/law-and-legislative-studies-llb-hons" title="LLB (Hons) Law and Legislative Studies Course">
+              <p>Undergraduate</p>
+
+              <h4 class="heading-3 -bold">
+                Law and Legislative Studies 
+              </h4>
+              <p>Undertake legal research and apply your knowledge of legal and political science to broad social problems and challenges. </p>
+            </a>
+          </li>
+          <li class="items">
+            <a href="/study/undergraduate/politics-and-international-relations-ba-hons" title="BA (Hons) Politics and International Relations Course">
+              <p>Undergraduate</p>
+
+              <h4 class="heading-3 -bold">
+                Politics and International Relations 
+              </h4>
+              <p>Explore the themes and issues which drive 21st-century world politics. Our Politics and International Relations degree takes you behind the headlines to gain expertise in international affairs. </p>
+            </a>
+          </li>
+          <li class="items">
+            <a href="/study/undergraduate/philosophy-politics-economics-ba-hons" title="BA (Hons) Philosophy, Politics and Economics Course">
+              <p>Undergraduate</p>
+
+              <h4 class="heading-3 -bold">
+                Philosophy, Politics and Economics 
+              </h4>
+              <p>Take on the challenge of this classic combined programme to gain a wider perspective on modern society. </p>
+            </a>
+          </li>
+
+
+
+      </ul>
+    </div>
+
+    <div class="controls">
+      <button class="mods-prev" aria-label="Previous"><i class="fas fa-angle-left"><!-- Previous --></i></button>
+      <button class="mods-next" aria-label="Next"><i class="fas fa-angle-right"><!-- Next --></i></button>
+    </div>
+
+    <div class="scrollbar">
+      <div class="handle">
+        <div class="mousearea"></div>
+      </div>
+    </div>
+
+  </div>
+
+</div>
+</div>
+</section>
+
+
+
+
+
+
+
+
+
+
+<section class="hull-highlights -bg-grey">
+<div class="_container">
+<div class="_content">
+  <div class="content">
+    <h3 class="heading-2 -big -bold">
+      This. Is. Hull.
+    </h3>
+    <p>A place where we stand up to kings, do deals with the world and take a wrecking ball to the slave trade. A place where culture stands out and the phone boxes are a different colour. A place where we&#39;re free-thinking, independent and proud of it.</p>
+  </div>
+
+  <div class="overflow">
+    <div class="hi-slider">
+
+      <div class="frame" id="frameHullHighlights">
+        <ul>
+
+              <li class="items">
+                <a href="/special/teamgb">
+                  <div class="image-container">
+                    <picture>
+                      <source data-sal="fade" data-sal-duration="1500" srcset="/editor-assets/archived-content/teamgb/images/hull-university-team-gb-partnership-launch-28th-january-2019-26-recovered.x2815bdaf.jpg?f=webp&amp;q=85" alt="Hull-University-Team-GB-Partnership-Launch---28th-January-2019-26-Recovered" type="image/webp">
+                      <source data-sal="fade" data-sal-duration="1500" srcset="/editor-assets/archived-content/teamgb/images/hull-university-team-gb-partnership-launch-28th-january-2019-26-recovered.x2815bdaf.jpg?f=jpg&amp;q=85" alt="Hull-University-Team-GB-Partnership-Launch---28th-January-2019-26-Recovered" type="image/jpg">
+                      <img data-sal="fade" data-sal-duration="1500" src="/editor-assets/archived-content/teamgb/images/hull-university-team-gb-partnership-launch-28th-january-2019-26-recovered.x2815bdaf.jpg?f=jpg&amp;q=85" alt="Hull-University-Team-GB-Partnership-Launch---28th-January-2019-26-Recovered" />
+                    </picture>
+                  </div>
+                  <p class="caption -bg-plum"><strong>Team GB raising the bar</strong></p>
+                </a>
+              </li>
+              <li class="items">
+                <a href="/choose-hull/student-life/accommodation">
+                  <div class="image-container">
+                    <picture>
+                      <source data-sal="fade" data-sal-duration="1500" srcset="/assets/section/open-days/site-elements/images/general/westfield-court-accommodation.xef4591f8.jpg?f=webp&amp;q=85" alt="Westfield Court accommodation" type="image/webp">
+                      <source data-sal="fade" data-sal-duration="1500" srcset="/assets/section/open-days/site-elements/images/general/westfield-court-accommodation.xef4591f8.jpg?f=jpg&amp;q=85" alt="Westfield Court accommodation" type="image/jpg">
+                      <img data-sal="fade" data-sal-duration="1500" src="/assets/section/open-days/site-elements/images/general/westfield-court-accommodation.xef4591f8.jpg?f=jpg&amp;q=85" alt="Westfield Court accommodation" />
+                    </picture>
+                  </div>
+                  <p class="caption -bg-teal"><strong>Accommodation guaranteed</strong></p>
+                </a>
+              </li>
+              <li class="items">
+                <a href="/choose-hull/student-life">
+                  <div class="image-container">
+                    <picture>
+                      <source data-sal="fade" data-sal-duration="1500" srcset="/editor-assets/images/about/about-hull.x7f2441a7.jpg?f=webp&amp;q=85" alt="About-Hull" type="image/webp">
+                      <source data-sal="fade" data-sal-duration="1500" srcset="/editor-assets/images/about/about-hull.x7f2441a7.jpg?f=jpg&amp;q=85" alt="About-Hull" type="image/jpg">
+                      <img data-sal="fade" data-sal-duration="1500" src="/editor-assets/images/about/about-hull.x7f2441a7.jpg?f=jpg&amp;q=85" alt="About-Hull" />
+                    </picture>
+                  </div>
+                  <p class="caption -bg-blue"><strong>Life in Hull</strong></p>
+                </a>
+              </li>
+              <li class="items">
+                <a href="https://hulluniunion.com/" target="_blank" rel="noopener">
+                  <div class="image-container">
+                    <picture>
+                      <source data-sal="fade" data-sal-duration="1500" srcset="/editor-assets/images/hull-uni-campus/student-central.xf6c9bcc3.jpg?f=webp&amp;q=85" alt="Student Central" type="image/webp">
+                      <source data-sal="fade" data-sal-duration="1500" srcset="/editor-assets/images/hull-uni-campus/student-central.xf6c9bcc3.jpg?f=jpg&amp;q=85" alt="Student Central" type="image/jpg">
+                      <img data-sal="fade" data-sal-duration="1500" src="/editor-assets/images/hull-uni-campus/student-central.xf6c9bcc3.jpg?f=jpg&amp;q=85" alt="Student Central" />
+                    </picture>
+                  </div>
+                  <p class="caption -bg-teal-light"><strong>Hull University Union</strong></p>
+                </a>
+              </li>
+              <li class="items">
+                <a href="/choose-hull/student-life/student-support/student-support">
+                  <div class="image-container">
+                    <picture>
+                      <source data-sal="fade" data-sal-duration="1500" srcset="/editor-assets/images/students/press-or-publication-students-around-picnic-bench-in-pearson-park-1900x800.xc6ed28a5.jpg?f=webp&amp;q=85" alt="Press or Publication-Students around Picnic Bench in Pearson Park 1900x800" type="image/webp">
+                      <source data-sal="fade" data-sal-duration="1500" srcset="/editor-assets/images/students/press-or-publication-students-around-picnic-bench-in-pearson-park-1900x800.xc6ed28a5.jpg?f=jpg&amp;q=85" alt="Press or Publication-Students around Picnic Bench in Pearson Park 1900x800" type="image/jpg">
+                      <img data-sal="fade" data-sal-duration="1500" src="/editor-assets/images/students/press-or-publication-students-around-picnic-bench-in-pearson-park-1900x800.xc6ed28a5.jpg?f=jpg&amp;q=85" alt="Press or Publication-Students around Picnic Bench in Pearson Park 1900x800" />
+                    </picture>
+                  </div>
+                  <p class="caption -bg-plum"><strong>We&#39;re here. For you.</strong></p>
+                </a>
+              </li>
+              <li class="items">
+                <a href="https://sport.hull.ac.uk/facilities/" target="_blank" rel="noopener">
+                  <div class="image-container">
+                    <picture>
+                      <source data-sal="fade" data-sal-duration="1500" srcset="/work-with-us/research/site-elements/images/groups/sport-psychology-coaching.xf5f344f1.jpg?f=webp&amp;q=85" alt="Basketball" type="image/webp">
+                      <source data-sal="fade" data-sal-duration="1500" srcset="/work-with-us/research/site-elements/images/groups/sport-psychology-coaching.xf5f344f1.jpg?f=jpg&amp;q=85" alt="Basketball" type="image/jpg">
+                      <img data-sal="fade" data-sal-duration="1500" src="/work-with-us/research/site-elements/images/groups/sport-psychology-coaching.xf5f344f1.jpg?f=jpg&amp;q=85" alt="Basketball" />
+                    </picture>
+                  </div>
+                  <p class="caption -bg-teal"><strong>&#163;16-million sports facilities</strong></p>
+                </a>
+              </li>
+              <li class="items">
+                <a href="/choose-hull/student-life">
+                  <div class="image-container">
+                    <picture>
+                      <source data-sal="fade" data-sal-duration="1500" srcset="/editor-assets/images/2017/hull-hero.x1d48705e.png?f=webp&amp;q=85" alt="hull-hero" type="image/webp">
+                      <source data-sal="fade" data-sal-duration="1500" srcset="/editor-assets/images/2017/hull-hero.x1d48705e.png?f=jpg&amp;q=85" alt="hull-hero" type="image/jpg">
+                      <img data-sal="fade" data-sal-duration="1500" src="/editor-assets/images/2017/hull-hero.x1d48705e.png?f=jpg&amp;q=85" alt="hull-hero" />
+                    </picture>
+                  </div>
+                  <p class="caption -bg-crimson"><strong>Discover our university</strong></p>
+                </a>
+              </li>
+        </ul>
+      </div>
+
+      <div class="controls">
+        <button class="mods-prev" aria-label="Previous"><i class="fas fa-angle-left"><!-- Previous --></i></button>
+        <button class="mods-next" aria-label="Next"><i class="fas fa-angle-right"><!-- Next --></i></button>
+      </div>
+
+      <div class="scrollbar">
+        <div class="handle">
+          <div class="mousearea"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+</div>
+</section>
+
+
+
+
+
+
+
+
+
+<section class="footnote">
+<div class="_container">
+    <div class="_content">
+            <p>*Percentage of students from this subject area in work or further study within 15 months of graduating: UK domicile full-time first degree leavers, Graduate Outcomes survey for the academic year 2017/18, published by HESA 2020.</p>
+            <p>† National Student Survey (NSS) 2021, HEIs only</p>
+ </div>
+</div>
+</section>
+
+
+
+
+
+
+
+
+
+
+</article>
+<footer>
+<div class="container">
+<div class="staff">
+<p><strong style="display: block; margin-bottom: 40px; font-size: 24px; font-family: Stag,trebuchet,serif;">Staff and students</strong></p>
+<ul role="list">
+<li><a title="Schools and Faculties" class="sys_0 sys_t28406" href="/faculties">Faculties</a></li>
+<li><a title="Check your email" rel="noopener noreferrer" class="sys_16" href="http://365.hull.ac.uk/">Mail</a></li>
+<li><a title="Library Services" class="sys_0 sys_t0" href="/choose-hull/study-at-hull/library">Library</a></li>
+<li><a title="Canvas" rel="noopener noreferrer" class="sys_16" href="https://canvas.hull.ac.uk">Canvas</a></li>
+<li><a title="Student Support" class="sys_0 sys_t0" href="/choose-hull/student-life/student-support">Student Support</a></li>
+<li><a title="Your Timetable" rel="noopener noreferrer" class="sys_16" href="https://mytimetable.hull.ac.uk">Timetables</a></li>
+<li><a title="SharePoint" rel="noopener noreferrer" class="sys_16" href="https://share.hull.ac.uk">SharePoint</a></li>
+<li><a title="Information and Communication Technology Department" class="sys_16" href="/ict/">ICTD</a></li>
+<li><a title="Online Order and Payment Portal" rel="noopener noreferrer" class="sys_16" href="https://shop.hull.ac.uk">Online Order and Payment Portal</a></li>
+</ul>
+</div>
+<div class="contact" typeof="Organization">
+<p><strong style="display: block; margin-bottom: 40px; font-size: 24px; font-family: Stag,trebuchet,serif;">Contact</strong></p>
+<ul role="list">
+<li property="telephone"><a title="For general enquiries, call us on +44 (0)1482 346311" class="sys_16" href="tel:+441482346311">+44 (0)1482 346311</a></li>
+</ul>
+</div>
+<div class="find" typeof="Organization">
+<p><strong style="display: block; margin-bottom: 40px; font-size: 24px; font-family: Stag,trebuchet,serif;">Find us</strong></p>
+<address typeof="PostalAddress">
+<p><strong style="display: block; margin-bottom: 20px; font-size: 20px; font-family: Stag,trebuchet,serif;"><span property="name">University of Hull</span></strong></p>
+<ul role="list">
+<li property="addressLocality"><span>Hull</span>, <span>UK</span></li>
+<li property="postalCode">HU6 7RX</li>
+</ul>
+</address>
+<ul role="list">
+<li><a title="How to find us" class="sys_0 sys_t28406" href="/choose-hull/study-at-hull/visit-us/how-to-find-us">Getting here</a></li>
+<li><a title="Download the campus map" class="sys_21" href="/editor-assets/docs/campus-map.pdf">Campus map</a></li>
+<li><a title="AccessAble" target="_blank" rel="noopener noreferrer" class="sys_16" href="https://www.accessable.co.uk/university-of-hull/">AccessAble</a></li>
+</ul>
+</div>
+<div class="map"></div>
+<div class="social">
+<ul role="list">
+<li><a title="Visit us on Facebook" aria-label="Visit us on Facebook" target="_blank" rel="noopener noreferrer" class="sys_16" href="https://www.facebook.com/UniversityOfHull"><span class="fab fa-facebook-f">&nbsp;</span></a></li>
+<li><a title="Visit us on Twitter" aria-label="Visit us on Twitter" target="_blank" rel="noopener noreferrer" class="sys_16" href="https://twitter.com/UniOfHull"><span class="fab fa-twitter">&nbsp;</span></a></li>
+<li><a title="Visit us on Snapchat" aria-label="Visit us on Snapchat" target="_blank" rel="noopener noreferrer" class="sys_16" href="https://www.snapchat.com/add/uniofhull"><span class="fab fa-snapchat-ghost">&nbsp;</span></a></li>
+<li><a title="Visit our YouTube channel" aria-label="Visit our YouTube channel" target="_blank" rel="noopener noreferrer" class="sys_16" href="https://www.youtube.com/user/marcomshull"><span class="fab fa-youtube">&nbsp;</span></a></li>
+<li><a title="Visit our Flickr feed" aria-label="Visit our Flickr feed" target="_blank" rel="noopener noreferrer" class="sys_16" href="https://www.flickr.com/photos/universityofhull"><span class="fab fa-flickr">&nbsp;</span></a></li>
+<li><a title="Visit us on LinkedIn" aria-label="Visit us on LinkedIn" target="_blank" rel="noopener noreferrer" class="sys_16" href="https://www.linkedin.com/edu/the-university-of-hull-12668"><span class="fab fa-linkedin-in">&nbsp;</span></a></li>
+<li><a title="View our Instagram page" aria-label="View our Instagram page" target="_blank" rel="noopener noreferrer" class="sys_16" href="https://www.instagram.com/universityofhull/"><span class="fab fa-instagram">&nbsp;</span></a></li>
+</ul>
+</div>
+<div class="copy"><span>&copy;</span> University of Hull, 2022</div>
+<div class="legal">
+<ul role="list">
+<li><a title="accessibility" class="sys_0 sys_t0" href="/legal/accessibility">Accessibility</a></li>
+<li><a title="freedom-of-information" class="sys_0 sys_t0" href="/legal/freedom-of-information">Freedom of information</a></li>
+<li><a title="model-publication-scheme" class="sys_0 sys_t0" href="/legal/model-publication-scheme">Model Publication Scheme</a></li>
+<li><a title="modern-slavery-act" class="sys_0 sys_t0" href="/legal/modern-slavery-act">Modern Slavery</a></li>
+<li><a title="privacy-and-cookies" class="sys_0 sys_t0" href="/legal/privacy-and-cookies">Privacy and cookies</a></li>
+<li><a title="terms-and-conditions" class="sys_0 sys_t0" href="/legal/terms-and-conditions">Website terms and conditions</a></li>
+</ul>
+</div>
+</div>
+</footer>
+
+
+        </main>
+        <a href="#top" class="cd-top">Top</a>
+
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script><noscript><p>Browser does not support script.</p></noscript>
+
+        <script src="/site-elements/js/site.js?build=1201104"></script><noscript><p>Browser does not support script.</p></noscript>
+        <script src="https://kit.fontawesome.com/d19d73a48a.js" crossorigin="anonymous" defer="defer"></script><noscript><p>Browser does not support script.</p></noscript>
+        <script src="/assets/developer/js/4cc3551b1l1ty.js"></script><noscript><p>Browser does not support script.</p></noscript>
+    
+<div class="aspNetHidden">
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="A90E43B5" />
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+</div>
+    <script  type="text/javascript" src="/assets/section/courses/ug/site-elements/js/vendor.js?version=60686&amp;build=153133"></script><noscript><p>Browser does not support script.</p></noscript>
+    <script  type="text/javascript" src="/assets/section/courses/ug/site-elements/js/ug-courses.js?version=68029&amp;build=153133"></script><noscript><p>Browser does not support script.</p></noscript>
+</form>
+
+</body>
+
+</html>

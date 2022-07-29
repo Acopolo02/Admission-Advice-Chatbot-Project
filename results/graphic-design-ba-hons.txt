@@ -1,0 +1,147 @@
+courseName: GRAPHIC-DESIGN-BA-HONS
+COURSE OVERVIEW
+
+You'll learn about visual design, creative thinking, typography, the use of colour and composition and design history – and how to apply this knowledge through 2D and 3D design, web applications, animation and other evolving media. As well as a focus on your technical skills, you will also develop vital knowledge in leadership and professional practice – working as professionals do in a studio environment, while continually refining your own individual portfolio of work.
+
+
+You’ll have exclusive access to our media labs, home to the latest digital media software and hardware used in the industry today.
+
+
+In the Graphic Design, Art Direction and Creative Direction modules, you will learn how to create visual solutions for specific audiences for specific purposes. This is the very heart of graphic design — to first understand an audience, then present effective messages using text and imagery suitable for that audience.
+
+
+Taught by lecturers with a diverse range of industry experience – including digital media and graphic design, advertising, game design and web development – you will concentrate on constructing conceptual graphic design solutions that stimulate desired responses. Only then are your ideas practically applied using hardware and software. The ability to first conceptualise (and also implement) graphic design solutions are valuable skills, and this degree programme is designed to give our graduates an advantage over those with only technical abilities.
+
+
+Creativity lives and breathes at the University of Hull. Always has done, always will. It’s central to what universities do. But at Hull, we’re building something that goes far beyond our four walls. 
+
+
+courseLength 
+Course length
+3 years
+
+courseCode 
+UCAS code
+W210
+
+courseTitle 
+BA 
+
+                
+Graphic Design                
+courseMode Full-time
+description 
+Our Graphic Design programme is specifically structured to parallel professional advancement within the graphic design industry. 
+
+
+courseModules 
+First Year
+moduleName Practical Skills for Graphic Design: Adobe 2D
+moduleName Practical Skills for Graphic Design: Adobe 2D
+moduleName This 20-credit practical skills module will introduce you to basic graphic design software packages. Weekly lectures and workshops will teach you how to solve visual design exercises using both vector and bitmap art. Graphic Design students will apply these skills in the concurrently running 2D Visual Design module.
+moduleName This 20-credit practical skills module will introduce you to basic graphic design software packages. Weekly lectures and workshops will teach you how to solve visual design exercises using both vector and bitmap art. Graphic Design students will apply these skills in the concurrently running 2D Visual Design module.
+moduleName 
+
+moduleName Graphic Design Essentials: 2D Visual Design
+moduleName Graphic Design Essentials: 2D Visual Design
+moduleName As in all of your 40-credit modules, this intense design class aims to parallel industry practice. Assignments will include the basic exploration of conceptual design, typography, colour theory, visual composition and photo editing—all presented within the context of design history.
+moduleName As in all of your 40-credit modules, this intense design class aims to parallel industry practice. Assignments will include the basic exploration of conceptual design, typography, colour theory, visual composition and photo editing—all presented within the context of design history.
+moduleName 
+
+moduleName Practical Skills for Graphic Design: Adobe Web
+moduleName Practical Skills for Graphic Design: Adobe Web
+moduleName This module will provide you with the critical skills required to learn basic web software packages, and you will be encouraged to learn associated packages as well. You will develop a commitment to the process of ongoing skills development essential for long-term career goals.
+moduleName This module will provide you with the critical skills required to learn basic web software packages, and you will be encouraged to learn associated packages as well. You will develop a commitment to the process of ongoing skills development essential for long-term career goals.
+moduleName 
+
+moduleName Graphic Design Essentials: UI & UX Design
+moduleName Graphic Design Essentials: UI & UX Design
+moduleName This module introduces you to User Interface (UI) and User Experience (UX) design theory, and provides a gateway to the constantly evolving world of graphic design for the web. Assignments will focus on design process, design theory, scenarios, testing, evaluation, contemporary trends and future innovations.
+moduleName This module introduces you to User Interface (UI) and User Experience (UX) design theory, and provides a gateway to the constantly evolving world of graphic design for the web. Assignments will focus on design process, design theory, scenarios, testing, evaluation, contemporary trends and future innovations.
+moduleName 
+
+Second Year
+moduleName Practical Skills for Art Direction: Web Technologies
+moduleName Practical Skills for Art Direction: Web Technologies
+moduleName This exercised-based skills module will teach you to develop responsive web design layouts. You will develop initial design ideas into industry standard graphic design solutions, including a wide range of media content and interactive elements.
+moduleName This exercised-based skills module will teach you to develop responsive web design layouts. You will develop initial design ideas into industry standard graphic design solutions, including a wide range of media content and interactive elements.
+moduleName 
+
+moduleName Art Direction: Advanced Web Design
+moduleName Art Direction: Advanced Web Design
+moduleName This design module teaches you to convey ideas using the latest web technologies. Multiple assignments focus on advanced web and app design, and new ideas are introduced in each session. You will solve creative web design problems, including multi-channel, social media and interactive approaches.
+moduleName This design module teaches you to convey ideas using the latest web technologies. Multiple assignments focus on advanced web and app design, and new ideas are introduced in each session. You will solve creative web design problems, including multi-channel, social media and interactive approaches.
+moduleName 
+
+moduleName Practical Skills for Art Direction: The Moving Image
+moduleName Practical Skills for Art Direction: The Moving Image
+moduleName This software instruction module focuses on 2D animation, basic 3D modelling and animation, and video editing skills. The module will introduce you to the world of moving images and provides a working knowledge of these specialist design areas.
+moduleName This software instruction module focuses on 2D animation, basic 3D modelling and animation, and video editing skills. The module will introduce you to the world of moving images and provides a working knowledge of these specialist design areas.
+moduleName 
+
+moduleName Art Direction: Advanced Visual Design
+moduleName Art Direction: Advanced Visual Design
+moduleName This advanced visual design module will prepare you to progress within the graphic design industry. Through the introduction and application of sophisticated visual design theories, you will learn how to conceptually design, organise and implement larger projects using images that move.
+moduleName This advanced visual design module will prepare you to progress within the graphic design industry. Through the introduction and application of sophisticated visual design theories, you will learn how to conceptually design, organise and implement larger projects using images that move.
+moduleName 
+
+Third Year
+moduleName Professional Portfolio Design (Graphic Design)
+moduleName Professional Portfolio Design (Graphic Design)
+moduleName Portfolio development is an ongoing process throughout your degree programme. Each time that you submit an assignment, it becomes part of your evolving portfolio of work. This module will show you how to refine, edit and present this information for review by potential employers.
+moduleName Portfolio development is an ongoing process throughout your degree programme. Each time that you submit an assignment, it becomes part of your evolving portfolio of work. This module will show you how to refine, edit and present this information for review by potential employers.
+moduleName 
+
+moduleName Major Project (Graphic Design)
+moduleName Major Project (Graphic Design)
+moduleName The Major Project module allows you to focus on a particular area of graphic design specialism and develop it throughout your entire final year. By choosing a topic that reflects your career goals, you can show potential employers what you want to do and how well you can do it.
+moduleName The Major Project module allows you to focus on a particular area of graphic design specialism and develop it throughout your entire final year. By choosing a topic that reflects your career goals, you can show potential employers what you want to do and how well you can do it.
+moduleName 
+
+moduleName Emerging Technologies
+moduleName Emerging Technologies
+moduleName The Emerging Technologies module will allow you to explore new design trends that have developed while you have been studying for your degree. You will work with students from other School of Arts degree programmes to develop original applications of these ideas and technologies.
+moduleName The Emerging Technologies module will allow you to explore new design trends that have developed while you have been studying for your degree. You will work with students from other School of Arts degree programmes to develop original applications of these ideas and technologies.
+moduleName 
+
+FEE AND FUNDING 
+Home STUDENT: £9,250 per year*
+International STUDENT: £15,400 per year
+Additional Information about FEE
+*The amount you pay may increase each year, in line with inflation - but capped to the Retail Price Index (RPI).
+The fees shown are for 2022 entry. The fees for 2023 have not yet been confirmed and may increase.
+UK students can take out a tuition fee loan to cover the cost of their course and a maintenance loan of up to £9,706 to cover living costs.
+Substantial discounts are available for International students.  
+More information on fees can be found in the Money section of our website. 
+Your tuition fees will cover most costs associated with your programme (including registration, tuition, supervision, assessment and examination).There are some extra costs that you might have to pay, or choose to pay, depending on your programme of study and the decisions you make. The list below has some examples, and any extra costs will vary.
+
+Books (you’ll have access to books from your module reading lists in the library, but you may want to buy your own copies)
+Optional field trips
+Study abroad (including travel costs, accommodation, visas, immunisation)
+Placement costs (including travel costs and accommodation)
+Student visas (international students)
+Laptop (you’ll have access to laptops and PC’s on campus, but you may want to buy your own)
+Printing and photocopying
+Professional-body membership
+Graduation (gown hire and photography)
+
+Remember, you’ll still need to take into account your living costs. This could include accommodation, travel and food – to name just a few. 
+ENTRY REQUIREMENT: 
+INTERNATIONAL STUDENT: 
+If you require a student visa to study or if your first language is not English you will be required to provide acceptable evidence of your English language proficiency level.
+This course requires academic IELTS 6.0 overall, with no less than 5.5 in each skill. See other English language proficiency qualifications accepted by this University.
+If your English currently does not reach the University's required standard for this programme, you may be interested in one of our English language courses.
+Visit your country page to find out more about our entry requirements.
+LOCAL STUDENT: 
+
+A level grades N/A
+
+
+
+
+
+BTEC grades
+N/A
+
+
+

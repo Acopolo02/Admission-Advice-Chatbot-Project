@@ -1,0 +1,184 @@
+courseName: PHYSICS-BSC-MPHYS
+COURSE OVERVIEW
+
+Whether you want to explore the world at sub-atomic level or on a cosmological scale, you'll study physics under the guidance of experts. This degree provides you with the concepts and mathematical tools you'll need for a deep understanding of modern physics. 
+
+
+Our graduates have gone on to successful careers in well-known laboratories and research facilities including Jodrell Bank and the National Nuclear Laboratory.
+
+
+The University’s expertise was recognised as far back as 1969 when we were one of the scientific centres chosen to carry out tests on samples gathered from the Moon by Neil Armstrong’s historic Apollo 11 mission. Today we have some of the world's leading experts contributing to world class research and you'll get the chance to learn from them during your studies.
+
+
+courseLength 
+Course length
+3 years
+
+courseCode 
+UCAS code
+F300
+
+courseTitle 
+BSc 
+
+                
+Physics                
+courseMode Full-time
+description 
+Discover the concepts and tools to understand modern physics at a deep level on this accredited course.
+
+
+courseModules 
+First Year
+moduleName Introduction to Experimental Skills and Mathematics for Physics
+moduleName Introduction to Experimental Skills and Mathematics for Physics
+moduleName This module introduces the scientific instruments and experimental skills that you'll need to study physics. You'll develop your maths abilities so that you can solve physics problems.
+moduleName This module introduces the scientific instruments and experimental skills that you'll need to study physics. You'll develop your maths abilities so that you can solve physics problems.
+moduleName 
+
+moduleName Experimental Physics and Mathematics 1
+moduleName Experimental Physics and Mathematics 1
+moduleName This module further develops your practical and maths skills. You'll explore aspects of practical physics through experiments in teams.
+moduleName This module further develops your practical and maths skills. You'll explore aspects of practical physics through experiments in teams.
+moduleName 
+
+moduleName The Classical World
+moduleName The Classical World
+moduleName This module delivers essential physics covering two main themes: classical mechanics and optics. You'll study Newton's Laws and extend them to simple fluid dynamics.
+moduleName This module delivers essential physics covering two main themes: classical mechanics and optics. You'll study Newton's Laws and extend them to simple fluid dynamics.
+moduleName 
+
+moduleName Gravitation and Astronomy
+moduleName Gravitation and Astronomy
+moduleName On this module you'll study Kepler's Laws; observational astronomy and telescopes; stellar and galaxy evolution; and introductory cosmology.
+moduleName On this module you'll study Kepler's Laws; observational astronomy and telescopes; stellar and galaxy evolution; and introductory cosmology.
+moduleName 
+
+moduleName Electricity and Magnetism with Computation
+moduleName Electricity and Magnetism with Computation
+moduleName Discover electrostatics and magnetostatics and how to apply your knowledge of them. You'll also learn the essentials of Python, which is one of the most popular programming languages.
+moduleName Discover electrostatics and magnetostatics and how to apply your knowledge of them. You'll also learn the essentials of Python, which is one of the most popular programming languages.
+moduleName 
+
+moduleName From the Quantum World to the Macro World –  an Introduction to Quantum Physics and the Properties of Matter
+moduleName From the Quantum World to the Macro World –  an Introduction to Quantum Physics and the Properties of Matter
+moduleName Explore how quantum physics can explain the behaviour of atoms -  and how that behaviour can in turn explain the macroscopic properties of the matter around us.
+moduleName Explore how quantum physics can explain the behaviour of atoms -  and how that behaviour can in turn explain the macroscopic properties of the matter around us.
+moduleName 
+
+Second Year
+moduleName Experimental Physics and Mathematics 2
+moduleName Experimental Physics and Mathematics 2
+moduleName In lab classes, you'll develop your technique by creating experiments to solve specific problems. And in mathematics, you'll learn about differential equations and Fourier series. 
+moduleName In lab classes, you'll develop your technique by creating experiments to solve specific problems. And in mathematics, you'll learn about differential equations and Fourier series. 
+moduleName 
+
+moduleName Experimental Physics and Mathematics 3
+moduleName Experimental Physics and Mathematics 3
+moduleName Develop your own scientific investigations and do scientific research by designing experiments to answer a question that you set. You'll also learn about vector calculus.
+moduleName Develop your own scientific investigations and do scientific research by designing experiments to answer a question that you set. You'll also learn about vector calculus.
+moduleName 
+
+moduleName Thermodynamics, Statistical Physics and Special Relativity
+moduleName Thermodynamics, Statistical Physics and Special Relativity
+moduleName This module analyses the equilibrium behaviour of many-body systems from a macroscopic point of view (thermodynamics) and from a microscopic point of view (statistical physics). 
+moduleName This module analyses the equilibrium behaviour of many-body systems from a macroscopic point of view (thermodynamics) and from a microscopic point of view (statistical physics). 
+moduleName 
+
+moduleName Intermediate Quantum Mechanics with Advanced Computation
+moduleName Intermediate Quantum Mechanics with Advanced Computation
+moduleName This course continues your exploration of quantum-based concepts. You'll use Schrödinger’s equation and its solutions in different situations and examine angular momentum and spin. 
+moduleName This course continues your exploration of quantum-based concepts. You'll use Schrödinger’s equation and its solutions in different situations and examine angular momentum and spin. 
+moduleName 
+
+moduleName The Physics of Waves and Solid State
+moduleName The Physics of Waves and Solid State
+moduleName Study the essentials of wave phenomena leading up to electromagnetic waves and Maxwell's equations. You'll also learn about the electronic properties of solids.
+moduleName Study the essentials of wave phenomena leading up to electromagnetic waves and Maxwell's equations. You'll also learn about the electronic properties of solids.
+moduleName 
+
+moduleName Physics by Inquiry: Concepts and Relations
+moduleName Physics by Inquiry: Concepts and Relations
+moduleName During this module, you'll use physics to solve real-life problems from a wide range of topics. There's also a lecture series on famous current and historical areas of physics.
+moduleName During this module, you'll use physics to solve real-life problems from a wide range of topics. There's also a lecture series on famous current and historical areas of physics.
+moduleName 
+
+Third Year
+moduleName BSc Project
+moduleName BSc Project
+moduleName Plan, research, conduct and report a scientific investigation, either individually or in a group. This might include programming, data acquisition and analysis, and a study of related literature. 
+moduleName Plan, research, conduct and report a scientific investigation, either individually or in a group. This might include programming, data acquisition and analysis, and a study of related literature. 
+moduleName 
+
+moduleName Advanced Quantum and Plasma Physics
+moduleName Advanced Quantum and Plasma Physics
+moduleName What are the key theories and experiments of nuclear and particle physics? How can we apply quantum mechanics to solve problems in nuclear and particle physics? What is a Hilbert space?
+moduleName What are the key theories and experiments of nuclear and particle physics? How can we apply quantum mechanics to solve problems in nuclear and particle physics? What is a Hilbert space?
+moduleName 
+
+moduleName Numerical Modelling and Simulation with Research Project Planning
+moduleName Numerical Modelling and Simulation with Research Project Planning
+moduleName ​This module introduces you to a high-level of Python programming language. You'll learn about numerical techniques to solve a range of complex problems in physics or astrophysics.
+moduleName ​This module introduces you to a high-level of Python programming language. You'll learn about numerical techniques to solve a range of complex problems in physics or astrophysics.
+moduleName 
+
+moduleName Matter at Extremes
+moduleName Matter at Extremes
+moduleName Discover basic concepts of magnetism and superconductivity and outline their role in key applications. You’ll also learn to describe and define the main characteristics of a plasma.
+moduleName Discover basic concepts of magnetism and superconductivity and outline their role in key applications. You’ll also learn to describe and define the main characteristics of a plasma.
+moduleName  
+moduleName  
+moduleName 
+
+moduleName Physics of Semiconductor Devices
+moduleName Physics of Semiconductor Devices
+moduleName Gain insight and understanding of the basic physics that underpins several distinct areas in physics-based technologies in optics and electronics. 
+moduleName Gain insight and understanding of the basic physics that underpins several distinct areas in physics-based technologies in optics and electronics. 
+moduleName 
+
+moduleName Galactic and Extra-Galactic Astronomy
+moduleName Galactic and Extra-Galactic Astronomy
+moduleName This module develops your knowledge of the Milky Way and its structure, as well as other galaxies in the Universe and how they evolve.
+moduleName This module develops your knowledge of the Milky Way and its structure, as well as other galaxies in the Universe and how they evolve.
+moduleName 
+
+Fourth Year
+moduleName Physics
+moduleName Physics
+moduleName Leah Cox
+moduleName Leah Cox
+moduleName 
+
+FEE AND FUNDING 
+Home STUDENT: £9,250 per year*
+International STUDENT: International applicants may need to pay a tuition fee deposit before the start of the course. Visit our tuition fee deposit page for more information.
+Additional Information about FEE
+*The amount you pay may increase each year, in line with inflation - but capped to the Retail Price Index (RPI).
+The fees shown are for 2022 entry. The fees for 2023 have not yet been confirmed and may increase.
+UK students can take out a tuition fee loan to cover the cost of their course and a maintenance loan of up to £9,706 to cover living costs.
+Substantial discounts are available for International students.  
+More information on fees can be found in the Money section of our website. 
+Your tuition fees will cover most costs associated with your programme (including registration, tuition, supervision, assessment and examination).There are some extra costs that you might have to pay, or choose to pay, depending on your programme of study and the decisions you make. The list below has some examples, and any extra costs will vary.
+
+Books (you’ll have access to books from your module reading lists in the library, but you may want to buy your own copies)
+Optional field trips
+Study abroad (including travel costs, accommodation, visas, immunisation)
+Placement costs (including travel costs and accommodation)
+Student visas (international students)
+Laptop (you’ll have access to laptops and PC’s on campus, but you may want to buy your own)
+Printing and photocopying
+Professional-body membership
+Graduation (gown hire and photography)
+
+Remember, you’ll still need to take into account your living costs. This could include accommodation, travel and food – to name just a few. 
+ENTRY REQUIREMENT: 
+INTERNATIONAL STUDENT: 
+If you require a student visa to study or if your first language is not English you will be required to provide acceptable evidence of your English language proficiency level.
+This course requires academic IELTS 6.0 overall, with no less than 5.5 in each skill. See other English language proficiency qualifications accepted by this University.
+If your English currently does not reach the University's required standard for this programme, you may be interested in one of our English language courses.
+Visit your country page to find out more about our entry requirements.
+LOCAL STUDENT: 
+
+A level grades N/A
+
+

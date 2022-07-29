@@ -1,0 +1,265 @@
+courseName: GEOGRAPHY-BA-HONS
+COURSE OVERVIEW
+
+Geography explores the dynamic, complex and related physical and human processes that make the world work. Studying geography will give you the skills to help tackle the world’s biggest issues and to look at places with an expert and critical eye.
+
+
+Human geographers are interested in how society responds to environmental issues, including the range of different possibilities and perspectives, and understanding how they compete with each other. BA Geography focuses on topics within social science and humanities such as sustainability and development, cities and globalisation and people culture and space.
+
+
+Here at Hull, you’ll be introduced to geography’s key theoretical ideas and practical approaches. We specialise in tackling the major issues: from globalisation and sustainability to climate change and geohazards.
+
+
+All our Geography programmes have a common first year in which you’ll get to study human and physical geography and learn geographical skills. In your second and third year in BA Geography, you can continue to do both human and physical geography, or choose to focus on human geography - the choice is yours.
+
+
+courseLength 
+Course length
+3 years
+
+courseCode 
+UCAS code
+L700
+
+courseTitle 
+BA 
+
+                
+Geography                 
+courseMode Full-time
+description 
+Discover the social, economic and political forces shaping the world -  and visit places like Morocco, Malawi and Hong Kong.
+
+
+courseModules 
+First Year
+moduleName Human Geography: Worlds of Connection and Difference
+moduleName Human Geography: Worlds of Connection and Difference
+moduleName This module will introduce you to key perspectives in contemporary human geography. It uses the themes of difference and connection to explore a wide range of case studies. 
+moduleName This module will introduce you to key perspectives in contemporary human geography. It uses the themes of difference and connection to explore a wide range of case studies. 
+moduleName 
+
+moduleName Planet Earth
+moduleName Planet Earth
+moduleName A look at the planet we live on and its constituent systems and processes: oceans, atmosphere, biosphere and tectonics.
+moduleName A look at the planet we live on and its constituent systems and processes: oceans, atmosphere, biosphere and tectonics.
+moduleName 
+
+moduleName Exploring Worlds Around Us
+moduleName Exploring Worlds Around Us
+moduleName You’ll find out about many different ways of studying the world around us by exploring a specific field trip location.
+moduleName You’ll find out about many different ways of studying the world around us by exploring a specific field trip location.
+moduleName 
+
+moduleName Landscapes of the World
+moduleName Landscapes of the World
+moduleName This module introduces you to different landforms and landscapes found across the globe: from mountains and glaciers to rainforests, coastal and marine environments and deserts.
+moduleName This module introduces you to different landforms and landscapes found across the globe: from mountains and glaciers to rainforests, coastal and marine environments and deserts.
+moduleName 
+
+moduleName Interpreting Environments
+moduleName Interpreting Environments
+moduleName This module introduces you to some key tools we use to interpret the environments around us, such as computer mapping and data analysis. 
+moduleName This module introduces you to some key tools we use to interpret the environments around us, such as computer mapping and data analysis. 
+moduleName 
+
+moduleName Development and Change
+moduleName Development and Change
+moduleName Our changing world faces many challenges, especially in developing countries. Learn how geographers approach development, inequality, sustainability and governance.
+moduleName Our changing world faces many challenges, especially in developing countries. Learn how geographers approach development, inequality, sustainability and governance.
+moduleName 
+
+Second Year
+moduleName Frontiers in Human Geography
+moduleName Frontiers in Human Geography
+moduleName In this module, you'll learn how to design a dissertation research proposal in order to carry out independent research on a human geographical problem. 
+moduleName In this module, you'll learn how to design a dissertation research proposal in order to carry out independent research on a human geographical problem. 
+moduleName 
+
+moduleName Field Studies (Human Geography)
+moduleName Field Studies (Human Geography)
+moduleName Visit field locations such as Barcelona and Berlin, as well as UK destinations, where you'll design and conduct your own research projects. 
+moduleName Visit field locations such as Barcelona and Berlin, as well as UK destinations, where you'll design and conduct your own research projects. 
+moduleName 
+
+moduleName Global Challenge: Living in the Anthropocene
+moduleName Global Challenge: Living in the Anthropocene
+moduleName You'll consider profound questions about the scale of the impact of human activities on our planet and the prospects for sustainable global environmental stewardship. 
+moduleName You'll consider profound questions about the scale of the impact of human activities on our planet and the prospects for sustainable global environmental stewardship. 
+moduleName 
+
+moduleName Frontiers in Human Geography
+moduleName Frontiers in Human Geography
+moduleName In this module, you'll learn how to design a dissertation research proposal in order to carry out independent research on a human geographical problem. 
+moduleName In this module, you'll learn how to design a dissertation research proposal in order to carry out independent research on a human geographical problem. 
+moduleName 
+
+moduleName Cities and Globalisation
+moduleName Cities and Globalisation
+moduleName Using real examples of cities from around the world, you'll examine urban development patterns and processes in an era of rapid globalisation. 
+moduleName Using real examples of cities from around the world, you'll examine urban development patterns and processes in an era of rapid globalisation. 
+moduleName 
+
+moduleName Cultural and Historical Geography
+moduleName Cultural and Historical Geography
+moduleName You'll be using sources as diverse as films, music, art, landscape and maps to learn about the cultural, historical and social processes that make our world. 
+moduleName You'll be using sources as diverse as films, music, art, landscape and maps to learn about the cultural, historical and social processes that make our world. 
+moduleName 
+
+moduleName Sustainable Futures
+moduleName Sustainable Futures
+moduleName Study key issues relating to the concept of sustainability and attempts to create more sustainable ways of living. 
+moduleName Study key issues relating to the concept of sustainability and attempts to create more sustainable ways of living. 
+moduleName 
+
+moduleName Environmental Change
+moduleName Environmental Change
+moduleName Investigate how the environment, especially the climate, changes in the past, present and future through a combination of lectures and practical activities. 
+moduleName Investigate how the environment, especially the climate, changes in the past, present and future through a combination of lectures and practical activities. 
+moduleName 
+
+moduleName Geohazards
+moduleName Geohazards
+moduleName Explore what constitutes a geohazard, and the specifics of a range of natural hazards such as earthquakes, volcanic eruptions, tsunamis, flooding, and climate-related hazards.​
+moduleName Explore what constitutes a geohazard, and the specifics of a range of natural hazards such as earthquakes, volcanic eruptions, tsunamis, flooding, and climate-related hazards.​
+moduleName 
+
+moduleName Physical Geography in Action
+moduleName Physical Geography in Action
+moduleName You will explore a range of physical geographical processes that have direct impact on human life, either through determining resource availability or by creating a hazard (e.g. hydrological processes underlying both water availability for irrigation and the risk of flooding).
+moduleName You will explore a range of physical geographical processes that have direct impact on human life, either through determining resource availability or by creating a hazard (e.g. hydrological processes underlying both water availability for irrigation and the risk of flooding).
+moduleName 
+
+moduleName Geographical Information Systems
+moduleName Geographical Information Systems
+moduleName Develop your understanding of the principles and processes behind GIS, the nature and use of spatial data and the application of GIS on this practical module.
+moduleName Develop your understanding of the principles and processes behind GIS, the nature and use of spatial data and the application of GIS on this practical module.
+moduleName 
+
+moduleName Field Studies (Physical Geography)
+moduleName Field Studies (Physical Geography)
+moduleName Visit field locations including Tenerife and Almeria, as well as UK destinations, where you'll design and conduct your own research projects. 
+moduleName Visit field locations including Tenerife and Almeria, as well as UK destinations, where you'll design and conduct your own research projects. 
+moduleName 
+
+Third Year
+Fourth Year
+moduleName Dissertation
+moduleName Dissertation
+moduleName You will make an original contribution to research by designing, carrying out and writing up your own project on a topic you choose, supported by your dissertation supervisor.
+moduleName You will make an original contribution to research by designing, carrying out and writing up your own project on a topic you choose, supported by your dissertation supervisor.
+moduleName 
+
+moduleName Green Economy
+moduleName Green Economy
+moduleName Explore different theories, strategies and actions to green our economy and society in response to pressing issues such as climate change, resource scarcity and social inequalities. 
+moduleName Explore different theories, strategies and actions to green our economy and society in response to pressing issues such as climate change, resource scarcity and social inequalities. 
+moduleName 
+
+moduleName Geographies of Oppression and Resistance
+moduleName Geographies of Oppression and Resistance
+moduleName You'll cover topics such as neoliberalism and the ‘War on Terror’, totalitarianism, institutions of oppression, the civil rights movement, suffrage campaigns and climate change protests.
+moduleName You'll cover topics such as neoliberalism and the ‘War on Terror’, totalitarianism, institutions of oppression, the civil rights movement, suffrage campaigns and climate change protests.
+moduleName 
+
+moduleName Conservation in a Changing World
+moduleName Conservation in a Changing World
+moduleName Managing and protecting the natural environment is difficult enough, but we currently face rapid and dramatic change in climate, environment and socio-economic structures. Explore the challenges of planning effectively for conservation in a changing world.
+moduleName Managing and protecting the natural environment is difficult enough, but we currently face rapid and dramatic change in climate, environment and socio-economic structures. Explore the challenges of planning effectively for conservation in a changing world.
+moduleName 
+
+moduleName Adapting to Climate Change
+moduleName Adapting to Climate Change
+moduleName Investigate climate change, its impact on us and our adaptions to it, as well as future climate change scenarios. This module uses a combination of lectures, PC practicals and seminars.
+moduleName Investigate climate change, its impact on us and our adaptions to it, as well as future climate change scenarios. This module uses a combination of lectures, PC practicals and seminars.
+moduleName 
+
+moduleName Rivers and their Management
+moduleName Rivers and their Management
+moduleName A practical look at how we manage rivers, both in terms of the water they carry and their influence of a changing landscape.
+moduleName A practical look at how we manage rivers, both in terms of the water they carry and their influence of a changing landscape.
+moduleName 
+
+moduleName Teaching Project
+moduleName Teaching Project
+moduleName This module provides you with real world teaching experience and allows you to conduct a project with a school into an aspect of teaching and learning in your subject. 
+moduleName This module provides you with real world teaching experience and allows you to conduct a project with a school into an aspect of teaching and learning in your subject. 
+moduleName 
+
+moduleName Advanced GIS
+moduleName Advanced GIS
+moduleName Develop your geospatial analysis and modelling skills with GIS. This will provide you with key expertise when you enter the geographic job market.
+moduleName Develop your geospatial analysis and modelling skills with GIS. This will provide you with key expertise when you enter the geographic job market.
+moduleName 
+
+moduleName Food, Space and Society
+moduleName Food, Space and Society
+moduleName Explore the production and consumption networks that feed the city, following food from field to fork. Consider the complex systems of farming, food processing, retail and consumption that feed us.
+moduleName Explore the production and consumption networks that feed the city, following food from field to fork. Consider the complex systems of farming, food processing, retail and consumption that feed us.
+moduleName 
+
+moduleName Cities and Regions
+moduleName Cities and Regions
+moduleName This module introduces you to key concepts and policies related to urbanisation and regional development, focusing on selected examples from North America. 
+moduleName This module introduces you to key concepts and policies related to urbanisation and regional development, focusing on selected examples from North America. 
+moduleName 
+
+moduleName Palaeoenvironments
+moduleName Palaeoenvironments
+moduleName ​This module will take you on a journey through the current Ice Age, which spans the last 2.6 million years. 
+moduleName ​This module will take you on a journey through the current Ice Age, which spans the last 2.6 million years. 
+moduleName 
+
+moduleName Volcanoes and their Hazards
+moduleName Volcanoes and their Hazards
+moduleName Explore the key themes and current research-led understanding of volcanological processes and hazards, volcanic monitoring and management of volcanic crises around the world.
+moduleName Explore the key themes and current research-led understanding of volcanological processes and hazards, volcanic monitoring and management of volcanic crises around the world.
+moduleName 
+
+moduleName Professional Consultancy Project
+moduleName Professional Consultancy Project
+moduleName Work with an external host organisation on a research project designed to be useful to them, while being supervised by university tutors. 
+moduleName Work with an external host organisation on a research project designed to be useful to them, while being supervised by university tutors. 
+moduleName 
+
+FEE AND FUNDING 
+Home STUDENT: £9,250 per year*
+International STUDENT: £15,400 per year
+Additional Information about FEE
+*The amount you pay may increase each year, in line with inflation - but capped to the Retail Price Index (RPI).
+The fees shown are for 2022 entry. The fees for 2023 have not yet been confirmed and may increase.
+UK students can take out a tuition fee loan to cover the cost of their course and a maintenance loan of up to £9,706 to cover living costs.
+Substantial discounts are available for International students.  
+More information on fees can be found in the Money section of our website. 
+Your tuition fees will cover most costs associated with your programme (including registration, tuition, supervision, assessment and examination).There are some extra costs that you might have to pay, or choose to pay, depending on your programme of study and the decisions you make. The list below has some examples, and any extra costs will vary.
+
+Books (you’ll have access to books from your module reading lists in the library, but you may want to buy your own copies)
+Optional field trips
+Study abroad (including travel costs, accommodation, visas, immunisation)
+Placement costs (including travel costs and accommodation)
+Student visas (international students)
+Laptop (you’ll have access to laptops and PC’s on campus, but you may want to buy your own)
+Printing and photocopying
+Professional-body membership
+Graduation (gown hire and photography)
+
+Remember, you’ll still need to take into account your living costs. This could include accommodation, travel and food – to name just a few. 
+ENTRY REQUIREMENT: 
+INTERNATIONAL STUDENT: 
+If you require a student visa to study or if your first language is not English you will be required to provide acceptable evidence of your English language proficiency level.
+This course requires academic IELTS 6.0 overall, with no less than 5.5 in each skill. See other English language proficiency qualifications accepted by this University.
+If your English currently does not reach the University's required standard for this programme, you may be interested in one of our English language courses.
+Visit your country page to find out more about our entry requirements.
+LOCAL STUDENT: 
+
+A level grades N/A
+
+
+
+
+
+BTEC grades
+N/A
+
+
+

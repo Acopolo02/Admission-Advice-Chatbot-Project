@@ -1,0 +1,181 @@
+courseName: MATHEMATICS-BSC-HONS
+COURSE OVERVIEW
+
+An intellectually challenging degree which encourages conceptual and abstract thought.
+
+
+You’ll gain an understanding of pure and applied mathematics on this accredited course, while developing your knowledge of probability, statistics, and numerical programming.
+
+
+You'll study in small groups as part of our close-knit mathematical community, under renowned researchers whose specialisms include algebra, geometry, fluid dynamics and astrophysics.
+
+
+Under their expert guidance, you’ll work on projects that will push and develop your abilities in topics at the frontier of mathematics. Our degrees prepare you for your future career by encouraging conceptual and abstract thought.
+
+
+Students with good A level results, or equivalent, may be eligible for the Gillian Stead Bursary - worth up to £6,300 over three years.
+
+
+courseLength 
+Course length
+3 years
+
+courseCode 
+UCAS code
+G100
+
+courseTitle 
+BSc 
+
+                
+Mathematics                
+courseMode Full-time
+description 
+Explore pure and applied mathematics on this accredited course, and get a grounding in probability, statistics, and numerical programming.​ 
+
+
+courseModules 
+First Year
+moduleName Introduction to University Mathematics
+moduleName Introduction to University Mathematics
+moduleName Study logic, sets and rigorous proofs, which are fundamental to university-level maths. You'll solve mathematics problems using Python and produce professional mathematical reports in LaTeX.
+moduleName Study logic, sets and rigorous proofs, which are fundamental to university-level maths. You'll solve mathematics problems using Python and produce professional mathematical reports in LaTeX.
+moduleName 
+
+moduleName Calculus
+moduleName Calculus
+moduleName You'll study, for a function of a single real variable, the limit processes of differentiation and integration using logic and the language of set theory.
+moduleName You'll study, for a function of a single real variable, the limit processes of differentiation and integration using logic and the language of set theory.
+moduleName 
+
+moduleName Numbers, Sequences and Series
+moduleName Numbers, Sequences and Series
+moduleName This module introduces the basic number systems used in mathematics and the notion of limits. You'll evaluate limits of sequences and series and determine whether they converge.
+moduleName This module introduces the basic number systems used in mathematics and the notion of limits. You'll evaluate limits of sequences and series and determine whether they converge.
+moduleName 
+
+moduleName Linear Algebra
+moduleName Linear Algebra
+moduleName This module delivers essential core mathematics. You’ll explore vectors, matrices, vector spaces, linear equation systems and dimension.
+moduleName This module delivers essential core mathematics. You’ll explore vectors, matrices, vector spaces, linear equation systems and dimension.
+moduleName 
+
+moduleName Probability and Statistics
+moduleName Probability and Statistics
+moduleName Learn how to use basic results from probability theory, such as standard probability distributions - and how to statistically estimate and test hypotheses of model parameters.
+moduleName Learn how to use basic results from probability theory, such as standard probability distributions - and how to statistically estimate and test hypotheses of model parameters.
+moduleName 
+
+moduleName Modelling and Optimisation
+moduleName Modelling and Optimisation
+moduleName You'll see how mathematics, in association with stated assumptions or physical laws, can be used to model processes and predict potential outcomes.
+moduleName You'll see how mathematics, in association with stated assumptions or physical laws, can be used to model processes and predict potential outcomes.
+moduleName 
+
+Second Year
+moduleName Vector Calculus
+moduleName Vector Calculus
+moduleName Study differentiation and integration of scalar-valued and vector-valued functions of several variables. You'll focus on applications to curves and surfaces in three-dimensional space.
+moduleName Study differentiation and integration of scalar-valued and vector-valued functions of several variables. You'll focus on applications to curves and surfaces in three-dimensional space.
+moduleName 
+
+moduleName Differential Equations
+moduleName Differential Equations
+moduleName Explore solution-generating techniques including Wronskian procedures, Laplace transforms and the method of Frobenius, concluding with the more advanced application of Sturm-Liouville theory.
+moduleName Explore solution-generating techniques including Wronskian procedures, Laplace transforms and the method of Frobenius, concluding with the more advanced application of Sturm-Liouville theory.
+moduleName 
+
+moduleName Analysis
+moduleName Analysis
+moduleName What do we mean by saying that a function is continuous, smooth or differentiable? This module defines these and other statements about functions that we often take for granted.
+moduleName What do we mean by saying that a function is continuous, smooth or differentiable? This module defines these and other statements about functions that we often take for granted.
+moduleName 
+
+moduleName Modelling and Mechanics
+moduleName Modelling and Mechanics
+moduleName Further develop your modelling skills by applying the rules of mechanics. Topics covered include forces and moments, Newton’s Laws of Motion, as well as further dynamics, and how to use these techniques to solve real-world problems. You will have the opportunity to develop your group working, technical writing and communication skills.
+moduleName Further develop your modelling skills by applying the rules of mechanics. Topics covered include forces and moments, Newton’s Laws of Motion, as well as further dynamics, and how to use these techniques to solve real-world problems. You will have the opportunity to develop your group working, technical writing and communication skills.
+moduleName 
+
+moduleName Functions of a Complex Variable
+moduleName Functions of a Complex Variable
+moduleName On this module, you'll study differentiation and integration of a complex-valued function of a complex-valued variable. 
+moduleName On this module, you'll study differentiation and integration of a complex-valued function of a complex-valued variable. 
+moduleName 
+
+moduleName Partial Differential Equations
+moduleName Partial Differential Equations
+moduleName Study methods for solving first- and second-order partial differential equations, mainly for scalar-valued functions of two or more variables.
+moduleName Study methods for solving first- and second-order partial differential equations, mainly for scalar-valued functions of two or more variables.
+moduleName 
+
+moduleName Statistical Models
+moduleName Statistical Models
+moduleName This module investigates nonparametrical tests, such as goodness-of fit and rank tests. You’ll also learn how to use linear regression models and analysis of variance.
+moduleName This module investigates nonparametrical tests, such as goodness-of fit and rank tests. You’ll also learn how to use linear regression models and analysis of variance.
+moduleName 
+
+Third Year
+moduleName Mathematical Project
+moduleName Mathematical Project
+moduleName Under the supervision of your supervisor, you will perform an in-depth examination of a mathematical topic.
+moduleName Under the supervision of your supervisor, you will perform an in-depth examination of a mathematical topic.
+moduleName 
+
+moduleName Differential Geometry
+moduleName Differential Geometry
+moduleName Study curves and surfaces in 3D using vector calculus, linear algebra and analysis. How do you make a map of the world? What is the Möbius strip? How curved is a sphere or a cube?
+moduleName Study curves and surfaces in 3D using vector calculus, linear algebra and analysis. How do you make a map of the world? What is the Möbius strip? How curved is a sphere or a cube?
+moduleName 
+
+moduleName Dynamical Systems
+moduleName Dynamical Systems
+moduleName Study how real-world phenomena can be modelled as interconnected systems of differential equations. You’ll discover how these systems evolve over a long period of time.
+moduleName Study how real-world phenomena can be modelled as interconnected systems of differential equations. You’ll discover how these systems evolve over a long period of time.
+moduleName 
+
+moduleName Numerical Computation with Python
+moduleName Numerical Computation with Python
+moduleName Many real-world mathematics problems are too difficult to solve analytically to yield a nice closed solution. Learn how the original mathematical problem can be approximated by a numerical approach and how to implement this using Python.
+moduleName Many real-world mathematics problems are too difficult to solve analytically to yield a nice closed solution. Learn how the original mathematical problem can be approximated by a numerical approach and how to implement this using Python.
+moduleName 
+
+moduleName Data Science
+moduleName Data Science
+moduleName In this age of big data, the ability to analyse large datasets and extract useful information from them becomes increasingly important. This module focuses on several machine learning techniques that can be used for this.
+moduleName In this age of big data, the ability to analyse large datasets and extract useful information from them becomes increasingly important. This module focuses on several machine learning techniques that can be used for this.
+moduleName 
+
+FEE AND FUNDING 
+Home STUDENT: £9,250 per year*
+International STUDENT: £15,400 per year
+Additional Information about FEE
+*The amount you pay may increase each year, in line with inflation - but capped to the Retail Price Index (RPI).
+The fees shown are for 2022 entry. The fees for 2023 have not yet been confirmed and may increase.
+UK students can take out a tuition fee loan to cover the cost of their course and a maintenance loan of up to £9,706 to cover living costs.
+Substantial discounts are available for International students.  
+More information on fees can be found in the Money section of our website. 
+Your tuition fees will cover most costs associated with your programme (including registration, tuition, supervision, assessment and examination).There are some extra costs that you might have to pay, or choose to pay, depending on your programme of study and the decisions you make. The list below has some examples, and any extra costs will vary.
+
+Books (you’ll have access to books from your module reading lists in the library, but you may want to buy your own copies)
+Optional field trips
+Study abroad (including travel costs, accommodation, visas, immunisation)
+Placement costs (including travel costs and accommodation)
+Student visas (international students)
+Laptop (you’ll have access to laptops and PC’s on campus, but you may want to buy your own)
+Printing and photocopying
+Professional-body membership
+Graduation (gown hire and photography)
+
+Remember, you’ll still need to take into account your living costs. This could include accommodation, travel and food – to name just a few. 
+ENTRY REQUIREMENT: 
+INTERNATIONAL STUDENT: 
+If you require a student visa to study or if your first language is not English you will be required to provide acceptable evidence of your English language proficiency level.
+This course requires academic IELTS 6.0 overall, with no less than 5.5 in each skill. See other English language proficiency qualifications accepted by this University.
+If your English currently does not reach the University's required standard for this programme, you may be interested in one of our English language courses.
+Visit your country page to find out more about our entry requirements.
+LOCAL STUDENT: 
+
+A level grades N/A
+
+

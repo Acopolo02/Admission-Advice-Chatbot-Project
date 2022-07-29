@@ -1,0 +1,1978 @@
+
+<!DOCTYPE html>
+
+	<html lang="en-GB" dir="ltr">
+
+	<head><meta http-equiv="X-UA-Compatible" content="IE=Edge" /><meta charset="utf-8"><title>
+	BA (Hons) Media Production Course | University of Hull
+</title><meta name="theme-color" content="#991E66" />
+    
+    
+    
+    <meta name="GENERATOR" content="Contensis CMS Version 15.3" />
+<meta name="description" content="Develop your creative skills and technical expertise on a BA in Media Production degree at the University of Hull. Apply now for 2022." />
+<meta name="Keywords" content="media productions, ba, 2022, 2023, media production, media studies, media production degree, undergraduate, course, ba media degree, apply, study, film studies, film production, digital media" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="clearing" content="0" />
+<meta name="entry_id" content="edfc89b6-307d-4133-8119-ccc9a811ca4c" />
+
+
+<link rel="preload" href="/assets/developer/fonts/stag/stag-light.woff" as="font" type="font/woff" crossorigin="anonymous" /><link rel="preload" href="/assets/developer/fonts/stag/stag-light.woff2" as="font" type="font/woff2" crossorigin="anonymous" /><link rel="preload" href="/assets/developer/fonts/stag/stag-semibold.woff" as="font" type="font/woff" crossorigin="anonymous" /><link rel="preload" href="/assets/developer/fonts/stag/stag-semibold.woff2" as="font" type="font/woff2" crossorigin="anonymous" /><link rel="preload" href="/assets/developer/fonts/stag-sans/stagsans-book.woff" as="font" type="font/woff" crossorigin="anonymous" /><link rel="preload" href="/assets/developer/fonts/stag-sans/stagsans-book.woff2" as="font" type="font/woff2" crossorigin="anonymous" /><link rel="preload" href="/assets/developer/fonts/stag-sans/stagsans-semibold.woff" as="font" type="font/woff" crossorigin="anonymous" /><link rel="preload" href="/assets/developer/fonts/stag-sans/stagsans-semibold.woff2" as="font" type="font/woff2" crossorigin="anonymous" /><link rel="preload" href="/assets/developer/fonts/stag-sans/stagsans-bold.woff" as="font" type="font/woff" crossorigin="anonymous" /><link rel="preload" href="/assets/developer/fonts/stag-sans/stagsans-bold.woff2" as="font" type="font/woff2" crossorigin="anonymous" /><link rel="preload" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" as="style" crossorigin="anonymous" /><link rel="preconnect" href="https://unpkg.com" />
+
+		<!-- Favicons -->
+		<link rel="apple-touch-icon" sizes="180x180" href="/site-elements/img/favicon/apple-touch-icon.png?v=XBJ4bz98X3" /><link rel="icon" type="image/png" sizes="32x32" href="/site-elements/img/favicon/favicon-32x32.png?v=XBJ4bz98X3" /><link rel="icon" type="image/png" sizes="194x194" href="/site-elements/img/favicon/favicon-194x194.png?v=XBJ4bz98X3" /><link rel="icon" type="image/png" sizes="192x192" href="/site-elements/img/favicon/android-chrome-192x192.png?v=XBJ4bz98X3" /><link rel="icon" type="image/png" sizes="16x16" href="/site-elements/img/favicon/favicon-16x16.png?v=XBJ4bz98X3" />
+		<!--link rel="manifest" href="/site-elements/img/favicon/site.webmanifest?v=XBJ4bz98X3" /-->
+		<link rel="mask-icon" href="/site-elements/img/favicon/safari-pinned-tab.svg?v=XBJ4bz98X3" color="#54585a" /><link rel="shortcut icon" href="/site-elements/img/favicon/favicon.ico?v=XBJ4bz98X3" /><meta name="apple-mobile-web-app-title" content="Uni of Hull" /><meta name="application-name" content="Uni of Hull" /><meta name="msapplication-TileColor" content="#ce0058" /><meta name="msapplication-config" content="/site-elements/img/favicon/browserconfig.xml?v=XBJ4bz98X3" /><link href="/assets/developer/css/layout.css" rel="stylesheet" type="text/css" /><link href="/assets/developer/css/site.css?version=67872" rel="stylesheet" type="text/css" />
+<link href="/assets/section/courses/ug/site-elements/css/ug-courses.css?version=68541" rel="stylesheet" type="text/css" />
+<link href="/assets/components/media/panoramic/pannellum.css?version=65086" rel="stylesheet" type="text/css" />
+<!--
+ControlID:Ctrl8f74d87676bd47ef8075a68fe92b8eda of type CMS_API.WebUI.WebControls.RazorView has set the maximum duration to 600 seconds
+ControlID:__Page of type ASP.study_undergraduate_media_production_ba_hons_aspx has set the maximum duration to 3600 seconds
+Cache Enabled using rule ControlID:Ctrl8f74d87676bd47ef8075a68fe92b8eda of type CMS_API.WebUI.WebControls.RazorView has set the maximum duration to 600 seconds
+Cache Page Render Time 13/07/2022 16:46:16
+
+-->		<script  type="text/javascript" src="/assets/components/media/panoramic/pannellum.js?version=65087&amp;build=153133"></script>
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous" /><!-- Google Tag Manager -->
+<script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-P978LR');
+</script>
+<!-- End Google Tag Manager -->
+
+		<script defer="" src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
+		<script src="/site-elements/js/vendor/modernizr-custom.min.js" defer="defer"></script>
+	<meta name="twitter:card" content="summary" /><meta name="twitter:site" content="@UniOfHull" /><meta name="twitter:title" content="Media Production" /><meta name="twitter:description" content="Develop your creative skills and technical expertise on a BA in Media Production degree at the University of Hull. Apply now for 2022." /><meta name="twitter:image" /><meta name="og:title" content="Media Production" /><meta name="og:url" content="https://www.hull.ac.uk/study/undergraduate/media-production-ba-hons.aspx" /><meta name="og:type" content="website" /><meta name="og:description" content="Develop your creative skills and technical expertise on a BA in Media Production degree at the University of Hull. Apply now for 2022." /><meta name="og:image" /><link rel="canonical" href="https://www.hull.ac.uk/study/undergraduate/media-production-ba-hons.aspx" /></head>
+
+	<body vocab="https://schema.org/" typeof="WebPage">
+		<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P978LR" title="Google Tag Manager" style="height:0;width:0;display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><!--[if lt IE 9]>
+	<p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a class="button button--green" href="https://browsehappy.com/" target="_blank" rel="noopener">upgrade your browser</a> to improve your experience and security.</p>   
+<![endif]-->
+
+		<div>
+			<a href="#main-content" class="visuallyhidden focusable" style="color:#00828b;font-weight:600;cursor:pointer;">Skip to main content</a>
+		</div>
+
+		<form method="post" action="/study/undergraduate/media-production-ba-hons" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="pIhAmWbunXvNW8j00DnvScBce9blb7H1QqM238hoPEpURPQDub9cHd+JN0umh43IA8JWRuGe7mxM5oaqRJ90pCl6u8Y=" />
+</div>
+
+
+
+			<main class="wrap" id="top">
+
+				
+    
+
+<header class="floating-menu">
+<section class="main-navigation">
+<div class="content">
+<div class="logo"><a class="image-link" title="University homepage" href="/"> <img class="black" alt="The University of Hull" src="//www.hull.ac.uk/site-elements/img/layout/header/logo/UoH-logo-white.svg" height="95" width="150" /> </a></div>
+<nav>
+<ul class="desktop-only" role="list">
+<li class="study"><a class="image-link" role="button" rel="nofollow" href="#0">Study</a></li>
+<li class="choose"><a class="image-link" role="button" rel="nofollow" href="#0">Choose Hull</a></li>
+<li class="international"><a class="image-link" role="button" rel="nofollow" href="#0">International</a></li>
+<li class="research"><a class="image-link" role="button" rel="nofollow" href="#0">Research</a></li>
+<li class="business"><a class="image-link" role="button" rel="nofollow" href="#0">Business</a></li>
+<li class="work"><a class="image-link" role="button" rel="nofollow" href="#0">Work with us</a></li>
+<li class="search"><a class="image-link" role="button" aria-label="Search" rel="nofollow" href="#0"><span class="fa fa-search">&nbsp;</span></a></li>
+</ul>
+<div class="ham-menu mobile-only"><button class="hamburger hamburger--htx" title="Main menu"> <span>toggle menu</span> </button></div>
+</nav></div>
+</section>
+<section class="menu-items search">
+<div class="content">
+<div class="search-container">
+<div class="select-container"><select id="filters" class="select-filter" aria-label="Search categories" name="filters">
+<option selected="selected">All</option>
+<option value="courses">Courses</option>
+<option value="research">Research</option>
+<option value="staff">Staff</option>
+<option value="news">News</option>
+</select></div>
+<div class="searchbox-container"><input id="siteSearch" accesskey="q" class="search" title="Search the website" type="search" autocomplete="off" placeholder="Search the website" size="15" name="query" /> <input id="goButton" title="Search our website" type="button" /></div>
+</div>
+</div>
+</section>
+<section class="navigation">
+<div class="content">
+<div class="primary mobile-only">
+<div class="magic-box">
+<ul role="list">
+<li class="study"><a class="image-link" role="button" rel="nofollow" href="#0">Study</a></li>
+<li class="choose"><a class="image-link" role="button" rel="nofollow" href="#0">Choose Hull</a></li>
+<li class="international"><a class="image-link" role="button" rel="nofollow" href="#0">International</a></li>
+<li class="research"><a class="image-link" role="button" rel="nofollow" href="#0">Research</a></li>
+<li class="business"><a class="image-link" role="button" rel="nofollow" href="#0">Business</a></li>
+<li class="work"><a class="image-link" role="button" rel="nofollow" href="#0">Work with us</a></li>
+</ul>
+</div>
+</div>
+<div class="secondary">
+<div class="menu-items study"><strong>Choose your subject</strong>
+
+	<ul role="list">
+		<li><a href="/faculties/subjects/accounting-and-finance">Accounting and Finance</a></li>
+		<li><a href="/faculties/subjects/american-studies">American Studies</a></li>
+		<li><a href="/faculties/subjects/biochemistry">Biochemistry</a></li>
+		<li><a href="/faculties/subjects/biological-and-marine-science">Biology</a></li>
+		<li><a href="/faculties/subjects/biomedical-sciences">Biomedical Science</a></li>
+		<li><a href="/faculties/subjects/business-management">Business and Management</a></li>
+		<li><a href="/faculties/subjects/chemical-engineering">Chemical Engineering</a></li>
+		<li><a href="/faculties/subjects/chemistry">Chemistry</a></li>
+		<li><a href="/faculties/subjects/computer-science">Computer Science</a></li>
+		<li><a href="/faculties/subjects/criminology-and-professional-policing">Criminology and Professional Policing</a></li>
+		<li><a href="/faculties/subjects/drama">Drama, Theatre and Performance</a></li>
+		<li><a href="/faculties/subjects/economics">Economics</a></li>
+		<li><a href="/faculties/subjects/education-teaching-and-childhood-studies">Education, Teaching and Childhood Studies</a></li>
+		<li><a href="/faculties/subjects/electrical-and-electronic-engineering">Electrical and Electronic Engineering</a></li>
+		<li><a href="/faculties/subjects/english">English and Creative Writing</a></li>
+		<li><a href="/faculties/subjects/environmental-science">Environmental Science</a></li>
+		<li><a href="/faculties/subjects/film-and-media-studies">Film and Media Studies</a></li>
+		<li><a href="/faculties/subjects/forensic-science">Forensic Science</a></li>
+		<li><a href="/faculties/subjects/game-graphic-design">Game and Graphic Design</a></li>
+		<li><a href="/faculties/subjects/geography">Geography</a></li>
+		<li><a href="/faculties/subjects/health-nursing-and-midwifery">Health, Nursing and Midwifery</a></li>
+		<li><a href="/faculties/subjects/history">History</a></li>
+		<li><a href="/faculties/subjects/law">Law</a></li>
+		<li><a href="/faculties/subjects/marine-biology">Marine Biology</a></li>
+		<li><a href="/faculties/subjects/marketing">Marketing</a></li>
+		<li><a href="/faculties/subjects/mathematics">Mathematics</a></li>
+		<li><a href="/faculties/subjects/mechanical-engineering">Mechanical Engineering</a></li>
+		<li><a href="/faculties/subjects/medical-and-biomedical-engineering">Medical and Biomedical Engineering</a></li>
+		<li><a href="/faculties/subjects/medicine">Medicine</a></li>
+		<li><a href="/faculties/subjects/music">Music</a></li>
+		<li><a href="/faculties/subjects/philosophy">Philosophy</a></li>
+		<li><a href="/faculties/subjects/physics-and-astrophysics">Physics and Astrophysics</a></li>
+		<li><a href="/faculties/subjects/politics-and-international-studies">Politics and International Studies</a></li>
+		<li><a href="/faculties/subjects/psychology">Psychology</a></li>
+		<li><a href="/faculties/subjects/robotics-and-artificial-intelligence">Robotics and Artificial Intelligence</a></li>
+		<li><a href="/faculties/subjects/social-work">Social Work</a></li>
+		<li><a href="/faculties/subjects/sport-health-and-exercise-science">Sport, Health and Exercise Science</a></li>
+		<li><a href="/faculties/subjects/teacher-education">Teacher Education</a></li>
+		<li><a href="/faculties/subjects/zoology">Zoology</a></li>
+	</ul>
+
+<div class="more-courses"><span>View all our courses:</span> <a title="View all our undergraduate courses" class="sys_0 sys_t0" href="/study/undergraduate">Undergraduate</a> <a title="View all our postgraduate taught courses" class="sys_0 sys_t0" href="/study/postgraduate/next-step">Postgraduate Taught</a> <a title="View all our postgraduate research courses" class="sys_0 sys_t34521" href="/study/postgraduate/research">Postgraduate Research</a> <a title="View all our PhD Scholarships" class="sys_0 sys_t28406" href="/study/postgraduate/research/phd">PhD Scholarships</a> <a title="View all our Online courses" target="_blank" rel="noopener" class="sys_16" href="https://online.hull.ac.uk">Online</a> <a class="orderpros" title="Order a prospectus" href="/study/order-or-download-a-prospectus">Order a prospectus</a></div>
+</div>
+<div class="menu-items choose">
+<div class="menu-item-containers"><strong>University and region</strong>
+
+
+
+<ul role="list">
+  <li><a href="/choose-hull/university-and-region/about-us/about-the-university-of-hull">About the University of Hull</a></li>
+  <li><a href="/choose-hull/university-and-region/team-gb/team-gb-partnership">Team GB Partnership</a></li>
+  <li><a href="/choose-hull/university-and-region/the-city-of-hull/about-hull-and-the-region">Hull and the Region</a></li>
+  <li><a href="/choose-hull/university-and-region/sustainability/sustainability">Sustainability</a></li>
+  <li><a href="/choose-hull/university-and-region/key-documents">Key documents</a></li>
+</ul>
+</div>
+<div class="menu-item-containers"><strong>Study at Hull</strong>
+
+
+
+<ul role="list">
+  <li><a href="/choose-hull/study-at-hull/visit-us">Visit Us</a></li>
+  <li><a href="/choose-hull/study-at-hull/money">Fees and Finance</a></li>
+  <li><a href="/choose-hull/study-at-hull/admissions">Applying to Hull</a></li>
+  <li><a href="/choose-hull/study-at-hull/mature-students">Mature students</a></li>
+  <li><a href="/choose-hull/study-at-hull/doctoral-college">Doctoral College</a></li>
+  <li><a href="/choose-hull/study-at-hull/student-contract">Student Contract</a></li>
+  <li><a href="/choose-hull/study-at-hull/careers-and-employability">Student Futures</a></li>
+  <li><a href="/choose-hull/study-at-hull/library">Library</a></li>
+  <li><a href="/choose-hull/study-at-hull/teaching-academy">Teaching Academy</a></li>
+</ul>
+</div>
+<div class="menu-item-containers"><strong>Student life</strong>
+
+
+
+<ul role="list">
+  <li><a href="/choose-hull/student-life">Choose Hull</a></li>
+  <li><a href="/choose-hull/student-life/student-support">Student support</a></li>
+  <li><a href="/choose-hull/student-life/virtual-tour">Virtual tour</a></li>
+  <li><a href="/choose-hull/student-life/accommodation">Accommodation</a></li>
+  <li><a href="/choose-hull/student-life/students-union/students-union">Students&#39; union</a></li>
+  <li><a href="/choose-hull/student-life/clubs-and-societies/clubs-and-societies">Clubs and societies</a></li>
+  <li><a href="/choose-hull/student-life/sport-and-leisure">Sports and leisure</a></li>
+  <li><a href="/choose-hull/student-life/graduation-ceremonies">Graduation ceremonies</a></li>
+</ul>
+</div>
+</div>
+<div class="menu-items international">
+<div class="heading"><a title="International home" class="sys_0 sys_t0" href="/international">Visit International home</a></div>
+<div class="main-links">
+<div><strong>International <br /> students</strong>
+<ul role="list">
+<li><a title="International students" class="sys_0 sys_t0" href="/international/international-students">International students</a></li>
+<li><a title="Studying in Hull" class="sys_0 sys_t0" href="/international/studying-in-hull">Studying in Hull</a></li>
+<li><a title="Where are you from?" class="sys_0 sys_t0" href="/international/country">Where are you from?</a></li>
+<li><a title="Inbound Exchanges and Visiting Students" class="sys_0 sys_t0" href="/international/inbound">International Exchange Students</a></li>
+<li><a title="International Application Guide" class="sys_0 sys_t0" href="/international/application-guide">How to apply</a></li>
+<li><a title="Pre-Sessional English" class="sys_0 sys_t0" href="/international/courses/pre-sessional-english">Pre-Sessional English</a></li>
+<li><a title="In-Sessional English" class="sys_0 sys_t0" href="/international/courses/in-sessional-english">In-Sessional English Language Support</a></li>
+<li><a title="Visas and Immigration" class="sys_0 sys_t0" href="/international/visas-and-immigration">Visas and Immigration</a></li>
+<li><a title="Planning your arrival" class="sys_0 sys_t0" href="/international/planning-your-arrival">Pre-Departure and Arrivals</a></li>
+<li><a title="Meet with us" class="sys_0 sys_t0" href="/international/meet-with-us">Meet with us</a></li>
+</ul>
+</div>
+<div><strong>Global Opportunities</strong>
+<ul role="list">
+<li><a title="Global Opportunities" class="sys_0 sys_t0" href="/choose-hull/study-at-hull/international/global-opportunities">Global Opportunities</a></li>
+</ul>
+</div>
+<div><strong>Global Engagement</strong>
+<ul role="list">
+<li><a title="Global Engagement" class="sys_0 sys_t0" href="/choose-hull/study-at-hull/international/global-engagement">Global Engagement</a></li>
+</ul>
+</div>
+<div><strong>Contact us<br /></strong>
+<ul role="list">
+<li><a title="Contact International" class="sys_0 sys_t0" href="/international/contact">Contact us</a></li>
+</ul>
+</div>
+<!--div>
+							<strong>Short Courses</strong>
+							<ul role="list">
+								<li><a title="Supporting our researchers" href="#contensis" data-cms="{&quot;contentId&quot;:5358,&quot;contentTypeId&quot;:0}">Short courses</a></li>
+							</ul>
+						</div--></div>
+</div>
+<div class="menu-items research">
+<div class="heading"><a title="Our research" class="sys_0 sys_t0" href="/work-with-us/research"> Visit Research home </a></div>
+<div class="main-links">
+<div><strong>Our research challenges</strong>
+<ul role="list">
+<li><a title="Accelerating a net zero future" class="sys_0 sys_t0" href="/work-with-us/research/themes/accelerating-a-net-zero-future">Accelerating a net zero future</a></li>
+<li><a title="Promoting justice and fairness for all" class="sys_0 sys_t0" href="/work-with-us/research/themes/promoting-justice-and-fairness-for-all">Promoting justice and fairness for all</a></li>
+<li><a title="Improving health outcomes" class="sys_0 sys_t0" href="/work-with-us/research/themes/improving-health-outcomes">Improving health outcomes</a></li>
+<li><a title="Living with water" class="sys_0 sys_t0" href="/work-with-us/research/themes/living-with-water">Living with water</a></li>
+<li><a title="Enhancing heritage and creative industries" class="sys_0 sys_t0" href="/work-with-us/research/themes/enhancing-heritage-and-creative-industries">Enhancing heritage and creative industries</a></li>
+</ul>
+</div>
+<div><strong>Our research</strong>
+<ul role="list">
+<li><a title="Research Institutes" class="sys_16" href="/work-with-us/research/index.aspx#institutes">Research Institutes</a></li>
+<li><a title="Research Groups and Centres" class="sys_16" href="/work-with-us/research/index.aspx#groups-centres">Research Groups and Centres</a></li>
+<li><a title="Faculties, Schools and Departments" class="sys_0 sys_t28406" href="/faculties">Faculties, Schools and Departments</a></li>
+<li><a title="Research directory" class="sys_0 sys_t0" href="/work-with-us/research/research-directory">Research directory</a></li>
+</ul>
+</div>
+<div><strong>Our people</strong>
+<ul role="list">
+<li><a title="Meet our researchers" class="sys_16" href="/work-with-us/research/index.aspx#people">Meet our researchers</a></li>
+<li><a title="Research - Our people" class="sys_0 sys_t0" href="/work-with-us/research/our-people">Search our experts</a></li>
+</ul>
+</div>
+<div><strong>Research with us</strong>
+<ul role="list">
+<li><a title="Supporting our researchers" class="sys_0 sys_t28406" href="/work-with-us/research/why-join-us">Supporting our researchers</a></li>
+<li><a title="Postgraduate research" class="sys_0 sys_t34521" href="/study/postgraduate/research">Postgraduate research</a></li>
+<li><a title="Doctoral College" class="sys_0 sys_t0" href="/choose-hull/study-at-hull/doctoral-college">Doctoral College</a></li>
+</ul>
+</div>
+<!--div><strong>Research environment</strong>
+							<ul role="list">
+								<li><a title="Research integrity and governance" href="#contensis" data-cms="{&quot;contentId&quot;:5339,&quot;contentTypeId&quot;:0}">Research integrity and governance</a></li>
+								<li><a title="Research news" href="/work-with-us/more/media-centre/news/news-archive.aspx?cat=research">Research news</a></li>
+							</ul>
+						</div--></div>
+<div class="links"><strong>Quick links</strong> <a class="quick" title="Research News" href="/work-with-us/research/index.aspx#research-news">Research News</a> <!--a class="quick" title="Research directory" href="#contensis" data-cms="{&quot;contentId&quot;:7279,&quot;contentTypeId&quot;:0}">Search all research</a> 
+                    <a class="quick" title="Research - Our people" href="#contensis" data-cms="{&quot;contentId&quot;:7767,&quot;contentTypeId&quot;:0}">Find a researcher</a> 
+                    <a class="quick" href="#contensis" data-cms="{&quot;contentId&quot;:5364,&quot;contentTypeId&quot;:0}">Contact us</a--></div>
+</div>
+<div class="menu-items business">
+<div class="menu-item-containers"><strong>Business</strong>
+
+
+
+<ul role="list">
+  <li><a href="/work-with-us/business">Business</a></li>
+  <li><a href="/work-with-us/business/partnerships-and-collaborations">Partnerships and collaborations</a></li>
+  <li><a href="/work-with-us/business/develop-your-people">Develop your people</a></li>
+  <li><a href="/work-with-us/business/access-to-funding">Access to funding</a></li>
+  <li><a href="/work-with-us/business/supporting-growth-and-innovation">Supporting growth and innovation</a></li>
+  <li><a href="/work-with-us/business/jobs-internships-industry-placements">Jobs, internships and industry placements</a></li>
+  <li><a href="/work-with-us/business/contact-us">Contact Business</a></li>
+</ul>
+</div>
+</div>
+<div class="menu-items work">
+<div class="menu-item-containers"><strong>Work with us</strong>
+  
+
+
+<ul role="list">
+  <li><a href="/work-with-us/more/jobs/work-with-us">Work with us</a></li>
+  <li><a href="/work-with-us/more/media-centre/news">News</a></li>
+  <li><a href="/work-with-us/more/conferences-and-venue-hire/conferences-and-venue-hire">Conferences, events and venue hire</a></li>
+  <li><a href="/work-with-us/more/schools-and-colleges">Schools and colleges</a></li>
+  <li><a href="/work-with-us/more/alumni">Hull University Alumni</a></li>
+  <li><a href="/work-with-us/more/academic-partnerships">Academic partnerships</a></li>
+  <li><a href="/work-with-us/more/health-safety-services">Health &amp; Safety Services</a></li>
+  <li><a href="/work-with-us/more/supplying-our-university/procurement">Procurement</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</section>
+</header>
+<article itemprop="mainEntity" itemtype="http://schema.org/CreativeWork" id="main-content" role="main">
+
+
+
+
+
+
+
+
+
+
+<section class="page-navigation">
+
+  <div class="sticky-course">
+    <div class="_container">
+      <div class="_content">
+        <div class="page-title">
+            <p>
+                <strong>
+                
+                      <span property="award">BA </span>
+ Media Production
+                </strong>
+            </p>
+        </div>
+        
+        <div class="select-container">
+          <select name="variantList" id="variantList" aria-label="Available course options">
+              <option value="standard">Standard course option</option>
+
+              <option value="foundation">With a foundation year</option>
+              
+              
+
+
+
+          </select>
+        </div>
+
+        <div class="select-container year">
+          <select name="variantListYear" id="variantListYear" aria-label="Available in these years">
+              <option value="2022">2022</option>
+              <option value="2023">2023</option>
+          </select>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="sticky-links">
+    <div class="_container">
+      <div class="_content">
+        <ul>
+          <li><a href="#overview">Overview</a></li>
+          <li><a href="#study">Course structure</a></li>
+          <li><a href="#entry">Entry requirements</a></li>
+          <li><a href="#fees">Fees &amp; funding</a></li>
+          <li><a href="#future">Future prospects</a></li>
+          <li><a href="#next">Next steps</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+<input id="CourseVariation" name="CourseVariation" type="hidden" value="" />
+<input id="CourseYear" name="CourseYear" type="hidden" value="" />
+
+
+<section class="course-hero">
+    <div class="image-container">
+        <div class="overlay"></div>
+        
+        <picture>
+	        <source media="(max-width: 480px)" srcset="/editor-assets/images/film-studies/Media-Screen-Studies.xbd62ffe9.jpg?w=1800&amp;h=1202&amp;crop=1800,800,0,123">
+
+            <source data-sal="fade" data-sal-duration="1500" srcset="/editor-assets/images/film-studies/Media-Screen-Studies.xbd62ffe9.jpg?w=1800&amp;h=1202&amp;crop=1800,800,0,123&amp;f=webp&amp;q=85" alt="Media_Screen_Studies" type="image/webp">
+            <source data-sal="fade" data-sal-duration="1500" srcset="/editor-assets/images/film-studies/Media-Screen-Studies.xbd62ffe9.jpg?w=1800&amp;h=1202&amp;crop=1800,800,0,123&amp;f=jpg&amp;q=85" alt="Media_Screen_Studies" type="image/jpg">
+            <img data-sal="fade" data-sal-duration="1500" src="/editor-assets/images/film-studies/Media-Screen-Studies.xbd62ffe9.jpg?w=1800&amp;h=1202&amp;crop=1800,800,0,123&amp;f=jpg&amp;q=85" alt="Media_Screen_Studies" />
+        </picture>
+
+    </div>
+
+    <div class="_container" typeof="Course">
+
+        <div class="course-content" style="position:relative;">
+        	<meta property="provider" content="University of Hull">
+            
+            <div class="course-level">
+            <p>
+                <span>Undergraduate</span> 
+            
+            
+                <span class="clearing">
+                    <i class="fas fa-check-circle"><!-- Available in clearing --></i> Available in Clearing
+                </span>
+            </p>
+            </div>
+
+            <h1 class="heading-1 course-title -bold" property="name">
+                <span class="slabtext">
+                    
+                          <span property="award">BA </span>
+
+                
+Media Production                </span>
+
+
+
+            </h1>
+
+
+            <div class="course-interest">
+                <p property="description">Gain the creative skills, technical expertise and industry insight that will help you become a work-ready professional. </p>
+            </div>
+                
+        </div>
+
+        
+
+
+
+
+
+
+
+<section class="key-info">
+    <div class="content central-block -bg-crimson">
+        <div class="centralCont">
+
+        <p class="heading-3 -bold">
+            Key information
+        </p>
+
+        <div class="info-container">
+
+            <div class="course-info">
+
+                
+                      <div class="mode" rel="hasCourseInstance" typeof="CourseInstance">
+        <meta property="name" content="University of Hull">
+        <meta property="startDate" content="15 Sept 2022">
+        <div property="location" typeof="Place">
+          <meta property="name" content="University of Hull">
+          <div property="address" typeof="PostalAddress">
+            <meta property="postalCode" content="HU6 7RX">
+          </div>
+        </div>
+
+        <p>Study mode</p>
+        <p><strong property="courseMode">Full-time</strong></p>
+      </div>
+      <div class="length">
+        <p>Course length</p>
+        <p><strong>3 years</strong></p>
+      </div>
+      <div class="entry">
+        <p>Typical offer</p>
+              <p><strong>N/A</strong></p>
+              <p class="grades"><a href="#entry">See requirements</a></p>
+      </div>
+        <div class="ucas">
+          <p>UCAS code</p>
+          <p><strong property="courseCode">W374</strong></p>
+        </div>
+
+                
+            </div>
+
+            <div class="pathway-select">
+
+                <div class="options" role="radiogroup" aria-label="Course variation options">
+                    <p>Choose an option</p>
+
+                    <input class="filter" aria-label="Standard Course Option" type="radio" name="option" id="standard" value="standard" checked>
+                    <label for="standard">Standard course option</label>
+
+                    <input class="filter" aria-label="With a Foundation Year" type="radio" name="option" id="foundation" value="foundation">
+                    <label for="foundation">With a foundation year</label>
+                    
+                    
+
+    
+
+
+                </div>
+
+                <div class="start" role="radiogroup" aria-label="Course dates">
+                    <p>Start date</p>
+
+                            <input class="filter" aria-label="Study in 2022" type="radio" name="start" id="thisYear" value="2022" checked>
+                            <label for="thisYear">Sept 2022</label>
+                            <input class="filter" aria-label="Study in 2023" type="radio" name="start" id="nextYear" value="2023">
+                            <label for="nextYear">Sept 2023</label>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    </div>
+</section>        
+        
+    </div>
+</section>
+
+
+
+
+
+
+
+
+
+<section class="overview" id="overview">
+    <div class="_container">
+
+        
+        
+        <div class="_content">
+
+
+            <div >
+
+
+                <h2 class="heading-2 -bold -plum-text">
+                    Course overview <span class="testUrl"></span>
+                </h2>
+
+                <div class="visible-content">
+                    <p><strong>Build the creative, organisational, personal and technical skills to thrive in the creative and media industries, where you&rsquo;ll tell the stories of the region, the nation and the world in all their diversity.</strong></p>
+<p>You&rsquo;ll benefit from the Screen Yorkshire Connected Campus scheme, which connects regional universities to the booming regional screen industry with careers advice, skills workshops, and developing collaboration between universities and regional film and television producers.</p>
+<p>Develop your skills and experience across a range of production spaces, from a multi-purpose studio to a fully operational on-campus theatre, and gain experience in location filmmaking. And you&rsquo;ll have exclusive access to our <a href="/faculties/subjects/features/school-of-arts-facilities" target="_blank" rel="noopener">media labs</a>, home to the latest digital media software and hardware used in the industry today.</p>
+<p>These skills are developed through two main programme strands. The first focuses on the creative processes of media production, including technical expertise, individual and group planning, and safe working practices. The second focuses on key aspects of the sector, including diversity, entrepreneurship, and the legal and organisational realities of the sector, which are crucial for any practicing professional to understand and embrace.</p>
+<p>Creativity lives and breathes at the University of Hull. Always has done, always will. It&rsquo;s central to what universities do. But at Hull, we&rsquo;re building something that goes far beyond our four walls.&nbsp;</p>
+                </div>
+
+
+
+
+
+
+
+<div class="on-demand-widget -deep-purple ">
+  <div class="widget-video-heading">
+    <h3 class="heading-3">Learn more about your course in our subject sessions</h3>
+  </div>
+
+
+     <div class="widget-video-block">
+  
+    <div class="subject-container">
+      <p class="tag">On-demand session</p>
+      <p class="subject">Film and Media Studies</p>
+    </div>
+
+
+       <a class="image-container lightBoxVideoLink" href="https://www.youtube-nocookie.com/embed/3uARkC5-TFI">
+    
+      <div class="overlay"><i class="fas fa-play"></i></div>
+      <picture>
+        <source srcset="/editor-assets/images/courses/subject-sessions/film-media-studies-subject-session.xa6a35064.jpg?w=186&amp;h=186&amp;f=webp" type="image/webp" /> 
+        <img alt="film-media-studies-subject-session" src="/editor-assets/images/courses/subject-sessions/film-media-studies-subject-session.xa6a35064.jpg?w=186&amp;h=186" width="300" height="300" />
+      </picture>
+
+
+       </a>
+     </div>
+</div>
+            </div>
+
+            <div class="apply" style="padding-top:30px;">
+                <div class="link-tag">
+                    More to explore
+                </div>
+
+                <div class="link-container">
+                    
+                        <a href="https://evision.hull.ac.uk/urd/sits.urd/run/siw_sso.go?ktoRthcHkGXx3C3FAiB0k2BWb5vR6bRWIhNvLgRUfHrPJdo5H4" class="link" target="_blank">
+                            <span class="fad fa-pencil-alt"></span>
+                            <span class="link-text">Apply online now</span>
+                            <span class="fas fa-arrow-right"></span>
+                        </a>
+                    <a href="/study/order-or-download-a-prospectus" class="link" target="_blank">
+                        <span class="fad fa-book-alt"></span>
+                        <span class="link-text">Download your prospectus</span>
+                        <span class="fas fa-arrow-right"></span>
+                    </a>
+                    <a href="/choose-hull/study-at-hull/visit-us/open-days" class="link">
+                        <span class="fad fa-map-marker-alt"></span>
+                        <span class="link-text">Come to an Open Day</span>
+                        <span class="fas fa-arrow-right"></span>
+                    </a>
+                    <a href="/choose-hull/student-life/accommodation" class="link">
+                        <span class="fad fa-house"></span>
+                        <span class="link-text">Accommodation</span>
+                        <span class="fas fa-arrow-right"></span>
+                    </a>
+                    <a href="/choose-hull/study-at-hull/money" class="link">
+                        <span class="fad fa-credit-card-front"></span>
+                        <span class="link-text">Fees and finance</span>
+                        <span class="fas fa-arrow-right"></span>
+                    </a>
+                    <a href="/choose-hull/student-life" class="link">
+                        <span class="fad fa-check-square"></span>
+                        <span class="link-text">Choose Hull</span>
+                        <span class="fas fa-arrow-right"></span>
+                    </a>
+                    <a href="/faculties/departments/school-of-the-arts" class="link">
+                        <span class="fad fa-building"></span>
+                        <span class="link-text">School of The Arts</span>
+                        <span class="fas fa-arrow-right"></span>
+                    </a>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+
+
+
+
+
+
+
+
+
+
+<section class="reasons">
+  <div class="_container">
+    <div class="_content">
+
+      <div class="central-block -bg-teal">
+        <div class="centralCont">
+          <p class="reasons-title">
+            Six reasons to study Media Production at Hull
+          </p>
+
+          <ol>
+<li>Exclusive access to the industry standard software and hardware in our media labs</li>
+<li>Work on a wide range of creative media projects</li>
+<li>Grow your leadership and media industry skills</li>
+<li>Gain specialist skills in a range of production areas</li>
+<li>Part of Screen Yorkshire&lsquo;s Connected Campus</li>
+<li>Gain experience in location filmmaking</li>
+</ol>
+        </div>
+      </div>
+
+      <div class="accreditations">
+
+
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+
+
+
+
+
+
+
+
+ <section class="modules -bg-grey" id="study">
+    <div class="_container">
+        <div class="_content">
+
+            <h2 class="heading-2 -bold -plum-text">
+                What you'll study
+            </h2>
+            
+            <p class="section-desc">The course consists of 120 credits per year. Most modules are 20 credits, meaning you’ll study six modules each year. Some longer modules, such as a dissertation, are worth more (e.g. 40 credits). In these cases, you’ll study fewer modules - but the number of credits will always add up to 120.</p>
+
+            <div class="details">
+                <div class="container">
+                    <div class="tab-container" role="radiogroup" aria-label="Modules per year">
+
+
+                        <input
+                            type="radio"
+                            title="First year"
+                            name="module-tabs"
+                            id="year-one"
+                            checked
+                        />
+
+                        <input
+                            type="radio"
+                            title="Second year"
+                            name="module-tabs"
+                            id="year-two"
+                        />
+
+
+
+                        <input
+                            type="radio"
+                            title="Third year"
+                            name="module-tabs"
+                            id="year-three"
+                        />
+
+
+
+
+
+                        <div class="tabs flex-tabs">
+
+                        
+                            <label for="year-one" id="year-one-label" class="tab year-one">
+                                First year
+                            </label>
+
+                            <label for="year-two" id="year-two-label" class="tab year-two">
+                                Second year
+                            </label>
+                                                                                                            <label for="year-three" id="year-three-label" class="tab year-three">
+                                        Final year
+                                    </label>
+
+
+                        
+                                                
+
+                            <div id="year-one-panel" class="panel year-one active">
+                            
+                                
+                                  <h3>First year modules</h3>
+        <p><p>You&rsquo;ll study specialist modules in media production techniques for location and studio, including cinematography, lighting, sound recording, production management and health and safety, and gain post-production skills in audio and editing.</p></p>
+
+
+
+                                
+                                  <div class="modules-container year-one-mods">
+
+    <div class="frame" id="frameYOne">
+      <ul>
+                <li class="items">
+                  <p class="module-heading"><strong>Core modules</strong></p>
+
+                      <div>
+                          <h3>Film Form</h3>   
+                          <p>Learn the fundamental elements of film style and structure. Through analysing a range of recent popular films, you will understand how mise-en-sc&egrave;ne, cinematography, editing and sound function within film style. You will also learn to analyse the narrative structures of successful popular films. The ways of seeing you acquire on this module will make you a better film viewer, and a better filmmaker.</p>
+                      </div>
+                      <div>
+                          <h3>Introduction to Filmmaking</h3>   
+                          <p>Get hands-on with filmmaking equipment in our studio and editing facilities, and on location, completing a series of group tasks that equip you with basic practical skills you can build on throughout the rest of your degree.</p>
+                      </div>
+                      <div>
+                          <h3>History of Hollywood Cinema</h3>   
+                          <p>In this module, you will learn about the History of Hollywood Cinema, looking at its industrial, technological, aesthetic, and genre histories. It serves as a foundational module for the Film Studies course, so the information you learn will carry you through your degree. You will also learn how to read/understand/apply a variety of academic sources to the study of your subject, a skill that will be necessary throughout your course.</p>
+                      </div>
+                      <div>
+                          <h3>Introduction to Documentary Filmmaking</h3>   
+                          <p>Documentaries are windows to the wider world. You'll explore the rich and varied world of documentary films - from personal narratives to large productions that take stock of global movements. You will develop filmmaking skills in this intense practice-based course, and creatively and innovatively engage with the art of documentary filmmaking as you conceptualise and complete your own short documentary.</p>
+                      </div>
+                      <div>
+                          <h3>Media Methods</h3>   
+                          <p>This module will familiarise you with Media Studies as an academic discipline and a set of tools for producing new knowledge and information. You will gain valuable insight into Media Studies as a complex and developing discipline, which encompasses approaches drawn from academic fields such as literary studies, film studies, sociology, business and economics.</p>
+                      </div>
+                      <div>
+                          <h3>Exploring Post-production Practices</h3>   
+                          <p>Develop your understanding of editing and post-production through a series of hands-on exercises.</p>
+                      </div>
+                </li>
+      </ul>
+    </div>
+
+    <div class="controls">
+      <button class="mods-prev" aria-label="Previous"><i class="fas fa-angle-left"><!-- Previous --></i></button>
+      <button class="mods-next" aria-label="Next"><i class="fas fa-angle-right"><!-- Next --></i></button>
+    </div>
+
+    <div class="scrollbar">
+      <div class="handle">
+        <div class="mousearea"></div>
+      </div>
+    </div>
+
+  </div>
+
+                                    
+                            </div>
+
+                            <div id="year-two-panel" class="panel year-two">
+                            
+                                
+                                  <h3>Second year modules</h3>
+
+
+                                
+                                  <div class="modules-container year-two-mods">
+
+    <div class="frame" id="frameYTwo">
+      <ul>
+                <li class="items">
+                  <p class="module-heading"><strong>Core modules</strong></p>
+
+                      <div>
+                          <h3>Intermediate Techniques (Creative Industries)</h3>   
+                          <p>Develop skills in areas including scenography, stage management, scriptwriting, performance, and movement.</p>
+                      </div>
+                      <div>
+                          <h3>Representing Reality</h3>   
+                          <p>One of the key roles of our media is to represent the world, its happenings, and its diversity to us as accessibly and truthfully as possible. How do different forms of media &ndash; documentaries, reality television, soap opera, news reporting, drama-documentaries, radio, fiction films &ndash; go about this task? Why do media texts and media companies so often fail in their duty to represent reality? Through conceptual reflection and case study exploration, this module seeks to explore these questions.</p>
+                      </div>
+                      <div>
+                          <h3>Television and Factual Production</h3>   
+                          <p>In this module, you will learn the skills of factual screen production. Working in small groups, you will create short items of broadcast quality to form part of a magazine-style programme.</p>
+                      </div>
+                </li>
+                <li class="items">
+                  <p class="module-heading"><strong>Optional modules</strong></p>
+
+                      <div>
+                          <h3>From the alphabet to the internet: a history of communication</h3>   
+                          <p>Using historical case studies in combination with theoretical models, you will explore questions including i) What aspects of economics and culture can promote or inhibit the development and dissemination of media technologies? ii) What factors determine the uses to which new technologies of communication are put? iii) Does cultural change drive technological change, or vice versa, or both?</p>
+                      </div>
+                      <div>
+                          <h3>Screening Genders</h3>   
+                          <p>Critically examine the representation of gender on screen through the lens of feminist film theory.</p>
+                      </div>
+                      <div>
+                          <h3>Music and Sound for Media</h3>   
+                          <p>This practical project-based module supports the development of specialised creative and technical skills involved in the production of sound and music for visual media. You can undertake a variety of projects, including films, games, music videos, interactive installations, and performances with visual projection. As projects are developed, general principles relating to the interaction of sight and sound will be explored, such as functionality, audio-visual correspondence and implementation.</p>
+                      </div>
+                      <div>
+                          <h3>Collaborative Creative Project</h3>   
+                          <p>Creative project management will explore the key methods used in a broad range of creative industries to organise and manage complex projects.</p>
+                      </div>
+                </li>
+      </ul>
+    </div>
+
+    <div class="controls">
+      <button class="mods-prev" aria-label="Previous"><i class="fas fa-angle-left"><!-- Previous --></i></button>
+      <button class="mods-next" aria-label="Next"><i class="fas fa-angle-right"><!-- Next --></i></button>
+    </div>
+
+    <div class="scrollbar">
+      <div class="handle">
+        <div class="mousearea"></div>
+      </div>
+    </div>
+
+  </div>
+
+
+                            </div>
+
+
+
+                            <div id="year-three-panel" class="panel year-three">
+
+                                
+                                
+                                  <h3>Final year modules</h3>
+
+
+                                
+                                  <div class="modules-container year-three-mods">
+
+    <div class="frame" id="frameYThree">
+      <ul>
+                <li class="items">
+                  <p class="module-heading"><strong>Core modules</strong></p>
+
+                      <div>
+                          <h3>Advanced Technique</h3>   
+                          <p>Explore technical skills relevant to professional practice, as you occupy roles which focus on the design and leadership aspects of your discipline.</p>
+                      </div>
+                      <div>
+                          <h3>Screen Production Project 1: Planning and Preproduction</h3>   
+                          <p>Turn your film idea into a workable and professional project before you step into production. Learn about what it takes to create a film before pitching your idea, ready for the next steps.</p>
+                      </div>
+                      <div>
+                          <h3>Screen Production Project 2: Filming and Post-production</h3>   
+                          <p>Create your film. Take the reins and follow the project through from pre-production to shooting, editing, screening and review.</p>
+                      </div>
+                      <div>
+                          <h3>The Future of the Arts</h3>   
+                          <p>What is the environmental cost of a single Spotify stream, an online gaming session, or of going to a gig, concert or to see a play? How much carbon does that YouTube movie trailer release? Our ability to engage with arts and culture has been made almost effortless, but at what environmental cost? By reflecting on your own creative practices, you&rsquo;ll be equipped with the skills and understanding you&rsquo;ll need to shape the arts practices of the future.</p>
+                      </div>
+                </li>
+                <li class="items">
+                  <p class="module-heading"><strong>Optional modules</strong></p>
+
+                      <div>
+                          <h3>Work-Based Learning (Media Production)</h3>   
+                          
+                      </div>
+                      <div>
+                          <h3>Dissertation (Media Production)</h3>   
+                          <p>This module is an independent research project. Therefore, themes and topics are determined by the individual student in consultation with her or his supervisor. It is the research-based methods and the disciplines of the module that create its core, shared elements, and which are expressed in its aims and learning outcomes.</p>
+                      </div>
+                      <div>
+                          <h3>Collaborative Portfolio (Media Production)</h3>   
+                          
+                      </div>
+                </li>
+      </ul>
+    </div>
+
+    <div class="controls">
+      <button class="mods-prev" aria-label="Previous"><i class="fas fa-angle-left"><!-- Previous --></i></button>
+      <button class="mods-next" aria-label="Next"><i class="fas fa-angle-right"><!-- Next --></i></button>
+    </div>
+
+    <div class="scrollbar">
+      <div class="handle">
+        <div class="mousearea"></div>
+      </div>
+    </div>
+
+  </div>
+
+
+                            </div>
+
+
+
+
+
+
+                        </div>
+
+                        <p class="small">All modules are subject to availability and this list may change at any time.</p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section class="how" id="how">
+  <div class="_container">
+    <div class="_content">
+
+      <h2 class="heading-2 -bold -plum-text">
+        How you'll study
+      </h2>
+
+      <div class="section-desc">
+        <p>Throughout your degree, you’re expected to study for 1,200 hours per year. That’s based on 200 hours per 20 credit module. And it includes scheduled hours, time spent on placement and independent study. How this time’s divided among each of these varies each year and depends on the course and modules you study.</p>
+      </div>
+
+      
+
+    </div>
+  </div>
+</section>
+
+
+
+
+
+
+
+      <section class="students">
+
+        <div class="image-container">
+          <div class="overlay"></div>
+
+          <picture>
+	          <source data-sal="fade" data-sal-duration="1500" media="(max-width: 480px)" srcset="/editor-assets/images/city-of-hull/Freedom-Festival-Friday-180.xe3c647b2.jpg?crop=500,800,900,0">
+
+            <source data-sal="fade" data-sal-duration="1500" srcset="/editor-assets/images/city-of-hull/Freedom-Festival-Friday-180.xe3c647b2.jpg?f=webp&amp;q=85" alt="Freedom Festival - Friday-180" type="image/webp">
+
+            <source data-sal="fade" data-sal-duration="1500" srcset="/editor-assets/images/city-of-hull/Freedom-Festival-Friday-180.xe3c647b2.jpg?f=jpg&amp;q=85" alt="Freedom Festival - Friday-180" type="image/jpg">
+
+            <img data-sal="fade" data-sal-duration="1500" src="/editor-assets/images/city-of-hull/Freedom-Festival-Friday-180.xe3c647b2.jpg?q=85" alt="Freedom Festival - Friday-180" />
+          </picture>
+        </div>
+
+        <div class="_container">
+          <div class="_content">
+
+            <div class="main-video">
+
+              <div class="tags">
+                <span class="name"></span>
+                <span class="course"></span>
+              </div>
+
+              <h4 class="heading">
+                Freedom Internship: working on one of Hull&#39;s biggest festivals
+              </h4>
+
+              <a class="button lightBoxVideoLink" href="https://www.youtube-nocookie.com/embed/uO81B6tRFXU">Watch video</a>
+
+            </div>
+          </div>
+
+        </div>
+      </section>
+
+
+
+
+
+
+
+
+<section class="pathways -no-margin-top">
+  <div class="featured-areas">
+    <div class="_container">
+      <div class="feature-blocks">
+
+                <div class="feature-item">
+
+                    <picture>
+                        <source data-sal="fade" data-sal-duration="1500" srcset="/editor-assets/images/digital-media/digital-design-vr-studio-uni-0028.x9bcd0e95.jpg?w=1067&amp;h=600&amp;crop=600,600,42,0&amp;q=85&amp;f=webp" alt="Digital Design student in VR studio wearing headset" type="image/webp">
+
+                        <source data-sal="fade" data-sal-duration="1500" srcset="/editor-assets/images/digital-media/digital-design-vr-studio-uni-0028.x9bcd0e95.jpg?w=1067&amp;h=600&amp;crop=600,600,42,0&amp;q=85&amp;f=jpg" alt="Digital Design student in VR studio wearing headset" type="image/jpg">
+                        
+                        <img data-sal="fade" data-sal-duration="1500" src="/editor-assets/images/digital-media/digital-design-vr-studio-uni-0028.x9bcd0e95.jpg?w=1067&amp;h=600&amp;crop=600,600,42,0&amp;q=85&amp;f=jpg" alt="Digital Design student in VR studio wearing headset" />
+                    </picture>
+
+                    <div class="feature-overlay -bg-plum">
+                        <div class="feature-card">
+                            <h2 class="feature-title">
+                                Media Labs
+                            </h2>
+                            <div class="feature-description">
+                                <p>
+                                    You’ll have exclusive access to our media labs. Home to the latest digital media software and hardware used in the industry today. 
+                                </p>
+                                
+                                        <a href="/faculties/subjects/features/school-of-arts-facilities" class="button -default-btn -plum-text">Explore our Facilities</a>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="feature-item">
+
+                    <picture>
+                        <source data-sal="fade" data-sal-duration="1500" srcset="/editor-assets/images/film-studies/leyan-elgas-film-studies.x49341ea0.jpg?w=1425&amp;h=600&amp;crop=600,600,572,0&amp;q=85&amp;f=webp" alt="Leyan Elgas Film Studies" type="image/webp">
+
+                        <source data-sal="fade" data-sal-duration="1500" srcset="/editor-assets/images/film-studies/leyan-elgas-film-studies.x49341ea0.jpg?w=1425&amp;h=600&amp;crop=600,600,572,0&amp;q=85&amp;f=jpg" alt="Leyan Elgas Film Studies" type="image/jpg">
+                        
+                        <img data-sal="fade" data-sal-duration="1500" src="/editor-assets/images/film-studies/leyan-elgas-film-studies.x49341ea0.jpg?w=1425&amp;h=600&amp;crop=600,600,572,0&amp;q=85&amp;f=jpg" alt="Leyan Elgas Film Studies" />
+                    </picture>
+
+                    <div class="feature-overlay -bg-plum">
+                        <div class="feature-card">
+                            <h2 class="feature-title">
+                                Ready for business
+                            </h2>
+                            <div class="feature-description">
+                                <p>
+                                    Alongside your technical skills, you will grow as a confident media professional with an understanding of leadership in the creative industries. 
+                                </p>
+                                
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+
+      </div>
+    
+    </div>
+  </div>
+</section>
+
+
+
+
+
+
+
+
+
+
+
+<section class="entry-req" id="entry">
+  <div class="_container">
+    <div class="_content">
+
+      <h2 class="heading-2 -bold -plum-text">
+        Entry requirements
+      </h2>
+
+      <div class="details">
+        <div class="container">
+          <div class="tab-container" role="radiogroup" aria-label="UK or International entry requirements">
+              <input
+                type="radio"
+                title="UK"
+                name="entry-tabs"
+                id="uk"
+                checked=""
+              />
+
+              <input
+                type="radio"
+                title="International students"
+                name="entry-tabs"
+                id="intl"
+              />
+
+              <div class="tabs flex-tabs">
+                <label for="uk" id="uk-label" class="tab uk">
+                  UK Residents
+                </label>
+
+                <label for="intl" id="intl-label" class="tab intl">
+                  International students
+                </label>
+
+                <div id="uk-panel" class="panel uk active">
+
+                  <div class="requirements">
+                    <div class="quick-view-container">
+                      
+                      
+                            <div class="grades">
+        <h3 class="-bold">Typical offer</h3>
+        <ul>
+           <li>
+              <div class="alevel">
+                    <p><span>A level grades</span> <span>N/A</span></p>
+              </div>
+            </li>
+
+            <li>
+              <div class="alevel">
+                    <p>
+                      <span>BTEC grades</span>
+                      <span>N/A</span>
+                    </p>
+              </div>
+            </li>
+
+            <li>
+              <div class="ucas-points">
+                    <p>
+                      <span>Points required</span> 
+                      <span>N/A</span>
+                    </p>
+              </div>
+            </li>
+
+        </ul>
+
+        <p class="work-out">
+          <a href="https://www.ucas.com/ucas/tariff-calculator" rel="noopener" target="_blank">Work out your estimated points <i class="fas fa-external-link-alt"><!-- External link --></i></a>
+        </p>
+      </div>
+
+
+                      <div class="foundation">
+                        <div class="header">
+                          <p>Don&#39;t meet our requirements?</p>
+                        </div>
+                        <div class="info"> 
+
+                          <p>We offer a <a href="/study/ug/foundation-year" title="More about foundation years">Foundation Year</a> to boost your skills and knowledge – it’s a great way to make your way into higher education.</p>
+
+                          <div class="check-container" role="group" aria-label="Switch to the foundation course">
+                            <input class="filter" title="Switch to the foundation year" type="checkbox" name="option" id="entryFY" value="foundation">
+                            <label
+                              aria-label="Switch to the foundation year"
+                              for="entryFY"
+                              class="checkbox-label"
+                              data-off="no"
+                              data-on="yes"
+                            >
+                              <span class="visuallyhidden">Switch to the foundation course</span>
+                            </label>
+
+                            <p>Switch to the foundation year</p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="details">
+                      
+                        <p>At Hull, you’re a name not a number. During Clearing, we look at all of your qualifications and experience, not just your academic grades. We may be able to offer you a place whatever your situation.</p>
+                        <p>Some courses still do have requirements such as previous study in your subject area, or specific GCSE grades. Others have additional requirements such as an interview or a satisfactory DBS check.</p>
+                        <p>Please call us now on <a href="tel:+441482466100" title="Call us on 01482 466100"><span class="rTapNumber411559">01482 466100</span></a> or complete our <a href="https://evision.hull.ac.uk/urd/sits.urd/run/siw_sso.go?ktoRthcHkGXx3C3FAiB0k2BWb5vR6bRWIhNvLgRUfHrPJdo5H4" title="Complete our online clearing form" target="_blank">online form</a> to find out if we have a course that’s suitable for you.</p>
+ 
+                      
+
+
+                    </div>
+                  </div>
+                </div>
+
+                
+
+
+
+
+
+
+
+<div id="intl-panel" class="panel intl">
+                    
+            <p><p>If you require a student visa to study or <a href="/choose-hull/study-at-hull/admissions/english-language-requirements">if your first language is not English</a>&nbsp;you will be required to provide acceptable evidence of your English language proficiency level.</p>
+<p>This course requires academic IELTS 6.0 overall, with no less than 5.5 in each skill. See other <a href="/choose-hull/study-at-hull/admissions/english-language-requirements">English language proficiency qualifications</a> accepted by this University.</p>
+<p>If your English currently does not reach the University's required standard for this programme, you may be interested in&nbsp;<a href="/study/other-courses/english-as-a-foreign-language">one of our English language courses.</a></p>
+<p><a href="/international/country">Visit your country page</a>&nbsp;to find out more about our entry requirements.</p></p>
+</div>    
+
+              </div>
+            </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+
+
+
+
+
+<section class="study-with -bg-blue -no-margin-top">
+    <div class="_container">
+        <div class="_content">
+
+            <div class="staff-info">
+                <h3 class="heading-2 -bold">
+                    Our lecturers
+                </h3>
+
+                
+            </div>
+
+            <div class="staff-container full-list">
+
+
+                <div class="staff-list">
+                    <div class="list-items">
+
+                        <div class="frame" id="frameRelatedStaff">
+
+                            
+
+
+
+<ul class="">
+    <li class="items">
+        <div>
+            <a href="/staff-directory/amy-davis" class="name">Dr Amy Davis</a>
+            <div class="role"></div>
+        </div>
+        <div>
+            <a href="/staff-directory/gary-mitchell" class="name">Gary Mitchell</a>
+            <div class="role"></div>
+        </div>
+        <div>
+            <a href="/staff-directory/james-aston" class="name">Dr James Aston</a>
+            <div class="role"></div>
+        </div>
+             </li>
+             <li class="items">
+        <div>
+            <a href="/staff-directory/james-zborowski" class="name">Dr James Zborowski</a>
+            <div class="role"></div>
+        </div>
+        <div>
+            <a href="/staff-directory/laura-mayne" class="name">Dr Laura Mayne</a>
+            <div class="role"></div>
+        </div>
+        <div>
+            <a href="/staff-directory/terry-westby-nunn" class="name">Dr Terry Westby-Nunn</a>
+            <div class="role"></div>
+        </div>
+             </li>
+             <li class="items">
+    </li>
+</ul>
+ 
+                            
+                        </div>
+
+                        <div class="controls">
+                            <button class="mods-prev" aria-label="Previous"><i class="fas fa-angle-left"><!-- Previous --></i></button>
+                            <button class="mods-next" aria-label="Next"><i class="fas fa-angle-right"><!-- Next --></i></button>
+                        </div>
+
+                        <div class="scrollbar">
+                            <div class="handle">
+                                <div class="mousearea"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+
+
+
+
+
+
+
+
+<section class="virtual">
+
+    <div class="drag">
+        <p>Click and drag</p>
+    </div>
+
+    <div class="_container -top">
+
+        <div class="central-block -bg-crimson">
+            <div class="centralCont">
+                <h4 class="heading-2 -big -bold">
+                Take a tour of the facilities
+                </h4>
+                
+                <p>Our Media Production students master&nbsp;creative production skills in our industry standard digital media facilities.</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="image-container">
+        
+        
+
+
+
+
+<div id="controlroom"></div>
+
+<script>
+  pannellum.viewer('controlroom', {
+    "type": "equirectangular",
+    "basePath": "https://www.hull.ac.uk",
+    "panorama": "/image-library/equirectangular/2040-holme-control-room-1-a-1-fb.x9c9ebe0b.jpg",
+
+
+    "hfov": 150,
+    "pitch": -15,
+    "yaw": -200,
+
+       "autoRotate": -2, "autoRotateInactivityDelay": 2000,
+    
+    "mouseZoom": false,
+    "keyboardZoom": false,
+    "showZoomCtrl": false,
+    
+       "showControls": false,
+    "friction": 0.1,
+    "autoLoad": true,
+    "hotSpots": [
+    ]
+  });
+</script><noscript><p>Browser does not support script.</p></noscript>  
+
+    </div>
+
+    <div class="_container -bottom">
+
+        <div class="central-block -bg-crimson">
+            <div class="centralCont">
+                <a href="https://virtualtour.hull.ac.uk/take-a-look-around/area-of-interest/choose-your-subject/film-and-digital-media" class="button -default-btn -crimson-text lightBoxVTLink">Explore the virtual tour</a>
+            </div>
+        </div>
+    </div>
+
+</section>
+
+
+
+
+
+
+
+
+
+
+
+<section class="fees -bg-grey" id="fees">
+    <div class="_container">
+        <div class="_content">
+
+            <div class="">
+                <h3 class="heading-2 -big -bold">
+                    Fees and funding
+                </h3>
+
+                <div class="details">
+                    <div class="container" role="radiogroup" aria-label="Student fees and additional costs">
+                        <div class="tab-container">
+                            <input
+                            type="radio"
+                            title="Student fees"
+                            name="fees-tabs"
+                            id="studentFees"
+                            checked=""
+                            />
+
+                            <input
+                            type="radio"
+                            title="Additional costs"
+                            name="fees-tabs"
+                            id="additional"
+                            />
+
+                            <div class="tabs flex-tabs">
+                                <label for="studentFees" id="studentFees-label" class="tab studentFees">
+                                    Student Fees
+                                </label>
+
+                                <label for="additional" id="additional-label" class="tab additional">
+                                    Additional costs
+                                </label>
+
+                                <div id="studentFees-panel" class="panel studentFees active">
+
+                                    
+                                          <div class="standard-info">
+          <div class="standard-fees">
+              <div class="home">
+
+                <span>
+                  UK
+                  
+                </span>
+
+                <p><strong>&pound;9,250 per year*</strong></p>
+
+                
+
+              </div>
+              <div class="international">
+
+                <span>
+                  EU/International
+                  
+                  </span>
+
+                <p><strong>&pound;15,400 per year</strong></p>
+
+                
+                
+              </div>
+          </div>
+
+          <div class="more-info">
+<p><strong>*The amount you pay may increase each year, in line with inflation - but capped to the Retail Price Index (RPI).</strong></p>
+<p>The fees shown are for 2022 entry. The fees for 2023 have not yet been confirmed and may increase.</p>
+<p>UK students can take out a tuition fee loan to cover the cost of their course and a maintenance loan of up to &pound;9,706 to cover living costs.</p>
+<p>Substantial <a href="https://www.hull.ac.uk/choose-hull/study-at-hull/money/scholarships-and-awards?l=int">discounts</a> are available for International students.&nbsp;&nbsp;</p>
+<p>More information on fees can be found in the&nbsp;<a title="Undergrad tuition fees" href="/choose-hull/study-at-hull/money/money">Money section</a>&nbsp;of our website.</p>          </div>
+      </div>
+
+
+                                    
+                                                                                                            
+                                </div>
+
+                                <div id="additional-panel" class="panel additional">
+
+                                    
+                                              <div class="additional-info">
+              <div class="more-info">
+                  <p>Your tuition fees will cover most costs associated with your programme (including registration, tuition, supervision, assessment and examination).<br /><br />There are some extra costs that you might have to pay, or choose to pay, depending on your programme of study and the decisions you make. The list below has some examples, and any extra costs will vary.</p>
+<ul>
+<li>Books (you&rsquo;ll have access to books from your module reading lists in the library, but you may want to buy your own copies)</li>
+<li>Optional field trips</li>
+<li>Study abroad (including travel costs, accommodation, visas, immunisation)</li>
+<li>Placement costs (including travel costs and accommodation)</li>
+<li>Student visas (international students)</li>
+<li>Laptop (you&rsquo;ll have access to laptops and PC&rsquo;s on campus, but you may want to buy your own)</li>
+<li>Printing and photocopying</li>
+<li>Professional-body membership</li>
+<li>Graduation (gown hire and photography)</li>
+</ul>
+<p>Remember, you&rsquo;ll still need to take into account your living costs. This could include accommodation, travel and food &ndash; to name just a few.&nbsp;</p>
+              </div>
+          </div>
+
+
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            
+
+        </div>
+    </div>
+</section>
+
+
+<section class="pull-out-banner">
+    <div class="_container">
+        <div class="_content">
+
+            <div class="strip">
+                <div>
+                    <p><strong>An affordable city for students</strong></p>
+                    <p>From bills, to meals, to pints – you’ll find that your money goes a lot further in Hull.</p>
+                </div>
+                <div>
+                    <a href="/choose-hull/student-life/" title="Find out more about Hull as an affordable city" aria-label="Find out more about Hull as an affordable city" class="button -default-btn -plum-text">Find out more</a>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+
+
+
+
+
+
+
+
+
+<section class="future" id="future">
+  <div class="_container">
+    <div class="_content">
+    
+    
+      <div class="future-container threeCol">
+
+        <div class="heading">
+          <h3 class="heading-2 -big -bold">
+            Your future prospects
+          </h3>
+        </div>
+
+        <div class="roles">
+          <ul>
+<li data-gc-list-depth="1" data-gc-list-style="bullet">Producer</li>
+<li data-gc-list-depth="1" data-gc-list-style="bullet">Studio manager</li>
+<li data-gc-list-depth="1" data-gc-list-style="bullet">Technical specialist</li>
+<li data-gc-list-depth="1" data-gc-list-style="bullet">Creative project manager</li>
+</ul>
+        </div>
+        <div class="description">
+          <p>You&rsquo;ll learn-by-doing on this degree, developing your expertise through practical tasks and workshops, putting your knowledge and skills in a real-world context.</p>
+<p>You&rsquo;ll learn about the organisational aspects of the media industries through lectures, guest speakers, and extensive online materials, preparing you with the skills required for the contemporary media industries.</p>
+<p>As well as our membership of Screen Yorkshire&rsquo;s Connected Campus, you&rsquo;ll benefit from our associations with regional and national theatre producers and through the integration of real-world creative projects and live briefs into our curriculum.</p>
+        </div>
+
+        <div class="unistats">
+
+          
+          
+
+        </div>
+
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+
+
+
+
+
+
+
+
+<section class="what-next -bg-blue" id="next">
+
+    <div class="image-container">
+
+        <picture>
+            <source data-sal="fade" data-sal-duration="1500" srcset="/assets/section/courses/ug/images/test-images/hull-open-day-july.jpg?f=webp&q=85" alt="Open Day at University of Hull" type="image/webp">
+            <source data-sal="fade" data-sal-duration="1500" srcset="/assets/section/courses/ug/images/test-images/hull-open-day-july.jpg?f=jpg&q=85" alt="Open Day at University of Hull" type="image/jpg">
+            <img data-sal="fade" data-sal-duration="1500" src="/assets/section/courses/ug/images/test-images/hull-open-day-july.jpg?q=85" alt="Open Day at University of Hull" />
+        </picture>
+
+    </div>
+
+    <div class="_container">
+        <div class="_content">
+
+            <h3 class="heading-2 -big -bold">
+                Ready to apply?
+            </h3>
+
+            
+                          <p>Clearing is open. This is your opportunity to get a place at uni if you don’t have one already – for whatever reason. It’s your chance to get the degree you need and the future you want.</p>
+              <a href="https://evision.hull.ac.uk/urd/sits.urd/run/siw_sso.go?ktoRthcHkGXx3C3FAiB0k2BWb5vR6bRWIhNvLgRUfHrPJdo5H4" rel="noopener" class="button -default-btn -blue-text" target="_blank">APPLY ONLINE NOW </a>
+
+            <a href="/choose-hull/study-at-hull/admissions/undergraduate/how-to-apply" class="button -outline-btn">HOW TO APPLY</a>
+
+        </div>
+    </div>
+
+    <div class="fixed-info">
+        <div class="tag">Not ready to apply?</div>
+        <h3 class="title">Visit our Open Day</h3>
+        <a href="/choose-hull/study-at-hull/visit-us/open-days" class="button -bg-plum">Book a place</a>
+    </div>
+
+</section>
+
+
+
+
+
+<section class="related-courses">
+  <div class="_container">
+    <div class="_content">
+
+      <div class="heading">
+        <h3 class="heading-2 -big -bold">
+          You might also like
+        </h3>
+      </div>
+
+      <div class="courses-container">
+
+        <div class="frame" id="frameRelatedCourses">
+          <ul class="">
+
+
+              <li class="items">
+                <a href="/study/undergraduate/film-studies-ba-hons" title="BA (Hons) Film Studies Course">
+                  <p>Undergraduate</p>
+
+                  <h4 class="heading-3 -bold">
+                    Film Studies 
+                  </h4>
+                  <p>Ideal for those passionate about film, and want to develop a deeper understanding of its history and culture, alongside practical filmmaking experience. </p>
+                </a>
+              </li>
+              <li class="items">
+                <a href="/study/undergraduate/media-studies-ba-hons" title="BA (Hons) Media Studies Course">
+                  <p>Undergraduate</p>
+
+                  <h4 class="heading-3 -bold">
+                    Media Studies 
+                  </h4>
+                  <p>Master creative production skills and critically explore the economic, cultural and historical relationship between media and society. </p>
+                </a>
+              </li>
+
+
+
+          </ul>
+        </div>
+
+        <div class="controls">
+          <button class="mods-prev" aria-label="Previous"><i class="fas fa-angle-left"><!-- Previous --></i></button>
+          <button class="mods-next" aria-label="Next"><i class="fas fa-angle-right"><!-- Next --></i></button>
+        </div>
+
+        <div class="scrollbar">
+          <div class="handle">
+            <div class="mousearea"></div>
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+
+
+
+
+
+
+
+
+<section class="hull-highlights -bg-grey">
+  <div class="_container">
+    <div class="_content">
+      <div class="content">
+        <h3 class="heading-2 -big -bold">
+          This. Is. Hull.
+        </h3>
+        <p>A place where we stand up to kings, do deals with the world and take a wrecking ball to the slave trade. A place where culture stands out and the phone boxes are a different colour. A place where we&#39;re free-thinking, independent and proud of it.</p>
+      </div>
+
+      <div class="overflow">
+        <div class="hi-slider">
+
+          <div class="frame" id="frameHullHighlights">
+            <ul>
+
+                  <li class="items">
+                    <a href="/special/teamgb">
+                      <div class="image-container">
+                        <picture>
+                          <source data-sal="fade" data-sal-duration="1500" srcset="/editor-assets/archived-content/teamgb/images/hull-university-team-gb-partnership-launch-28th-january-2019-26-recovered.x2815bdaf.jpg?f=webp&amp;q=85" alt="Hull-University-Team-GB-Partnership-Launch---28th-January-2019-26-Recovered" type="image/webp">
+                          <source data-sal="fade" data-sal-duration="1500" srcset="/editor-assets/archived-content/teamgb/images/hull-university-team-gb-partnership-launch-28th-january-2019-26-recovered.x2815bdaf.jpg?f=jpg&amp;q=85" alt="Hull-University-Team-GB-Partnership-Launch---28th-January-2019-26-Recovered" type="image/jpg">
+                          <img data-sal="fade" data-sal-duration="1500" src="/editor-assets/archived-content/teamgb/images/hull-university-team-gb-partnership-launch-28th-january-2019-26-recovered.x2815bdaf.jpg?f=jpg&amp;q=85" alt="Hull-University-Team-GB-Partnership-Launch---28th-January-2019-26-Recovered" />
+                        </picture>
+                      </div>
+                      <p class="caption -bg-plum"><strong>Team GB raising the bar</strong></p>
+                    </a>
+                  </li>
+                  <li class="items">
+                    <a href="/choose-hull/student-life/accommodation">
+                      <div class="image-container">
+                        <picture>
+                          <source data-sal="fade" data-sal-duration="1500" srcset="/assets/section/open-days/site-elements/images/general/westfield-court-accommodation.xef4591f8.jpg?f=webp&amp;q=85" alt="Westfield Court accommodation" type="image/webp">
+                          <source data-sal="fade" data-sal-duration="1500" srcset="/assets/section/open-days/site-elements/images/general/westfield-court-accommodation.xef4591f8.jpg?f=jpg&amp;q=85" alt="Westfield Court accommodation" type="image/jpg">
+                          <img data-sal="fade" data-sal-duration="1500" src="/assets/section/open-days/site-elements/images/general/westfield-court-accommodation.xef4591f8.jpg?f=jpg&amp;q=85" alt="Westfield Court accommodation" />
+                        </picture>
+                      </div>
+                      <p class="caption -bg-teal"><strong>Accommodation guaranteed</strong></p>
+                    </a>
+                  </li>
+                  <li class="items">
+                    <a href="/choose-hull/student-life">
+                      <div class="image-container">
+                        <picture>
+                          <source data-sal="fade" data-sal-duration="1500" srcset="/editor-assets/images/about/about-hull.x7f2441a7.jpg?f=webp&amp;q=85" alt="About-Hull" type="image/webp">
+                          <source data-sal="fade" data-sal-duration="1500" srcset="/editor-assets/images/about/about-hull.x7f2441a7.jpg?f=jpg&amp;q=85" alt="About-Hull" type="image/jpg">
+                          <img data-sal="fade" data-sal-duration="1500" src="/editor-assets/images/about/about-hull.x7f2441a7.jpg?f=jpg&amp;q=85" alt="About-Hull" />
+                        </picture>
+                      </div>
+                      <p class="caption -bg-blue"><strong>Life in Hull</strong></p>
+                    </a>
+                  </li>
+                  <li class="items">
+                    <a href="https://hulluniunion.com/" target="_blank" rel="noopener">
+                      <div class="image-container">
+                        <picture>
+                          <source data-sal="fade" data-sal-duration="1500" srcset="/editor-assets/images/hull-uni-campus/student-central.xf6c9bcc3.jpg?f=webp&amp;q=85" alt="Student Central" type="image/webp">
+                          <source data-sal="fade" data-sal-duration="1500" srcset="/editor-assets/images/hull-uni-campus/student-central.xf6c9bcc3.jpg?f=jpg&amp;q=85" alt="Student Central" type="image/jpg">
+                          <img data-sal="fade" data-sal-duration="1500" src="/editor-assets/images/hull-uni-campus/student-central.xf6c9bcc3.jpg?f=jpg&amp;q=85" alt="Student Central" />
+                        </picture>
+                      </div>
+                      <p class="caption -bg-teal-light"><strong>Hull University Union</strong></p>
+                    </a>
+                  </li>
+                  <li class="items">
+                    <a href="/choose-hull/student-life/student-support/student-support">
+                      <div class="image-container">
+                        <picture>
+                          <source data-sal="fade" data-sal-duration="1500" srcset="/editor-assets/images/students/press-or-publication-students-around-picnic-bench-in-pearson-park-1900x800.xc6ed28a5.jpg?f=webp&amp;q=85" alt="Press or Publication-Students around Picnic Bench in Pearson Park 1900x800" type="image/webp">
+                          <source data-sal="fade" data-sal-duration="1500" srcset="/editor-assets/images/students/press-or-publication-students-around-picnic-bench-in-pearson-park-1900x800.xc6ed28a5.jpg?f=jpg&amp;q=85" alt="Press or Publication-Students around Picnic Bench in Pearson Park 1900x800" type="image/jpg">
+                          <img data-sal="fade" data-sal-duration="1500" src="/editor-assets/images/students/press-or-publication-students-around-picnic-bench-in-pearson-park-1900x800.xc6ed28a5.jpg?f=jpg&amp;q=85" alt="Press or Publication-Students around Picnic Bench in Pearson Park 1900x800" />
+                        </picture>
+                      </div>
+                      <p class="caption -bg-plum"><strong>We&#39;re here. For you.</strong></p>
+                    </a>
+                  </li>
+                  <li class="items">
+                    <a href="https://sport.hull.ac.uk/facilities/" target="_blank" rel="noopener">
+                      <div class="image-container">
+                        <picture>
+                          <source data-sal="fade" data-sal-duration="1500" srcset="/work-with-us/research/site-elements/images/groups/sport-psychology-coaching.xf5f344f1.jpg?f=webp&amp;q=85" alt="Basketball" type="image/webp">
+                          <source data-sal="fade" data-sal-duration="1500" srcset="/work-with-us/research/site-elements/images/groups/sport-psychology-coaching.xf5f344f1.jpg?f=jpg&amp;q=85" alt="Basketball" type="image/jpg">
+                          <img data-sal="fade" data-sal-duration="1500" src="/work-with-us/research/site-elements/images/groups/sport-psychology-coaching.xf5f344f1.jpg?f=jpg&amp;q=85" alt="Basketball" />
+                        </picture>
+                      </div>
+                      <p class="caption -bg-teal"><strong>&#163;16-million sports facilities</strong></p>
+                    </a>
+                  </li>
+                  <li class="items">
+                    <a href="/choose-hull/student-life">
+                      <div class="image-container">
+                        <picture>
+                          <source data-sal="fade" data-sal-duration="1500" srcset="/editor-assets/images/2017/hull-hero.x1d48705e.png?f=webp&amp;q=85" alt="hull-hero" type="image/webp">
+                          <source data-sal="fade" data-sal-duration="1500" srcset="/editor-assets/images/2017/hull-hero.x1d48705e.png?f=jpg&amp;q=85" alt="hull-hero" type="image/jpg">
+                          <img data-sal="fade" data-sal-duration="1500" src="/editor-assets/images/2017/hull-hero.x1d48705e.png?f=jpg&amp;q=85" alt="hull-hero" />
+                        </picture>
+                      </div>
+                      <p class="caption -bg-crimson"><strong>Discover our university</strong></p>
+                    </a>
+                  </li>
+            </ul>
+          </div>
+
+          <div class="controls">
+            <button class="mods-prev" aria-label="Previous"><i class="fas fa-angle-left"><!-- Previous --></i></button>
+            <button class="mods-next" aria-label="Next"><i class="fas fa-angle-right"><!-- Next --></i></button>
+          </div>
+
+          <div class="scrollbar">
+            <div class="handle">
+              <div class="mousearea"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+
+
+
+
+
+
+
+<section class="footnote">
+    <div class="_container">
+        <div class="_content">
+                <p>†Ranked fifth in the UK for this subject area with a 93% overall satisfaction score (National Student Survey 2019, HEIs)</p>
+     </div>
+    </div>
+</section>
+
+
+
+
+
+
+ 
+
+
+
+</article>
+<footer>
+<div class="container">
+<div class="staff">
+<p><strong style="display: block; margin-bottom: 40px; font-size: 24px; font-family: Stag,trebuchet,serif;">Staff and students</strong></p>
+<ul role="list">
+<li><a title="Schools and Faculties" class="sys_0 sys_t28406" href="/faculties">Faculties</a></li>
+<li><a title="Check your email" rel="noopener noreferrer" class="sys_16" href="http://365.hull.ac.uk/">Mail</a></li>
+<li><a title="Library Services" class="sys_0 sys_t0" href="/choose-hull/study-at-hull/library">Library</a></li>
+<li><a title="Canvas" rel="noopener noreferrer" class="sys_16" href="https://canvas.hull.ac.uk">Canvas</a></li>
+<li><a title="Student Support" class="sys_0 sys_t0" href="/choose-hull/student-life/student-support">Student Support</a></li>
+<li><a title="Your Timetable" rel="noopener noreferrer" class="sys_16" href="https://mytimetable.hull.ac.uk">Timetables</a></li>
+<li><a title="SharePoint" rel="noopener noreferrer" class="sys_16" href="https://share.hull.ac.uk">SharePoint</a></li>
+<li><a title="Information and Communication Technology Department" class="sys_16" href="/ict/">ICTD</a></li>
+<li><a title="Online Order and Payment Portal" rel="noopener noreferrer" class="sys_16" href="https://shop.hull.ac.uk">Online Order and Payment Portal</a></li>
+</ul>
+</div>
+<div class="contact" typeof="Organization">
+<p><strong style="display: block; margin-bottom: 40px; font-size: 24px; font-family: Stag,trebuchet,serif;">Contact</strong></p>
+<ul role="list">
+<li property="telephone"><a title="For general enquiries, call us on +44 (0)1482 346311" class="sys_16" href="tel:+441482346311">+44 (0)1482 346311</a></li>
+</ul>
+</div>
+<div class="find" typeof="Organization">
+<p><strong style="display: block; margin-bottom: 40px; font-size: 24px; font-family: Stag,trebuchet,serif;">Find us</strong></p>
+<address typeof="PostalAddress">
+<p><strong style="display: block; margin-bottom: 20px; font-size: 20px; font-family: Stag,trebuchet,serif;"><span property="name">University of Hull</span></strong></p>
+<ul role="list">
+<li property="addressLocality"><span>Hull</span>, <span>UK</span></li>
+<li property="postalCode">HU6 7RX</li>
+</ul>
+</address>
+<ul role="list">
+<li><a title="How to find us" class="sys_0 sys_t28406" href="/choose-hull/study-at-hull/visit-us/how-to-find-us">Getting here</a></li>
+<li><a title="Download the campus map" class="sys_21" href="/editor-assets/docs/campus-map.pdf">Campus map</a></li>
+<li><a title="AccessAble" target="_blank" rel="noopener noreferrer" class="sys_16" href="https://www.accessable.co.uk/university-of-hull/">AccessAble</a></li>
+</ul>
+</div>
+<div class="map"></div>
+<div class="social">
+<ul role="list">
+<li><a title="Visit us on Facebook" aria-label="Visit us on Facebook" target="_blank" rel="noopener noreferrer" class="sys_16" href="https://www.facebook.com/UniversityOfHull"><span class="fab fa-facebook-f">&nbsp;</span></a></li>
+<li><a title="Visit us on Twitter" aria-label="Visit us on Twitter" target="_blank" rel="noopener noreferrer" class="sys_16" href="https://twitter.com/UniOfHull"><span class="fab fa-twitter">&nbsp;</span></a></li>
+<li><a title="Visit us on Snapchat" aria-label="Visit us on Snapchat" target="_blank" rel="noopener noreferrer" class="sys_16" href="https://www.snapchat.com/add/uniofhull"><span class="fab fa-snapchat-ghost">&nbsp;</span></a></li>
+<li><a title="Visit our YouTube channel" aria-label="Visit our YouTube channel" target="_blank" rel="noopener noreferrer" class="sys_16" href="https://www.youtube.com/user/marcomshull"><span class="fab fa-youtube">&nbsp;</span></a></li>
+<li><a title="Visit our Flickr feed" aria-label="Visit our Flickr feed" target="_blank" rel="noopener noreferrer" class="sys_16" href="https://www.flickr.com/photos/universityofhull"><span class="fab fa-flickr">&nbsp;</span></a></li>
+<li><a title="Visit us on LinkedIn" aria-label="Visit us on LinkedIn" target="_blank" rel="noopener noreferrer" class="sys_16" href="https://www.linkedin.com/edu/the-university-of-hull-12668"><span class="fab fa-linkedin-in">&nbsp;</span></a></li>
+<li><a title="View our Instagram page" aria-label="View our Instagram page" target="_blank" rel="noopener noreferrer" class="sys_16" href="https://www.instagram.com/universityofhull/"><span class="fab fa-instagram">&nbsp;</span></a></li>
+</ul>
+</div>
+<div class="copy"><span>&copy;</span> University of Hull, 2022</div>
+<div class="legal">
+<ul role="list">
+<li><a title="accessibility" class="sys_0 sys_t0" href="/legal/accessibility">Accessibility</a></li>
+<li><a title="freedom-of-information" class="sys_0 sys_t0" href="/legal/freedom-of-information">Freedom of information</a></li>
+<li><a title="model-publication-scheme" class="sys_0 sys_t0" href="/legal/model-publication-scheme">Model Publication Scheme</a></li>
+<li><a title="modern-slavery-act" class="sys_0 sys_t0" href="/legal/modern-slavery-act">Modern Slavery</a></li>
+<li><a title="privacy-and-cookies" class="sys_0 sys_t0" href="/legal/privacy-and-cookies">Privacy and cookies</a></li>
+<li><a title="terms-and-conditions" class="sys_0 sys_t0" href="/legal/terms-and-conditions">Website terms and conditions</a></li>
+</ul>
+</div>
+</div>
+</footer>
+
+
+			</main>
+			<a href="#top" class="cd-top">Top</a>
+
+			<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script><noscript><p>Browser does not support script.</p></noscript>
+
+			<script src="/site-elements/js/site.js?build=1201104"></script><noscript><p>Browser does not support script.</p></noscript>
+			<script src="https://kit.fontawesome.com/d19d73a48a.js" crossorigin="anonymous" defer="defer"></script><noscript><p>Browser does not support script.</p></noscript>
+			<script src="/assets/developer/js/4cc3551b1l1ty.js"></script><noscript><p>Browser does not support script.</p></noscript>
+		
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="22995187" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+</div>
+		<script  type="text/javascript" src="/assets/section/courses/ug/site-elements/js/vendor.js?version=60686&amp;build=153133"></script><noscript><p>Browser does not support script.</p></noscript>
+		<script  type="text/javascript" src="/assets/section/courses/ug/site-elements/js/ug-courses.js?version=68029&amp;build=153133"></script><noscript><p>Browser does not support script.</p></noscript>
+</form>
+
+	</body>
+
+	</html>

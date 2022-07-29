@@ -1,0 +1,253 @@
+courseName: LAW-LLB-HONS
+COURSE OVERVIEW
+
+First, you won’t have to wait until you graduate to start making a difference to people’s lives.
+
+
+You get the chance to provide real legal advice to real clients at our Legal Advice Centre and our recently enhanced Mediation Centre.
+
+
+This means you could be helping parents regain contact with their children, advising clients on divorce and property rights, and assisting with appeals against benefits decisions.
+
+
+And you can even take part in internships with local law firms and government, and mini-pupillages with Wilberforce Chambers. As well as have the opportunity to take part in rewarding volunteering projects, such as the Appropriate Adult scheme.
+
+
+Second, you can hone your debating skills in our authentic mock courtrooms. Our new state-of-the-art court allows you to bring the courtroom to life right here on campus. Take part in mock trials to practice your skills and prepare for your future career. Our Student Law Society organises regular mooting competitions, as well as client interview practice.
+
+
+Third, our hands-on Real-World Law module is developed in partnership with a range of leading local law firms.
+
+
+courseLength 
+Course length
+3 years
+
+courseCode 
+UCAS code
+M100
+
+courseTitle 
+LLB
+
+                
+Law                
+courseMode Full-time
+description 
+How are we different from other law schools? Here, you’re a name, not a number: a valued member of a tight-knit community. And you’re a trainee legal professional from day one. So get your best suit ready. You’re going to need it.
+
+
+courseModules 
+First Year
+moduleName Systems of Justice
+moduleName Systems of Justice
+moduleName Develop your understanding of law as a fundamental social institution. You'll reflect on your understanding of justice, with reference to contemporary social issues.
+moduleName Develop your understanding of law as a fundamental social institution. You'll reflect on your understanding of justice, with reference to contemporary social issues.
+moduleName 
+
+moduleName Introduction to Law and its Study
+moduleName Introduction to Law and its Study
+moduleName This module provides you with a basic introduction to law and the key skills for studying it. In particular, you'll develop your ability in academic writing, problem solving and research.
+moduleName This module provides you with a basic introduction to law and the key skills for studying it. In particular, you'll develop your ability in academic writing, problem solving and research.
+moduleName 
+
+moduleName Obligations I – The Law of Tort
+moduleName Obligations I – The Law of Tort
+moduleName Study the general framework and key concepts of the law of tort. Among other things, you'll consider the grounds of liability and evaluate the role of tort law in modern society. 
+moduleName Study the general framework and key concepts of the law of tort. Among other things, you'll consider the grounds of liability and evaluate the role of tort law in modern society. 
+moduleName 
+
+moduleName Public and European Law
+moduleName Public and European Law
+moduleName In this module you'll study the law governing the UK state, the institution of the European Union and the nature of the legal relationship between the UK and the EU.
+moduleName In this module you'll study the law governing the UK state, the institution of the European Union and the nature of the legal relationship between the UK and the EU.
+moduleName 
+
+moduleName Criminal Law
+moduleName Criminal Law
+moduleName Develop a strong understanding of criminal law in England and Wales. You'll focus on topics like property offences, non-fatal offences against the person, defences and inchoate offences.
+moduleName Develop a strong understanding of criminal law in England and Wales. You'll focus on topics like property offences, non-fatal offences against the person, defences and inchoate offences.
+moduleName 
+
+moduleName Obligations II - The Law of Contract
+moduleName Obligations II - The Law of Contract
+moduleName Examine contract formation and enforceability, factors that may render a contract void, the interpretation of contractual terms and potential remedies for breach of contract.
+moduleName Examine contract formation and enforceability, factors that may render a contract void, the interpretation of contractual terms and potential remedies for breach of contract.
+moduleName 
+
+Second Year
+moduleName Land Use and Regulation
+moduleName Land Use and Regulation
+moduleName Develop insight into the issues surrounding the use and regulation of land. You'll cover topics such as co-ownership, leases, and private and public regulation of land use.
+moduleName Develop insight into the issues surrounding the use and regulation of land. You'll cover topics such as co-ownership, leases, and private and public regulation of land use.
+moduleName 
+
+moduleName Trusts: Managing for Others
+moduleName Trusts: Managing for Others
+moduleName This module will introduce you to the legal concept of the trust and help to develop an understanding of the role the device plays in facilitating and regulating the management of wealth for others.
+moduleName This module will introduce you to the legal concept of the trust and help to develop an understanding of the role the device plays in facilitating and regulating the management of wealth for others.
+moduleName 
+
+moduleName Real-World Law
+moduleName Real-World Law
+moduleName Developed in partnership with a leading commercial law firm, and taught by practising solicitors, arbitrators, mediators and advocates, you will focus on understanding law in a commercial setting through interactive workshops, finding solutions to legal issues using a range of practical skills. 
+moduleName Developed in partnership with a leading commercial law firm, and taught by practising solicitors, arbitrators, mediators and advocates, you will focus on understanding law in a commercial setting through interactive workshops, finding solutions to legal issues using a range of practical skills. 
+moduleName 
+
+moduleName European Union Law
+moduleName European Union Law
+moduleName You'll consider the operation of the internal market and how to access it; the state of Brexit negotiations; and alternative models for continuous partnership with the European Union. 
+moduleName You'll consider the operation of the internal market and how to access it; the state of Brexit negotiations; and alternative models for continuous partnership with the European Union. 
+moduleName 
+
+moduleName Comparative Law
+moduleName Comparative Law
+moduleName This module covers the theoretical basis of comparative law. You'll study the relationship between different legal systems, and rules, as well as examining the particular aspects of different foreign legal systems through a series of case studies.
+moduleName This module covers the theoretical basis of comparative law. You'll study the relationship between different legal systems, and rules, as well as examining the particular aspects of different foreign legal systems through a series of case studies.
+moduleName 
+
+moduleName International Law
+moduleName International Law
+moduleName You’ll consider the nature and purposes of international law and the international legal system, as well as its relationship with domestic law.
+moduleName You’ll consider the nature and purposes of international law and the international legal system, as well as its relationship with domestic law.
+moduleName 
+
+moduleName Criminal Justice
+moduleName Criminal Justice
+moduleName Discover the aims and values of our criminal justice system and assess whether they're upheld. Topics include stop and search powers, miscarriages of justice and detention time limits.
+moduleName Discover the aims and values of our criminal justice system and assess whether they're upheld. Topics include stop and search powers, miscarriages of justice and detention time limits.
+moduleName 
+
+moduleName Penology
+moduleName Penology
+moduleName You'll analyse the purpose of punishment and debate whether our penal system is fit for purpose. Topics include prisoners' rights, women offenders and sex offenders. 
+moduleName You'll analyse the purpose of punishment and debate whether our penal system is fit for purpose. Topics include prisoners' rights, women offenders and sex offenders. 
+moduleName 
+
+moduleName Administrative Law and Human Rights Law
+moduleName Administrative Law and Human Rights Law
+moduleName Examine how the law shapes and controls the exercise of public power and protects human rights, including the right to equality.
+moduleName Examine how the law shapes and controls the exercise of public power and protects human rights, including the right to equality.
+moduleName 
+
+moduleName Law, Self and Society
+moduleName Law, Self and Society
+moduleName This module allows you to explore controversial questions at the heart of contemporary legal theory, studying law from a social and philosophical perspective. It will broaden your perspectives on legal theory, opening up new and exciting possibilities for its study and application.
+moduleName This module allows you to explore controversial questions at the heart of contemporary legal theory, studying law from a social and philosophical perspective. It will broaden your perspectives on legal theory, opening up new and exciting possibilities for its study and application.
+moduleName 
+
+Third Year
+Fourth Year
+moduleName Medical Law and Ethics
+moduleName Medical Law and Ethics
+moduleName Get to grips with controversial issues which often make the headlines. You'll explore the ethical conflicts behind the legal principles of topics including abortion and assisted dying.
+moduleName Get to grips with controversial issues which often make the headlines. You'll explore the ethical conflicts behind the legal principles of topics including abortion and assisted dying.
+moduleName 
+
+moduleName Family Law
+moduleName Family Law
+moduleName This module covers the study of relationship formation and breakdown, the cohabiting family, same sex relationships, the financial aspects of relationship breakdown and children. You'll experience applying the practical aspects of family law to problem questions.
+moduleName This module covers the study of relationship formation and breakdown, the cohabiting family, same sex relationships, the financial aspects of relationship breakdown and children. You'll experience applying the practical aspects of family law to problem questions.
+moduleName 
+
+moduleName The Law of Business Organisations
+moduleName The Law of Business Organisations
+moduleName Law plays a vital role in the creation, operation and regulation of business organisations. You'll study the way the law facilitates the creation and operation of partnerships and private companies, as well as the regulation that is imposed upon them.
+moduleName Law plays a vital role in the creation, operation and regulation of business organisations. You'll study the way the law facilitates the creation and operation of partnerships and private companies, as well as the regulation that is imposed upon them.
+moduleName 
+
+moduleName Employment Law
+moduleName Employment Law
+moduleName Explore the role of law in the workplace. You'll consider the protection offered by employment law, work contracts, remedies available to wronged workers and discrimination in the workplace.
+moduleName Explore the role of law in the workplace. You'll consider the protection offered by employment law, work contracts, remedies available to wronged workers and discrimination in the workplace.
+moduleName 
+
+moduleName Commercial and Trade Law
+moduleName Commercial and Trade Law
+moduleName Discover the domestic and international policy context in which commercial law operates, and study the global trade regime on the market for goods and services.
+moduleName Discover the domestic and international policy context in which commercial law operates, and study the global trade regime on the market for goods and services.
+moduleName 
+
+moduleName Mediation and Alternative Dispute Resolution
+moduleName Mediation and Alternative Dispute Resolution
+moduleName Examine the historical and theoretical context of alternative dispute resolution, focusing especially on mediation. You'll then explore mediation skills via workshops based around role-play scenarios.
+moduleName Examine the historical and theoretical context of alternative dispute resolution, focusing especially on mediation. You'll then explore mediation skills via workshops based around role-play scenarios.
+moduleName 
+
+moduleName Law Clinic
+moduleName Law Clinic
+moduleName Experience law in practice, advising real clients with real problems, researching legal issues and writing letters of advice under the supervision of professionally-qualified members of staff.
+moduleName Experience law in practice, advising real clients with real problems, researching legal issues and writing letters of advice under the supervision of professionally-qualified members of staff.
+moduleName 
+
+moduleName Criminal Evidence
+moduleName Criminal Evidence
+moduleName Learn how the law balances the defendant's interests, with respect for victims and witnesses. Topics include the right to a fair trial and the process of collecting evidence.
+moduleName Learn how the law balances the defendant's interests, with respect for victims and witnesses. Topics include the right to a fair trial and the process of collecting evidence.
+moduleName 
+
+moduleName Sex(uality), Gender and the Law
+moduleName Sex(uality), Gender and the Law
+moduleName Develop a critical overview of key aspects in the field of sex, sexuality, gender, religion and the law. You'll explore opportunities for the study and evaluation of the latest research, enhancing your understanding of inclusion, exclusion and the situatedness of knowledge.
+moduleName Develop a critical overview of key aspects in the field of sex, sexuality, gender, religion and the law. You'll explore opportunities for the study and evaluation of the latest research, enhancing your understanding of inclusion, exclusion and the situatedness of knowledge.
+moduleName 
+
+moduleName International Dispute Settlement
+moduleName International Dispute Settlement
+moduleName Explore how inter-state disputes are resolved, including the mechanisms set out in the UN Charter, and international courts and tribunals. Using practical examples, you'll compare and analyse the rules, institutions and processes for the peaceful settlement of disputes in international law.
+moduleName Explore how inter-state disputes are resolved, including the mechanisms set out in the UN Charter, and international courts and tribunals. Using practical examples, you'll compare and analyse the rules, institutions and processes for the peaceful settlement of disputes in international law.
+moduleName 
+
+moduleName Global Human Rights
+moduleName Global Human Rights
+moduleName This module centres on exploring and understanding the UN, European, African, and Islamic/Arab League human rights systems, also covering related global issues such as terrorism.
+moduleName This module centres on exploring and understanding the UN, European, African, and Islamic/Arab League human rights systems, also covering related global issues such as terrorism.
+moduleName 
+
+moduleName Dissertation
+moduleName Dissertation
+moduleName You will make an original contribution to research by designing, carrying out and writing up your own project on a topic you choose, supported by your dissertation supervisor.
+moduleName You will make an original contribution to research by designing, carrying out and writing up your own project on a topic you choose, supported by your dissertation supervisor.
+moduleName 
+
+FEE AND FUNDING 
+Home STUDENT: £9,250 per year*
+International STUDENT: £15,400 per year
+Additional Information about FEE
+*The amount you pay may increase each year, in line with inflation - but capped to the Retail Price Index (RPI).
+The fees shown are for 2022 entry. The fees for 2023 have not yet been confirmed and may increase.
+UK students can take out a tuition fee loan to cover the cost of their course and a maintenance loan of up to £9,706 to cover living costs.
+Substantial discounts are available for International students.  
+More information on fees can be found in the Money section of our website. 
+Your tuition fees will cover most costs associated with your programme (including registration, tuition, supervision, assessment and examination).There are some extra costs that you might have to pay, or choose to pay, depending on your programme of study and the decisions you make. The list below has some examples, and any extra costs will vary.
+
+Books (you’ll have access to books from your module reading lists in the library, but you may want to buy your own copies)
+Optional field trips
+Study abroad (including travel costs, accommodation, visas, immunisation)
+Placement costs (including travel costs and accommodation)
+Student visas (international students)
+Laptop (you’ll have access to laptops and PC’s on campus, but you may want to buy your own)
+Printing and photocopying
+Professional-body membership
+Graduation (gown hire and photography)
+
+Remember, you’ll still need to take into account your living costs. This could include accommodation, travel and food – to name just a few. 
+ENTRY REQUIREMENT: 
+INTERNATIONAL STUDENT: 
+If you require a student visa to study or if your first language is not English you will be required to provide acceptable evidence of your English language proficiency level.
+This course requires academic IELTS 6.5 overall, with no less than 5.5 in each skill. See other English language proficiency qualifications accepted by this University.
+If your English currently does not reach the University's required standard for this programme, you may be interested in one of our English language courses.
+Visit your country page to find out more about our entry requirements.
+LOCAL STUDENT: 
+
+A level grades N/A
+
+
+
+
+
+BTEC grades
+N/A
+
+
+

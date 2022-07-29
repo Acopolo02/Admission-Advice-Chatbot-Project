@@ -1,0 +1,227 @@
+courseName: BIOCHEMISTRY-BSC-HONS
+COURSE OVERVIEW
+
+Biochemistry is the chemistry behind the complexity of life. Here, you'll study the fundamentals of chemistry and biology so you can appreciate the fascinating interface between the two. Our researchers are recognised for their expertise, which feeds straight into your course.
+
+
+You’ll be taught and inspired by biochemists, chemists and biologists. All leaders in their fields – from researchers in medical imaging, metabolic and cardiovascular diseases, wound healing and cancer to experts in lab-on-a-chip miniaturised biochemistry.
+
+
+Our industry-standard resources include mass spectrometry facilities, our own PET (Positron Emission Tomography) Research Centre, laser technology for elemental analysis and microfluidic fabrication capability.
+
+
+courseLength 
+Course length
+3 years
+
+courseCode 
+UCAS code
+C700
+
+courseTitle 
+BSc 
+
+                
+Biochemistry                
+courseMode Full-time
+description 
+Discover the chemistry of life. We'll supply the expert tutors and facilities including mass spectrometry and microfluidic fabrication.
+
+
+courseModules 
+First Year
+moduleName Microbiology
+moduleName Microbiology
+moduleName How does microbiology govern our world? In this module you will learn the basic principles of microbiology before exploring the interplay between microbes, ourselves, and the wider environment.
+moduleName How does microbiology govern our world? In this module you will learn the basic principles of microbiology before exploring the interplay between microbes, ourselves, and the wider environment.
+moduleName 
+
+moduleName Cells and Organelles
+moduleName Cells and Organelles
+moduleName Explore the fascinating inner workings of cells, giving you a foundation in areas such as cell biology, molecular biology and biochemistry. 
+moduleName Explore the fascinating inner workings of cells, giving you a foundation in areas such as cell biology, molecular biology and biochemistry. 
+moduleName 
+
+moduleName Organic Chemistry and the Analytical Approach
+moduleName Organic Chemistry and the Analytical Approach
+moduleName Begin to understand the core principles of organic chemistry from alkanes, alkenes and alkynes, including conjugated alkenes, as well as the importance of analytical chemistry – all accompanied by lots of hands-on laboratory experience.
+moduleName Begin to understand the core principles of organic chemistry from alkanes, alkenes and alkynes, including conjugated alkenes, as well as the importance of analytical chemistry – all accompanied by lots of hands-on laboratory experience.
+moduleName 
+
+moduleName Principles of Genetics
+moduleName Principles of Genetics
+moduleName Explore core genetic concepts leading to an understanding of how genetics underlies the biological and molecular traits observed in organisms. 
+moduleName Explore core genetic concepts leading to an understanding of how genetics underlies the biological and molecular traits observed in organisms. 
+moduleName 
+
+moduleName Inorganic Chemistry and Analytical Chemistry
+moduleName Inorganic Chemistry and Analytical Chemistry
+moduleName 
+
+moduleName Evolution
+moduleName Evolution
+moduleName Why did sex evolve? Why do we die? What is a species? How can evolutionary medicine help us? This module will provide you with an understanding of how life on earth came to be what it is, from genes to species. Without evolution, nothing in Biology makes sense.
+moduleName Why did sex evolve? Why do we die? What is a species? How can evolutionary medicine help us? This module will provide you with an understanding of how life on earth came to be what it is, from genes to species. Without evolution, nothing in Biology makes sense.
+moduleName 
+
+moduleName Human Physiology
+moduleName Human Physiology
+moduleName Explore topics including the circulatory system, blood and cardiac and skeletal muscles; the nervous system; reproduction; respiration; the gastro-intestinal system; and the endocrine system.
+moduleName Explore topics including the circulatory system, blood and cardiac and skeletal muscles; the nervous system; reproduction; respiration; the gastro-intestinal system; and the endocrine system.
+moduleName 
+
+Second Year
+moduleName Mass Spectrometry and Protein Bioinformatics
+moduleName Mass Spectrometry and Protein Bioinformatics
+moduleName What is mass spectrometry? How is it useful in biology? How can we use technology to model and predict protein structure? In this module, you will develop a deeper understanding by getting stuck in within our state-of-the-art mass spectrometry facility and using a wide variety of techniques to aid understanding. 
+moduleName What is mass spectrometry? How is it useful in biology? How can we use technology to model and predict protein structure? In this module, you will develop a deeper understanding by getting stuck in within our state-of-the-art mass spectrometry facility and using a wide variety of techniques to aid understanding. 
+moduleName 
+
+moduleName Metabolism
+moduleName Metabolism
+moduleName Examine the biological processes that allow the ‘symphony of life’ to occur. Understanding key metabolic concepts will further your understanding of biology itself, from human disease to the flow of energy through ecological systems so will feed in well with the other modules available to study.
+moduleName Examine the biological processes that allow the ‘symphony of life’ to occur. Understanding key metabolic concepts will further your understanding of biology itself, from human disease to the flow of energy through ecological systems so will feed in well with the other modules available to study.
+moduleName 
+
+moduleName Genetic Analysis
+moduleName Genetic Analysis
+moduleName You'll take a  problem-based approach to understanding modern molecular genetics and genomics of eukaryotes. 
+moduleName You'll take a  problem-based approach to understanding modern molecular genetics and genomics of eukaryotes. 
+moduleName 
+
+moduleName Protein Biochemistry
+moduleName Protein Biochemistry
+moduleName Discover the fundamental biochemistry underpinning protein structure and function in biological systems, including their interaction with other biological macromolecules.
+moduleName Discover the fundamental biochemistry underpinning protein structure and function in biological systems, including their interaction with other biological macromolecules.
+moduleName 
+
+moduleName Cellular Regulation and Biotechnology
+moduleName Cellular Regulation and Biotechnology
+moduleName This module will explore the inner workings of the cell, and how our understanding of cell biology can be used in biotechnology. We will consider a range of human, animal, microbial and plant based signalling systems, as well as core techniques.
+moduleName This module will explore the inner workings of the cell, and how our understanding of cell biology can be used in biotechnology. We will consider a range of human, animal, microbial and plant based signalling systems, as well as core techniques.
+moduleName 50% of the module will be based around a lab based project using fluorescent reporter proteins (e.g. GFP). The module will also support you in reading and critically evaluating research papers.
+moduleName 50% of the module will be based around a lab based project using fluorescent reporter proteins (e.g. GFP). The module will also support you in reading and critically evaluating research papers.
+moduleName 
+
+moduleName Molecular Evolution and Genomics
+moduleName Molecular Evolution and Genomics
+moduleName This module will focus on the big topics in molecular evolution. What do genomes contain and why? How do we build trees from DNA sequences? How can recombination or gene duplication or transposons lead to adaptation? How do we detect selection in the human genome? We’ll cover these in theory and in practice with some fascinating examples from nature.
+moduleName This module will focus on the big topics in molecular evolution. What do genomes contain and why? How do we build trees from DNA sequences? How can recombination or gene duplication or transposons lead to adaptation? How do we detect selection in the human genome? We’ll cover these in theory and in practice with some fascinating examples from nature.
+moduleName 
+
+moduleName Biological Basis of Disease
+moduleName Biological Basis of Disease
+moduleName In this module, you will gain an understanding of the biological, biochemical and genetic basis of several diseases including cancer and cardiovascular diseases.
+moduleName In this module, you will gain an understanding of the biological, biochemical and genetic basis of several diseases including cancer and cardiovascular diseases.
+moduleName 
+
+Third Year
+moduleName Final Year Projects
+moduleName Final Year Projects
+moduleName Show off what you have learned across your degree! Undertake traditional research-based projects with experts in subjects like climate change, or try something a bit different like creating a documentary on shark attacks. Whatever you choose, it will be something that takes pride of place on your CV.
+moduleName Show off what you have learned across your degree! Undertake traditional research-based projects with experts in subjects like climate change, or try something a bit different like creating a documentary on shark attacks. Whatever you choose, it will be something that takes pride of place on your CV.
+moduleName  
+moduleName  
+moduleName 
+
+moduleName Biology in Education
+moduleName Biology in Education
+moduleName Thinking about teaching as a career? Undertake placements in local schools and deliver your own science lesson.
+moduleName Thinking about teaching as a career? Undertake placements in local schools and deliver your own science lesson.
+moduleName 
+
+moduleName Microbial Genomics Project
+moduleName Microbial Genomics Project
+moduleName 
+
+moduleName Ecotoxicology
+moduleName Ecotoxicology
+moduleName ​Study the impacts of pollutants and ocean acidification on aquatic organisms at the molecular and cellular level.
+moduleName ​Study the impacts of pollutants and ocean acidification on aquatic organisms at the molecular and cellular level.
+moduleName 
+
+moduleName Advanced Discussions in Biochemistry
+moduleName Advanced Discussions in Biochemistry
+moduleName 
+
+moduleName Clinical Biochemistry
+moduleName Clinical Biochemistry
+moduleName In this module, you will gain knowledge about theoretical and practical aspects of routine clinical biochemistry analysis, including contact with NHS clinical biochemists.
+moduleName In this module, you will gain knowledge about theoretical and practical aspects of routine clinical biochemistry analysis, including contact with NHS clinical biochemists.
+moduleName 
+
+moduleName Human Genetics
+moduleName Human Genetics
+moduleName Examine human disease and the underlying genetic causes. Learn about cytogenetics and genetic counselling, as well as the inheritance of recessive and dominant diseases.
+moduleName Examine human disease and the underlying genetic causes. Learn about cytogenetics and genetic counselling, as well as the inheritance of recessive and dominant diseases.
+moduleName 
+
+moduleName Sensory Physiology of Animals
+moduleName Sensory Physiology of Animals
+moduleName Discover the fascinating world of animal communication to learn how sensory systems control behaviour, and how this is applied to and affected by human activity, including climate change.
+moduleName Discover the fascinating world of animal communication to learn how sensory systems control behaviour, and how this is applied to and affected by human activity, including climate change.
+moduleName 
+
+moduleName Field Studies (Biology)
+moduleName Field Studies (Biology)
+moduleName Recent students have selected from destinations including a dive-based trip in Malaysia and an exploration of the Atlantic rainforest in Brazil (financial contribution required).
+moduleName Recent students have selected from destinations including a dive-based trip in Malaysia and an exploration of the Atlantic rainforest in Brazil (financial contribution required).
+moduleName 
+
+moduleName Concepts in Pharmacology
+moduleName Concepts in Pharmacology
+moduleName Use your knowledge of biochemistry to explore the metabolic and functional fates of xenobiotic compounds, and study the biochemical tools used to assess drug action.
+moduleName Use your knowledge of biochemistry to explore the metabolic and functional fates of xenobiotic compounds, and study the biochemical tools used to assess drug action.
+moduleName 
+
+moduleName Cancer Biology
+moduleName Cancer Biology
+moduleName Gain an understanding of the key concepts in cancer biology. You'll learn how current research impacts diagnosis and treatment of cancer patients.
+moduleName Gain an understanding of the key concepts in cancer biology. You'll learn how current research impacts diagnosis and treatment of cancer patients.
+moduleName 
+
+moduleName Animal Welfare and Ethics
+moduleName Animal Welfare and Ethics
+moduleName 
+
+FEE AND FUNDING 
+Home STUDENT: £9,250 per year*
+International STUDENT: International applicants may need to pay a tuition fee deposit before the start of the course. Visit our tuition fee deposit page for more information.
+Additional Information about FEE
+*The amount you pay may increase each year, in line with inflation - but capped to the Retail Price Index (RPI).
+The fees shown are for 2022 entry. The fees for 2023 have not yet been confirmed and may increase.
+UK students can take out a tuition fee loan to cover the cost of their course and a maintenance loan of up to £9,706 to cover living costs.
+Substantial discounts are available for International students.  
+More information on fees can be found in the Money section of our website. 
+Your tuition fees will cover most costs associated with your programme (including registration, tuition, supervision, assessment and examination).There are some extra costs that you might have to pay, or choose to pay, depending on your programme of study and the decisions you make. The list below has some examples, and any extra costs will vary.
+
+Books (you’ll have access to books from your module reading lists in the library, but you may want to buy your own copies)
+Optional field trips
+Study abroad (including travel costs, accommodation, visas, immunisation)
+Placement costs (including travel costs and accommodation)
+Student visas (international students)
+Laptop (you’ll have access to laptops and PC’s on campus, but you may want to buy your own)
+Printing and photocopying
+Professional-body membership
+Graduation (gown hire and photography)
+
+Remember, you’ll still need to take into account your living costs. This could include accommodation, travel and food – to name just a few. 
+ENTRY REQUIREMENT: 
+INTERNATIONAL STUDENT: 
+If you require a student visa to study or if your first language is not English you will be required to provide acceptable evidence of your English language proficiency level.
+This course requires academic IELTS 6.0 overall, with no less than 5.5 in each skill. See other English language proficiency qualifications accepted by this University.
+If your English currently does not reach the University's required standard for this programme, you may be interested in one of our English language courses.
+Visit your country page to find out more about our entry requirements.
+LOCAL STUDENT: 
+
+A level grades N/A
+
+
+
+
+
+BTEC grades
+N/A
+
+
+

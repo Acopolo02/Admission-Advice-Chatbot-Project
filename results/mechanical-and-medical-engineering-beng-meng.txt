@@ -1,0 +1,197 @@
+courseName: MECHANICAL-AND-MEDICAL-ENGINEERING-BENG-MENG
+COURSE OVERVIEW
+
+Gain the skills to save lives and succeed in a global industry worth more than £300 billion.
+
+
+Apply engineering principles and scientific methods to solve problems in medicine and healthcare in this programme which combines engineering, medicine and biology.
+
+
+You'll learn from experts who teach advanced ideas on the application of mechanical engineering for a range of medical purposes, encompassing industry-standard computer-based methods and experimental techniques.
+
+
+Medical engineering is one of the fastest growing and most dynamic sectors of the economy.
+
+
+Mechanical and Medical Engineering at Hull is highly rated by our students. We're ranked second in the UK for student satisfaction in Medical and Biomedical Engineering and number 1 for the organisation and management of the course. And we're in the top ten for teaching, learning opportunities, assessment and feedback, academic support, learning resources and community and student voice too*.
+
+
+But it’s not all study and work - there are lots of extra-curricular activities for you to get involved with as well. Become part of our Hull Electric Racing team and you could be building a single seater racing car and competing against other students at Silverstone. There’s a robotics society and you’ll have access to our state-of-the-art FabLab, packed with 3D printers to build your prototypes.
+
+
+Mechanical Engineering on-demand
+
+
+Learn more about your course in our subject sessions - watch now.
+
+
+courseLength 
+Course length
+3 years
+
+courseCode 
+UCAS code
+HB38
+
+courseTitle 
+BEng
+
+                
+Mechanical and                 
+courseMode Full-time
+description 
+93% student satisfaction in Medical and Biomedical Engineering, ranking us 2nd in the UK.*
+
+
+courseModules 
+First Year
+moduleName Mathematical Tools and Concepts
+moduleName Mathematical Tools and Concepts
+moduleName This module delivers essential core mathematics knowledge, including polynomial functions, trigonometric functions, series, vectors, matrices and complex numbers.
+moduleName This module delivers essential core mathematics knowledge, including polynomial functions, trigonometric functions, series, vectors, matrices and complex numbers.
+moduleName 
+
+moduleName Fundamentals of Medical Engineering
+moduleName Fundamentals of Medical Engineering
+moduleName Explore key medical engineering concepts such as the principles of forces, moments, and basic stress analysis concepts. You'll also learn human anatomy and physiology. 
+moduleName Explore key medical engineering concepts such as the principles of forces, moments, and basic stress analysis concepts. You'll also learn human anatomy and physiology. 
+moduleName 
+
+moduleName Introduction to Design and Mechanical Engineering Practice
+moduleName Introduction to Design and Mechanical Engineering Practice
+moduleName Learn the principles of mechanical engineering and put them into practice. Cover the key topics of computer aided design (CAD), experimental work/laboratory exercises, manufacturing safety, processes and practice.
+moduleName Learn the principles of mechanical engineering and put them into practice. Cover the key topics of computer aided design (CAD), experimental work/laboratory exercises, manufacturing safety, processes and practice.
+moduleName  
+moduleName  
+moduleName  
+moduleName  
+moduleName 
+
+moduleName Mathematics and Engineering Thermodynamics
+moduleName Mathematics and Engineering Thermodynamics
+moduleName Develop mathematical skills in calculus and explore fundamental concepts in engineering thermodynamics, including heat engine cycles and their applications.
+moduleName Develop mathematical skills in calculus and explore fundamental concepts in engineering thermodynamics, including heat engine cycles and their applications.
+moduleName 
+
+moduleName Mechanical Engineering Science
+moduleName Mechanical Engineering Science
+moduleName Analyse and determine equilibrium conditions and the state of stress for defined mechanical systems, and describe processing routes and factors that influence the properties of engineering materials.
+moduleName Analyse and determine equilibrium conditions and the state of stress for defined mechanical systems, and describe processing routes and factors that influence the properties of engineering materials.
+moduleName 
+
+moduleName Engineering Global Challenge 1
+moduleName Engineering Global Challenge 1
+moduleName Develop and enhance a range of professional skills as a basis for professional registration as an Incorporated or Chartered Engineer. 
+moduleName Develop and enhance a range of professional skills as a basis for professional registration as an Incorporated or Chartered Engineer. 
+moduleName 
+
+Second Year
+moduleName Physiological Measurement and Maths
+moduleName Physiological Measurement and Maths
+moduleName This module introduces you to physiological measurements in the context of medical engineering, including the devices used in clinical practice. 
+moduleName This module introduces you to physiological measurements in the context of medical engineering, including the devices used in clinical practice. 
+moduleName 
+
+moduleName Mechanical Engineering Design
+moduleName Mechanical Engineering Design
+moduleName An opportunity to apply engineering design tools and techniques to solve real-world engineering problems. This module will take you through the product design process right from initial design specification, though to manufacturing planning and prescription.
+moduleName An opportunity to apply engineering design tools and techniques to solve real-world engineering problems. This module will take you through the product design process right from initial design specification, though to manufacturing planning and prescription.
+moduleName 
+
+moduleName NHS Medical Engineering in Practice and Stress Analysis
+moduleName NHS Medical Engineering in Practice and Stress Analysis
+moduleName Gain first-hand experience of medical engineering in the healthcare setting by spending time in a number of different departments in local NHS hospitals. 
+moduleName Gain first-hand experience of medical engineering in the healthcare setting by spending time in a number of different departments in local NHS hospitals. 
+moduleName 
+
+moduleName Mathematics and Fluid Mechanics for Mechanical Engineers
+moduleName Mathematics and Fluid Mechanics for Mechanical Engineers
+moduleName Gain knowledge and hands-on experience of using a range of mathematical functions and techniques to solve engineering problems. 
+moduleName Gain knowledge and hands-on experience of using a range of mathematical functions and techniques to solve engineering problems. 
+moduleName 
+
+moduleName Materials and Manufacture
+moduleName Materials and Manufacture
+moduleName Explore the reasons engineering structures can fail, sometimes unexpectedly, through fatigue and fast fracture, corrosion and creep, as well as processes to reduce such problems. 
+moduleName Explore the reasons engineering structures can fail, sometimes unexpectedly, through fatigue and fast fracture, corrosion and creep, as well as processes to reduce such problems. 
+moduleName 
+
+moduleName Engineering Global Challenge 2
+moduleName Engineering Global Challenge 2
+moduleName Develop and enhance a range of professional skills as a basis for professional registration as an Incorporated or Chartered Engineer. 
+moduleName Develop and enhance a range of professional skills as a basis for professional registration as an Incorporated or Chartered Engineer. 
+moduleName 
+
+Third Year
+Fourth Year
+moduleName Individual Project (Mechanical Engineering)
+moduleName Individual Project (Mechanical Engineering)
+moduleName Apply and extend your engineering knowledge and professional skills by working on a substantial individual project throughout the academic year.
+moduleName Apply and extend your engineering knowledge and professional skills by working on a substantial individual project throughout the academic year.
+moduleName 
+
+moduleName Stress Analysis and Applications of Finite Element Analysis
+moduleName Stress Analysis and Applications of Finite Element Analysis
+moduleName Examine advanced theories and techniques to solve stress-analysis problems. The theory and application of finite element analysis is also covered using industry-standard software.
+moduleName Examine advanced theories and techniques to solve stress-analysis problems. The theory and application of finite element analysis is also covered using industry-standard software.
+moduleName 
+
+moduleName Prosthetics, Orthotics and Assistive Technologies
+moduleName Prosthetics, Orthotics and Assistive Technologies
+moduleName Study the principles and biomechanics behind the design of prosthetics, orthotics and assistive devices.
+moduleName Study the principles and biomechanics behind the design of prosthetics, orthotics and assistive devices.
+moduleName 
+
+moduleName Biomaterials and Orthopaedic Devices
+moduleName Biomaterials and Orthopaedic Devices
+moduleName Examine the key structural biological materials in the human body. And learn about the biomedical materials available to medical engineers for implantation in the body.
+moduleName Examine the key structural biological materials in the human body. And learn about the biomedical materials available to medical engineers for implantation in the body.
+moduleName 
+
+moduleName Artificial Organs and CADCAM for Medical Engineering
+moduleName Artificial Organs and CADCAM for Medical Engineering
+moduleName Explore devices for the replacement or augmentation of bodily functions and their application; the principles behind their design; and the processes and technology used to manufacture these devices.
+moduleName Explore devices for the replacement or augmentation of bodily functions and their application; the principles behind their design; and the processes and technology used to manufacture these devices.
+moduleName 
+
+FEE AND FUNDING 
+Home STUDENT: £9,250 per year*
+International STUDENT: International applicants may need to pay a tuition fee deposit before the start of the course. Visit our tuition fee deposit page for more information.
+Additional Information about FEE
+*The amount you pay may increase each year, in line with inflation - but capped to the Retail Price Index (RPI).
+The fees shown are for 2022 entry. The fees for 2023 have not yet been confirmed and may increase.
+UK students can take out a tuition fee loan to cover the cost of their course and a maintenance loan of up to £9,706 to cover living costs.
+Substantial discounts are available for International students.  
+More information on fees can be found in the Money section of our website. 
+Your tuition fees will cover most costs associated with your programme (including registration, tuition, supervision, assessment and examination).There are some extra costs that you might have to pay, or choose to pay, depending on your programme of study and the decisions you make. The list below has some examples, and any extra costs will vary.
+
+Books (you’ll have access to books from your module reading lists in the library, but you may want to buy your own copies)
+Optional field trips
+Study abroad (including travel costs, accommodation, visas, immunisation)
+Placement costs (including travel costs and accommodation)
+Student visas (international students)
+Laptop (you’ll have access to laptops and PC’s on campus, but you may want to buy your own)
+Printing and photocopying
+Professional-body membership
+Graduation (gown hire and photography)
+
+Remember, you’ll still need to take into account your living costs. This could include accommodation, travel and food – to name just a few. 
+ENTRY REQUIREMENT: 
+INTERNATIONAL STUDENT: 
+If you require a student visa to study or if your first language is not English you will be required to provide acceptable evidence of your English language proficiency level.
+This course requires academic IELTS 6.0 overall, with no less than 5.5 in each skill. See other English language proficiency qualifications accepted by this University.
+If your English currently does not reach the University's required standard for this programme, you may be interested in one of our English language courses.
+Visit your country page to find out more about our entry requirements.
+LOCAL STUDENT: 
+
+A level grades N/A
+
+
+
+
+
+BTEC grades
+N/A
+
+
+

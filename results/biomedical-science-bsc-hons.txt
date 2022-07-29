@@ -1,0 +1,207 @@
+courseName: BIOMEDICAL-SCIENCE-BSC-HONS
+COURSE OVERVIEW
+
+A Biomedical Science degree from Hull opens doors to a career in laboratory science and beyond. 
+
+
+Biomedical science applies biological principles to medicine. It explores the physiological processes and functions of the human body to appreciate disease processes, diagnosis and treatment.
+
+
+This is a dynamic topic with continual advancements in health care and science driving innovation and research. Through supported lab learning, you'll gain a deep understanding of the human form and function in health and disease. We designed our Biomedical Science degree with input from the Hull University Teaching Hospitals NHS Trust.
+
+
+You'll gather the knowledge and skills for employment in a variety of settings – including potentially life-saving work at the cutting edge of health research.
+
+
+This course is accredited by The Institute of Biomedical Science - so you can be confident that it's been approved by expert academics and professionals as meeting industry standards.
+
+
+courseLength 
+Course length
+3 years
+
+courseCode 
+UCAS code
+BC99
+
+courseTitle 
+BSc 
+
+                
+Biomedical Science                
+courseMode Full-time
+description 
+Gain the knowledge and skills to drive innovation that saves lives.
+
+
+courseModules 
+First Year
+moduleName Biochemistry
+moduleName Biochemistry
+moduleName How does metabolism work? On this module, we illuminate the biochemical pathways that utilise sugars, proteins and lipids for energy generation by our cells and our bodies.
+moduleName How does metabolism work? On this module, we illuminate the biochemical pathways that utilise sugars, proteins and lipids for energy generation by our cells and our bodies.
+moduleName 
+
+moduleName Cell Structure and Function
+moduleName Cell Structure and Function
+moduleName Gain an understanding of cell organisation. In practical sessions you’ll learn how to use a light microscope, produce clear scientific figures and measure the size and number of cells.
+moduleName Gain an understanding of cell organisation. In practical sessions you’ll learn how to use a light microscope, produce clear scientific figures and measure the size and number of cells.
+moduleName 
+
+moduleName Principles of Genetics
+moduleName Principles of Genetics
+moduleName Explore core genetic concepts leading to an understanding of how genetics underlies the biological and molecular traits observed in organisms. 
+moduleName Explore core genetic concepts leading to an understanding of how genetics underlies the biological and molecular traits observed in organisms. 
+moduleName 
+
+moduleName Microbiology and Immunology
+moduleName Microbiology and Immunology
+moduleName Examine the wonderful world of microorganisms and the defence against "bad" microbes (pathogens) by the intricate human immune system. 
+moduleName Examine the wonderful world of microorganisms and the defence against "bad" microbes (pathogens) by the intricate human immune system. 
+moduleName 
+
+moduleName Skills for Biomedical and Human Biology Sciences
+moduleName Skills for Biomedical and Human Biology Sciences
+moduleName Discover and master the skills necessary to be a successful scientist. This module introduces you to essay writing and the scholarship skills you’ll use in your career.
+moduleName Discover and master the skills necessary to be a successful scientist. This module introduces you to essay writing and the scholarship skills you’ll use in your career.
+moduleName 
+
+moduleName Human Physiology
+moduleName Human Physiology
+moduleName Explore topics including the circulatory system, blood and cardiac and skeletal muscles; the nervous system; reproduction; respiration; the gastro-intestinal system; and the endocrine system.
+moduleName Explore topics including the circulatory system, blood and cardiac and skeletal muscles; the nervous system; reproduction; respiration; the gastro-intestinal system; and the endocrine system.
+moduleName 
+
+Second Year
+moduleName Molecular Genetics and Proteomics
+moduleName Molecular Genetics and Proteomics
+moduleName Gain practical laboratory skills as you develop your understanding of how genetic information encoded by the DNA is regulated in health and disease. 
+moduleName Gain practical laboratory skills as you develop your understanding of how genetic information encoded by the DNA is regulated in health and disease. 
+moduleName 
+
+moduleName Blood Sciences
+moduleName Blood Sciences
+moduleName ​Blood science is the study of blood as a marker of disease. Through lab sessions and lectures, you'll explore clinical biochemistry, haematology and hospital transfusion practice. 
+moduleName ​Blood science is the study of blood as a marker of disease. Through lab sessions and lectures, you'll explore clinical biochemistry, haematology and hospital transfusion practice. 
+moduleName 
+
+moduleName Clinical Microbiology and Immunology
+moduleName Clinical Microbiology and Immunology
+moduleName Discover the world of clinically important microorganisms, how they drive disease and treatment options. Explore healthy and discorded human immunobiology, autoimmunity, allergies and transplantation.
+moduleName Discover the world of clinically important microorganisms, how they drive disease and treatment options. Explore healthy and discorded human immunobiology, autoimmunity, allergies and transplantation.
+moduleName 
+
+moduleName Professional and Research Skills for Biomedical Scientists
+moduleName Professional and Research Skills for Biomedical Scientists
+moduleName Alongside developing your research skills in biological disciplines, you'll complete assessments such as applying for a job by submitting a CV and cover letter. 
+moduleName Alongside developing your research skills in biological disciplines, you'll complete assessments such as applying for a job by submitting a CV and cover letter. 
+moduleName 
+
+moduleName Biological Basis of Disease
+moduleName Biological Basis of Disease
+moduleName In this module, you will gain an understanding of the biological, biochemical and genetic basis of several diseases including cancer and cardiovascular diseases.
+moduleName In this module, you will gain an understanding of the biological, biochemical and genetic basis of several diseases including cancer and cardiovascular diseases.
+moduleName 
+
+moduleName Molecular Cell Biology and Histopathology
+moduleName Molecular Cell Biology and Histopathology
+moduleName ​Discover the important role histopathology plays in the diagnosis of disease, prognosis and treatment. Explore the journey that tissue biopsies take from the patient to the microscope.​
+moduleName ​Discover the important role histopathology plays in the diagnosis of disease, prognosis and treatment. Explore the journey that tissue biopsies take from the patient to the microscope.​
+moduleName 
+
+Third Year
+moduleName Independent Research Project
+moduleName Independent Research Project
+moduleName You'll have the opportunity to work on your own lab-based or bioinformatic-based project. For many students, this is the highlight of their degree, as it's a chance to show off their skills in a real-world environment.
+moduleName You'll have the opportunity to work on your own lab-based or bioinformatic-based project. For many students, this is the highlight of their degree, as it's a chance to show off their skills in a real-world environment.
+moduleName 
+
+moduleName Human Genetics
+moduleName Human Genetics
+moduleName Examine human disease and the underlying genetic causes. Learn about cytogenetics and genetic counselling, as well as the inheritance of recessive and dominant diseases.
+moduleName Examine human disease and the underlying genetic causes. Learn about cytogenetics and genetic counselling, as well as the inheritance of recessive and dominant diseases.
+moduleName 
+
+moduleName Cellular Pathology
+moduleName Cellular Pathology
+moduleName Explore the pathological presentation of several major diseases and their impact on society. Input from NHS clinical staff allows you to explore the benefits of population screening. 
+moduleName Explore the pathological presentation of several major diseases and their impact on society. Input from NHS clinical staff allows you to explore the benefits of population screening. 
+moduleName 
+
+moduleName Clinical Biochemistry
+moduleName Clinical Biochemistry
+moduleName In this module, you will gain knowledge about theoretical and practical aspects of routine clinical biochemistry analysis, including contact with NHS clinical biochemists.
+moduleName In this module, you will gain knowledge about theoretical and practical aspects of routine clinical biochemistry analysis, including contact with NHS clinical biochemists.
+moduleName 
+
+moduleName Clinical Haematology
+moduleName Clinical Haematology
+moduleName Investigate the mechanisms at the core of human haemostasis, haemotological mailgnancy and life saving transfusion science. This module is extensively taught by specialist practitioners alongside senior colleagues from the NHS and industry. 
+moduleName Investigate the mechanisms at the core of human haemostasis, haemotological mailgnancy and life saving transfusion science. This module is extensively taught by specialist practitioners alongside senior colleagues from the NHS and industry. 
+moduleName 
+
+moduleName Medical Microbiology
+moduleName Medical Microbiology
+moduleName Explore pathogen-host interactions, the latest research developments and changing treatment options for some of the most important infectious diseases affecting our society.
+moduleName Explore pathogen-host interactions, the latest research developments and changing treatment options for some of the most important infectious diseases affecting our society.
+moduleName 
+
+moduleName Muscle Fitness and Failure
+moduleName Muscle Fitness and Failure
+moduleName Discover the cellular and biochemical mechanisms controlling muscle physiology in health and disease. You'll also explore how cardiovascular research informs clinical practice.
+moduleName Discover the cellular and biochemical mechanisms controlling muscle physiology in health and disease. You'll also explore how cardiovascular research informs clinical practice.
+moduleName 
+
+moduleName Molecular and Medical Parasitology
+moduleName Molecular and Medical Parasitology
+moduleName Explore how medically important parasites have a major impact on populations around the globe. You'll also develop practical skills in parasitology.
+moduleName Explore how medically important parasites have a major impact on populations around the globe. You'll also develop practical skills in parasitology.
+moduleName 
+
+moduleName Cancer Biology
+moduleName Cancer Biology
+moduleName Gain an understanding of the key concepts in cancer biology. You'll learn how current research impacts diagnosis and treatment of cancer patients.
+moduleName Gain an understanding of the key concepts in cancer biology. You'll learn how current research impacts diagnosis and treatment of cancer patients.
+moduleName 
+
+FEE AND FUNDING 
+Home STUDENT: £9,250 per year*
+International STUDENT: International applicants may need to pay a tuition fee deposit before the start of the course. Visit our tuition fee deposit page for more information.
+Additional Information about FEE
+*The amount you pay may increase each year, in line with inflation - but capped to the Retail Price Index (RPI).
+The fees shown are for 2022 entry. The fees for 2023 have not yet been confirmed and may increase.
+UK students can take out a tuition fee loan to cover the cost of their course and a maintenance loan of up to £9,706 to cover living costs.
+Substantial discounts are available for International students.  
+More information on fees can be found in the Money section of our website. 
+Your tuition fees will cover most costs associated with your programme (including registration, tuition, supervision, assessment and examination).There are some extra costs that you might have to pay, or choose to pay, depending on your programme of study and the decisions you make. The list below has some examples, and any extra costs will vary.
+
+Books (you’ll have access to books from your module reading lists in the library, but you may want to buy your own copies)
+Optional field trips
+Study abroad (including travel costs, accommodation, visas, immunisation)
+Placement costs (including travel costs and accommodation)
+Student visas (international students)
+Laptop (you’ll have access to laptops and PC’s on campus, but you may want to buy your own)
+Printing and photocopying
+Professional-body membership
+Graduation (gown hire and photography)
+
+Remember, you’ll still need to take into account your living costs. This could include accommodation, travel and food – to name just a few. 
+ENTRY REQUIREMENT: 
+INTERNATIONAL STUDENT: 
+If you require a Tier 4 student visa to study or if your first language is not English you will be required to provide acceptable evidence of your English language proficiency level.
+This course requires academic IELTS 6.0 overall, with no less than 5.5 in each skill. For Foundation Year, we require IELTS 5.5 overall, with 5.5 in each skill. See other English language proficiency qualifications accepted by this University.
+If your English currently does not reach the University's required standard for this programme, you may be interested in one of our English language courses.
+Visit your country page to find out more about our entry requirements.
+LOCAL STUDENT: 
+
+A level grades N/A
+
+
+
+
+
+BTEC grades
+N/A
+
+
+

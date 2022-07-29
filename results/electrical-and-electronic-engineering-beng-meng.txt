@@ -1,0 +1,175 @@
+courseName: ELECTRICAL-AND-ELECTRONIC-ENGINEERING-BENG-MENG
+COURSE OVERVIEW
+
+From aerospace engineering, health care and mobile phones to the growing need for renewable energy solutions, electronic and electrical systems are constantly evolving. So the demand for talented engineers continues to rise.
+
+
+Engineers and technologists are needed across all industries. So when you graduate, you'll find varied, challenging and rewarding careers developing the technology that touches every strand of modern life.
+
+
+Our Electrical and Electronic Engineering degrees are fully accredited by the Institution of Engineering and Technology. They count as recognised qualifications on the way to Chartered Engineer status.
+
+
+But it’s not all study and work - there are lots of extra-curricular activities for you to get involved with as well. Become part of our Hull Electric Racing team and you could be building a single seater racing car and competing against other students at Silverstone. There’s a robotics society and you’ll have access to our state-of-the-art FabLab, packed with 3D printers to build your prototypes.
+
+
+courseLength 
+Course length
+3 years
+
+courseCode 
+UCAS code
+H604
+
+courseTitle 
+BEng
+
+                
+Electrical and                 
+courseMode Full-time
+description 
+This accredited course will prepare you for a career developing the technology that touches every aspect of our lives.
+
+
+courseModules 
+First Year
+moduleName Mathematics for Engineers
+moduleName Mathematics for Engineers
+moduleName Gain knowledge of the characteristics of a range of functions and techniques appropriate to engineering, developing expertise in analysis, interpretation and problem solving.
+moduleName Gain knowledge of the characteristics of a range of functions and techniques appropriate to engineering, developing expertise in analysis, interpretation and problem solving.
+moduleName 
+
+moduleName Fundamentals of Engineering
+moduleName Fundamentals of Engineering
+moduleName Introducing the key principles and concepts of mechanical and electrical and electronic engineering; ranging from digital electronics to basic stress analysis concepts.
+moduleName Introducing the key principles and concepts of mechanical and electrical and electronic engineering; ranging from digital electronics to basic stress analysis concepts.
+moduleName 
+
+moduleName Practical Skills for Engineers
+moduleName Practical Skills for Engineers
+moduleName An introduction to key experiments and construction skills required for electrical and electronic engineers, as well as hands-on experience in the mechanical engineering manufacturing workshop.
+moduleName An introduction to key experiments and construction skills required for electrical and electronic engineers, as well as hands-on experience in the mechanical engineering manufacturing workshop.
+moduleName 
+
+moduleName Programming and Control
+moduleName Programming and Control
+moduleName Communication of mathematical problems and solutions, as well as logic simulation and C programming results for academic, specialist and non-specialist audiences.
+moduleName Communication of mathematical problems and solutions, as well as logic simulation and C programming results for academic, specialist and non-specialist audiences.
+moduleName 
+
+moduleName Thermofluids
+moduleName Thermofluids
+moduleName Gain knowledge, comprehension and hands-on experience of using a range of mathematical functions and techniques appropriate to the application of Engineering Thermofluids to engineering processes.
+moduleName Gain knowledge, comprehension and hands-on experience of using a range of mathematical functions and techniques appropriate to the application of 
+moduleName 
+
+moduleName Engineering Global Challenge 1
+moduleName Engineering Global Challenge 1
+moduleName Develop and enhance a range of professional skills as a basis for professional registration as an Incorporated or Chartered Engineer. 
+moduleName Develop and enhance a range of professional skills as a basis for professional registration as an Incorporated or Chartered Engineer. 
+moduleName 
+
+Second Year
+moduleName Control Engineering
+moduleName Control Engineering
+moduleName 
+
+moduleName Electrical and Electronic Systems 1
+moduleName Electrical and Electronic Systems 1
+moduleName Topics include analogue circuit design; digital circuit and system design using a hardware description language (HDL); and electrical power networks and machines.
+moduleName Topics include analogue circuit design; digital circuit and system design using a hardware description language (HDL); and electrical power networks and machines.
+moduleName 
+
+moduleName Power Systems
+moduleName Power Systems
+moduleName 
+
+moduleName Digital and Embedded Systems Design
+moduleName Digital and Embedded Systems Design
+moduleName Develop core skills in engineering mathematics with a particular emphasis on vector mathematics and its application to engineering problems.
+moduleName Develop core skills in engineering mathematics with a particular emphasis on vector mathematics and its application to engineering problems.
+moduleName 
+
+moduleName Electrical and Electronic Systems 2
+moduleName Electrical and Electronic Systems 2
+moduleName You'll practice the design, construction and simulation of analogue and digital circuits through a selection of laboratory exercises and a digital circuit design project.
+moduleName You'll practice the design, construction and simulation of analogue and digital circuits through a selection of laboratory exercises and a digital circuit design project.
+moduleName 
+
+moduleName Engineering Global Challenge 2
+moduleName Engineering Global Challenge 2
+moduleName Develop and enhance a range of professional skills as a basis for professional registration as an Incorporated or Chartered Engineer. 
+moduleName Develop and enhance a range of professional skills as a basis for professional registration as an Incorporated or Chartered Engineer. 
+moduleName 
+
+Third Year
+Fourth Year
+moduleName Individual Project (Electrical and Electronic Engineering)
+moduleName Individual Project (Electrical and Electronic Engineering)
+moduleName Apply and extend your engineering knowledge and professional skills by working on a substantial individual project throughout the academic year.
+moduleName Apply and extend your engineering knowledge and professional skills by working on a substantial individual project throughout the academic year.
+moduleName 
+
+moduleName Smart Grids
+moduleName Smart Grids
+moduleName 
+
+moduleName Embedded Systems
+moduleName Embedded Systems
+moduleName You'll experience the challenge of designing, building and programming a large scale embedded system during a group-based laboratory exercise.
+moduleName You'll experience the challenge of designing, building and programming a large scale embedded system during a group-based laboratory exercise.
+moduleName 
+
+moduleName Machine Learning
+moduleName Machine Learning
+moduleName In this module, you'll be introduced to core algorithms in machine learning, including state-of-the-art deep learning models, and consider practical issues around complexity, optimisation and performance. Learn to systematically compare algorithms and establish the mathematical foundations to implement your own.
+moduleName In this module, you'll be introduced to core algorithms in machine learning, including state-of-the-art deep learning models, and consider practical issues around complexity, optimisation and performance. Learn to systematically compare algorithms and establish the mathematical foundations to implement your own.
+moduleName 
+
+moduleName Robotics and Automation
+moduleName Robotics and Automation
+moduleName Develop knowledge of the applications, modelling and analysis of industrial robots and their assembly. You'll explore key features of design and methods of controlling robotic devices.
+moduleName Develop knowledge of the applications, modelling and analysis of industrial robots and their assembly. You'll explore key features of design and methods of controlling robotic devices.
+moduleName 
+
+FEE AND FUNDING 
+Home STUDENT: £9,250 per year*
+International STUDENT: International applicants may need to pay a tuition fee deposit before the start of the course. Visit our tuition fee deposit page for more information.
+Additional Information about FEE
+*The amount you pay may increase each year, in line with inflation - but capped to the Retail Price Index (RPI).
+The fees shown are for 2022 entry. The fees for 2023 have not yet been confirmed and may increase.
+UK students can take out a tuition fee loan to cover the cost of their course and a maintenance loan of up to £9,706 to cover living costs.
+Substantial discounts are available for International students.  
+More information on fees can be found in the Money section of our website. 
+Your tuition fees will cover most costs associated with your programme (including registration, tuition, supervision, assessment and examination).There are some extra costs that you might have to pay, or choose to pay, depending on your programme of study and the decisions you make. The list below has some examples, and any extra costs will vary.
+
+Books (you’ll have access to books from your module reading lists in the library, but you may want to buy your own copies)
+Optional field trips
+Study abroad (including travel costs, accommodation, visas, immunisation)
+Placement costs (including travel costs and accommodation)
+Student visas (international students)
+Laptop (you’ll have access to laptops and PC’s on campus, but you may want to buy your own)
+Printing and photocopying
+Professional-body membership
+Graduation (gown hire and photography)
+
+Remember, you’ll still need to take into account your living costs. This could include accommodation, travel and food – to name just a few. 
+ENTRY REQUIREMENT: 
+INTERNATIONAL STUDENT: 
+If you require a student visa to study or if your first language is not English you will be required to provide acceptable evidence of your English language proficiency level.
+This course requires academic IELTS 6.0 overall, with no less than 5.5 in each skill. See other English language proficiency qualifications accepted by this University.
+If your English currently does not reach the University's required standard for this programme, you may be interested in one of our English language courses.
+Visit your country page to find out more about our entry requirements.
+LOCAL STUDENT: 
+
+A level grades N/A
+
+
+
+
+
+BTEC grades
+N/A
+
+
+

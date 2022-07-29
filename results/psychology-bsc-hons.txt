@@ -1,0 +1,277 @@
+courseName: PSYCHOLOGY-BSC-HONS
+COURSE OVERVIEW
+
+Choose Psychology at Hull and you’ll explore the most fascinating subject of all – the human mind.
+
+
+Psychology has been a key area of study at Hull since 1928, spanning major milestones in the discipline from Freudian theory to the introduction of high-tech brain scanners. This accredited degree will provide you with a firm foundation in the core areas of psychological science – while giving you the option to study the topics that interest you in greater depth.
+
+
+You’ll study fascinating areas such as memory, social relationships, child development, the ageing brain and forensics. And you’ll develop practical and technical skills which can help tackle real-life issues such as dementia, under the guidance of professional psychologists.
+
+
+Our specialist facilities include an electroencephalography (EEG) machine for measuring activity in the brain and a well-equipped brain stimulation laboratory. You’ll study in a friendly, supportive department that has strong links with the NHS as well as the private sector; all of which helps ensure what you’re learning is industry-relevant.
+
+
+Psychology students at Hull have access to their own social area too. The bright, modern space has seating areas where you can meet before and after lectures and is a great space for group study. 
+
+
+The unique link between our BSc Psychology and our doctorate in Clinical Psychology offers you a fast track to qualification while having your doctorate fees paid – and receiving a salary from the NHS.
+
+
+You can also study for a semester in countries like Norway, Germany and Malta. Classes are taught in English and you’ll expand your cultural and subject knowledge while you’re there.
+
+
+Our lecturers are at the cutting edge of psychology research. And that expertise inspires their teaching too, making sure what you learn is the most up-to-date theory and practice. Our research has real-life applications, like our work with international manufacturer Siemens. We are studying the psychological effects of the tough environment that wind turbine engineers must face while working out in the North Sea. Our psychologists are helping Siemens better understand this to support their engineers in their vital work and keep them safe.
+
+
+courseLength 
+Course length
+3 years
+
+courseCode 
+UCAS code
+C800
+
+courseTitle 
+BSc 
+
+                
+Psychology                
+courseMode Full-time
+description 
+Study human behaviour – including memory, social relationships and child development – in a department at the cutting edge of research.
+
+
+courseModules 
+First Year
+moduleName Research Skills 1
+moduleName Research Skills 1
+moduleName This module will introduce you to the process of psychological research. You will develop skills in quantitative data processing and presentation of descriptive statistics.
+moduleName This module will introduce you to the process of psychological research. You will develop skills in quantitative data processing and presentation of descriptive statistics.
+moduleName 
+
+moduleName Cognition and Development 1
+moduleName Cognition and Development 1
+moduleName Explore the  ideas, research methods and findings that have shaped modern cognitive and developmental psychology. 
+moduleName Explore the  ideas, research methods and findings that have shaped modern cognitive and developmental psychology. 
+moduleName 
+
+moduleName Brain and Behaviour 1
+moduleName Brain and Behaviour 1
+moduleName Explore the relationship between the brain and human behaviour, including how we sense the world, how we act in the world and how we think and feel about the world.
+moduleName Explore the relationship between the brain and human behaviour, including how we sense the world, how we act in the world and how we think and feel about the world.
+moduleName 
+
+moduleName Research Skills 2
+moduleName Research Skills 2
+moduleName Develop your research skills further with a focus on how we infer things about the world using data. This module gives you practical experience of research methods.
+moduleName Develop your research skills further with a focus on how we infer things about the world using data. This module gives you practical experience of research methods.
+moduleName 
+
+moduleName Social Psychology and Individual Differences 1
+moduleName Social Psychology and Individual Differences 1
+moduleName Explore social-psychological theories and gain insight into how psychologists have identified patterns of behaviour, emotion and ability across time and situations. 
+moduleName Explore social-psychological theories and gain insight into how psychologists have identified patterns of behaviour, emotion and ability across time and situations. 
+moduleName 
+
+moduleName Global Challenge: The Psychological Effects of Adversity
+moduleName Global Challenge: The Psychological Effects of Adversity
+moduleName Explore how psychology can be applied to a critical issue facing societies across the globe today: how one's position in society affects one's physical health and mental well-being. 
+moduleName Explore how psychology can be applied to a critical issue facing societies across the globe today: how one's position in society affects one's physical health and mental well-being. 
+moduleName 
+
+Second Year
+moduleName Research Skills 3
+moduleName Research Skills 3
+moduleName Discover experimental designs involving multiple conditions and independent variables. You'll learn how to analyse data generated by these more complex designs.
+moduleName Discover experimental designs involving multiple conditions and independent variables. You'll learn how to analyse data generated by these more complex designs.
+moduleName 
+
+moduleName Cognition and Development 2
+moduleName Cognition and Development 2
+moduleName In this module we look at recent research into cognition in children and adults - how they reason with and remember information, and how they understand the emotional and social life of other people.
+moduleName In this module we look at recent research into cognition in children and adults - how they reason with and remember information, and how they understand the emotional and social life of other people.
+moduleName 
+
+moduleName Brain and Behaviour 2
+moduleName Brain and Behaviour 2
+moduleName Study more advanced topics including cognitive neuroscience and clinical neuropsychology. This module also introduces issues in comparative psychology and animal intelligence.
+moduleName Study more advanced topics including cognitive neuroscience and clinical neuropsychology. This module also introduces issues in comparative psychology and animal intelligence.
+moduleName 
+
+moduleName Research Skills 4
+moduleName Research Skills 4
+moduleName On this module, you'll develop your qualitative data collection and analysis skills, and focus on psychometrics and the ability to process complex real-world secondary data sources.
+moduleName On this module, you'll develop your qualitative data collection and analysis skills, and focus on psychometrics and the ability to process complex real-world secondary data sources.
+moduleName 
+
+moduleName Social Psychology and Individual Differences 2
+moduleName Social Psychology and Individual Differences 2
+moduleName Focus in more depth on studies from recent journal articles. You'll look at developments in social psychology and individual differences and the overlap with other disciplines. 
+moduleName Focus in more depth on studies from recent journal articles. You'll look at developments in social psychology and individual differences and the overlap with other disciplines. 
+moduleName 
+
+moduleName Psychological Wellbeing and Distress
+moduleName Psychological Wellbeing and Distress
+moduleName This module introduces you to key issues in mental health. You'll consider theory and evidence about the psychological, social and biological origins of a range of mental health difficulties.
+moduleName This module introduces you to key issues in mental health. You'll consider theory and evidence about the psychological, social and biological origins of a range of mental health difficulties.
+moduleName 
+
+Third Year
+moduleName Research Project (Psychology)
+moduleName Research Project (Psychology)
+moduleName Carry out your own psychological research grounded in empirical approaches. You'll develop your research skills working alongside a supervisor and engaging in independent empirical work.
+moduleName Carry out your own psychological research grounded in empirical approaches. You'll develop your research skills working alongside a supervisor and engaging in independent empirical work.
+moduleName 
+
+moduleName Study Abroad (Psychology)
+moduleName Study Abroad (Psychology)
+moduleName You'll have an opportunity to spend a semester abroad at one of our partner universities in Europe, studying two modules which will count towards your degree in Hull. 
+moduleName You'll have an opportunity to spend a semester abroad at one of our partner universities in Europe, studying two modules which will count towards your degree in Hull. 
+moduleName 
+
+moduleName Psychology and Health
+moduleName Psychology and Health
+moduleName Study the application of psychology to social and clinical factors surrounding health, illness and health-related behaviours. You'll consider the function of health care systems like the NHS.
+moduleName Study the application of psychology to social and clinical factors surrounding health, illness and health-related behaviours. You'll consider the function of health care systems like the NHS.
+moduleName 
+
+moduleName Neuropsychology
+moduleName Neuropsychology
+moduleName Explore how brain lesions and neurological diseases affect cognition and behaviour. You'll study the major neurological deficits and syndromes found with central nervous system malfunctions.
+moduleName Explore how brain lesions and neurological diseases affect cognition and behaviour. You'll study the major neurological deficits and syndromes found with central nervous system malfunctions.
+moduleName 
+
+moduleName Forensic Psychology
+moduleName Forensic Psychology
+moduleName Learn about the psychological origins of crime, how psychology can inform crime detection and what psychologists can do to reduce offending.
+moduleName Learn about the psychological origins of crime, how psychology can inform crime detection and what psychologists can do to reduce offending.
+moduleName 
+
+moduleName Neuroscience Techniques
+moduleName Neuroscience Techniques
+moduleName Gain a deeper understanding of neuroscience techniques. You'll study the theory, and then learn through first-hand practical experience of application and data analysis methods.
+moduleName Gain a deeper understanding of neuroscience techniques. You'll study the theory, and then learn through first-hand practical experience of application and data analysis methods.
+moduleName 
+
+moduleName Understanding Animal Minds
+moduleName Understanding Animal Minds
+moduleName Explore human and animal behaviour from a perspective adopted by naturalists, biologists, cognitive neuroscientists and experimental psychologists. 
+moduleName Explore human and animal behaviour from a perspective adopted by naturalists, biologists, cognitive neuroscientists and experimental psychologists. 
+moduleName 
+
+moduleName The Social Brain and Autism
+moduleName The Social Brain and Autism
+moduleName Learn about the ways that psychology, philosophy and neuroscience contribute to the current insights about how the brain enables social cognition -  and how that helps us understand autism.
+moduleName Learn about the ways that psychology, philosophy and neuroscience contribute to the current insights about how the brain enables social cognition -  and how that helps us understand autism.
+moduleName 
+
+moduleName Memory in the Real World
+moduleName Memory in the Real World
+moduleName Build your understanding of memory and its importance in everyday life. You'll cover topics including autobiographical memory, false memories and memory for emotional events.
+moduleName Build your understanding of memory and its importance in everyday life. You'll cover topics including autobiographical memory, false memories and memory for emotional events.
+moduleName 
+
+moduleName Advanced Topics in Cognitive Development
+moduleName Advanced Topics in Cognitive Development
+moduleName Explore how debates in cognitive development inform developmental psychology research into topics such as the understanding of the physical world and executive functions. 
+moduleName Explore how debates in cognitive development inform developmental psychology research into topics such as the understanding of the physical world and executive functions. 
+moduleName 
+
+moduleName Psychology in Education
+moduleName Psychology in Education
+moduleName Develop an understanding of the ways that individual variations in learning needs in children and adolescents manifest themselves in education.
+moduleName Develop an understanding of the ways that individual variations in learning needs in children and adolescents manifest themselves in education.
+moduleName 
+
+moduleName The Ageing Brain
+moduleName The Ageing Brain
+moduleName Gain an understanding of ageing within the human brain. You'll explore the underpinnings of normal and abnormal ageing, including age-related brain diseases and disorders.
+moduleName Gain an understanding of ageing within the human brain. You'll explore the underpinnings of normal and abnormal ageing, including age-related brain diseases and disorders.
+moduleName 
+
+moduleName Clinical and Therapeutic Issues in Clinical Psychology
+moduleName Clinical and Therapeutic Issues in Clinical Psychology
+moduleName ​Discover the importance of the therapeutic relationship in clinical psychology and explore clinical and therapeutic approaches commonly used in clinical psychology.
+moduleName ​Discover the importance of the therapeutic relationship in clinical psychology and explore clinical and therapeutic approaches commonly used in clinical psychology.
+moduleName 
+
+moduleName Professional, Ethical, and Personal Issues in Clinical Psychology
+moduleName Professional, Ethical, and Personal Issues in Clinical Psychology
+moduleName An introduction to clinical psychology and its role in the NHS. You'll explore the philosophy and core purpose of the profession, as well as the nature and role of its code of conduct.​
+moduleName An introduction to clinical psychology and its role in the NHS. You'll explore the philosophy and core purpose of the profession, as well as the nature and role of its code of conduct.​
+moduleName 
+
+moduleName Introduction to Assessment in Clinical Psychology
+moduleName Introduction to Assessment in Clinical Psychology
+moduleName You'll explore topics including: clinical interview and history taking; psychometric assessments across the lifespan; risk assessment; and formulation in clinical practice.
+moduleName You'll explore topics including: clinical interview and history taking; psychometric assessments across the lifespan; risk assessment; and formulation in clinical practice.
+moduleName 
+
+moduleName Human Factors
+moduleName Human Factors
+moduleName On this module you will explore the impact of work on health, safety and wellbeing.  You’ll cover topics such as human error, and examine how work-system design can explain major industrial disasters.
+moduleName On this module you will explore the impact of work on health, safety and wellbeing.  You’ll cover topics such as human error, and examine how work-system design can explain major industrial disasters.
+moduleName 
+
+moduleName Programming for Psychologists
+moduleName Programming for Psychologists
+moduleName You will learn how to programme in Python and apply that skill to various areas in Psychology. For instance you'll learn how to programme your own experiments (PsychoPy), manipulate datasets, model vision etc.
+moduleName You will learn how to programme in Python and apply that skill to various areas in Psychology. For instance you'll learn how to programme your own experiments (PsychoPy), manipulate datasets, model vision etc.
+moduleName 
+
+moduleName Psychological Treatments and Services
+moduleName Psychological Treatments and Services
+moduleName On this module you will study how psychological treatments can help people with mental health problems, addictions and other psychological difficulties. You will learn about the importance of the therapeutic relationship and the kind of settings where psychological treatment is delivered.
+moduleName On this module you will study how psychological treatments can help people with mental health problems, addictions and other psychological difficulties. You will learn about the importance of the therapeutic relationship and the kind of settings where psychological treatment is delivered.
+moduleName 
+
+Fourth Year
+moduleName Psychology
+moduleName Psychology
+moduleName Erin Minton-Branfoot
+moduleName Erin Minton-Branfoot
+moduleName 
+
+FEE AND FUNDING 
+Home STUDENT: £9,250 per year*
+International STUDENT: International applicants may need to pay a tuition fee deposit before the start of the course. Visit our tuition fee deposit page for more information.
+Additional Information about FEE
+*The amount you pay may increase each year, in line with inflation - but capped to the Retail Price Index (RPI).
+The fees shown are for 2022 entry. The fees for 2023 have not yet been confirmed and may increase.
+UK students can take out a tuition fee loan to cover the cost of their course and a maintenance loan of up to £9,706 to cover living costs.
+Substantial discounts are available for International students.  
+More information on fees can be found in the Money section of our website. 
+Your tuition fees will cover most costs associated with your programme (including registration, tuition, supervision, assessment and examination).There are some extra costs that you might have to pay, or choose to pay, depending on your programme of study and the decisions you make. The list below has some examples, and any extra costs will vary.
+
+Books (you’ll have access to books from your module reading lists in the library, but you may want to buy your own copies)
+Optional field trips
+Study abroad (including travel costs, accommodation, visas, immunisation)
+Placement costs (including travel costs and accommodation)
+Student visas (international students)
+Laptop (you’ll have access to laptops and PC’s on campus, but you may want to buy your own)
+Printing and photocopying
+Professional-body membership
+Graduation (gown hire and photography)
+
+Remember, you’ll still need to take into account your living costs. This could include accommodation, travel and food – to name just a few. 
+ENTRY REQUIREMENT: 
+INTERNATIONAL STUDENT: 
+If you require a student visa to study or if your first language is not English you will be required to provide acceptable evidence of your English language proficiency level.
+This course requires academic IELTS 6.0 overall, with no less than 5.5 in each skill. See other English language proficiency qualifications accepted by this University.
+If your English currently does not reach the University's required standard for this programme, you may be interested in one of our English language courses.
+Visit your country page to find out more about our entry requirements.
+LOCAL STUDENT: 
+
+A level grades N/A
+
+
+
+
+
+BTEC grades
+N/A
+
+
+

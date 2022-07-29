@@ -1,0 +1,189 @@
+courseName: FORENSIC-SCIENCE-BSC-HONS
+COURSE OVERVIEW
+
+At Hull, we teach you much more than just the theory of forensic science. Here we’ll take you from crime scene to court room going beyond the lecture theatre to gain practical experience in crime scene investigation, analyse evidence in the laboratory and learn how to be an expert witness in court.
+
+
+Forensic science is one of the fastest growing sectors and this course prepares you for a range of careers.
+
+
+You'll gain the essential knowledge and fundamental skills to become a competent and confident forensic scientist with a significant focus on practice to application. We'll support you to develop critical thinking skills and teach you how to present clearly supported/evidenced opinions as you progress through the course. You'll also be able to make use of our excellent links with local police forces.
+
+
+courseLength 
+Course length
+3 years
+
+courseCode 
+UCAS code
+F410
+
+courseTitle 
+BSc 
+
+                
+Forensic Science                
+courseMode Full-time
+description 
+Gain practical experience of crime scene investigation, laboratory analysis and how to present evidence in court. 
+
+
+courseModules 
+First Year
+moduleName Introduction to Forensic Science
+moduleName Introduction to Forensic Science
+moduleName The forensic science fundamentals. Explore crime scene protocol and preserving evidence; fire and firearms investigation; scenes of explosion; and DNA and bodily fluids.
+moduleName The forensic science fundamentals. Explore crime scene protocol and preserving evidence; fire and firearms investigation; scenes of explosion; and DNA and bodily fluids.
+moduleName 
+
+moduleName Introduction to DNA and Chromatography
+moduleName Introduction to DNA and Chromatography
+moduleName On this module, you’ll explore the concepts of DNA and how scientists characterise DNA, and you’ll learn how to explain concepts in chromatography.
+moduleName On this module, you’ll explore the concepts of DNA and how scientists characterise DNA, and you’ll learn how to explain concepts in chromatography.
+moduleName 
+
+moduleName Skills for Forensic Science
+moduleName Skills for Forensic Science
+moduleName Learn the essential skills to engage with forensic science. You’ll gain the necessary theory and practice to be able to use scientific principles in the field.
+moduleName Learn the essential skills to engage with forensic science. You’ll gain the necessary theory and practice to be able to use scientific principles in the field.
+moduleName 
+
+moduleName Biochemistry
+moduleName Biochemistry
+moduleName How does metabolism work? On this module, we illuminate the biochemical pathways that utilise sugars, proteins and lipids for energy generation by our cells and our bodies.
+moduleName How does metabolism work? On this module, we illuminate the biochemical pathways that utilise sugars, proteins and lipids for energy generation by our cells and our bodies.
+moduleName 
+
+moduleName Cell Structure and Function
+moduleName Cell Structure and Function
+moduleName Gain an understanding of cell organisation. In practical sessions you’ll learn how to use a light microscope, produce clear scientific figures and measure the size and number of cells.
+moduleName Gain an understanding of cell organisation. In practical sessions you’ll learn how to use a light microscope, produce clear scientific figures and measure the size and number of cells.
+moduleName 
+
+moduleName Human Physiology
+moduleName Human Physiology
+moduleName Explore topics including the circulatory system, blood and cardiac and skeletal muscles; the nervous system; reproduction; respiration; the gastro-intestinal system; and the endocrine system.
+moduleName Explore topics including the circulatory system, blood and cardiac and skeletal muscles; the nervous system; reproduction; respiration; the gastro-intestinal system; and the endocrine system.
+moduleName 
+
+Second Year
+moduleName Human Anatomy
+moduleName Human Anatomy
+moduleName This module introduces you to the human anatomy in detail. You’ll explore topics including: the structure of the human skeleton, major landmarks, and joints and classification.
+moduleName This module introduces you to the human anatomy in detail. You’ll explore topics including: the structure of the human skeleton, major landmarks, and joints and classification.
+moduleName 
+
+moduleName Forensic Science in Practice
+moduleName Forensic Science in Practice
+moduleName Learn the problem-solving approaches used in forensic science. You'll get practical experience of the techniques used in forensic labs as well as studying real forensic and toxicology cases.
+moduleName Learn the problem-solving approaches used in forensic science. You'll get practical experience of the techniques used in forensic labs as well as studying real forensic and toxicology cases.
+moduleName 
+
+moduleName Crime Scene to Courtroom I
+moduleName Crime Scene to Courtroom I
+moduleName This module introduces you to the skills forensic scientists use in criminal cases. Exploring socio-legal and criminological theory, you’ll learn how to translate crime scene findings into evidence.
+moduleName This module introduces you to the skills forensic scientists use in criminal cases. Exploring socio-legal and criminological theory, you’ll learn how to translate crime scene findings into evidence.
+moduleName 
+
+moduleName Professional Skills for Forensic Scientists
+moduleName Professional Skills for Forensic Scientists
+moduleName Alongside developing your research skills in biological disciplines, you’ll complete assessments such as applying for a job by submitting a CV and cover letter.
+moduleName Alongside developing your research skills in biological disciplines, you’ll complete assessments such as applying for a job by submitting a CV and cover letter.
+moduleName 
+
+moduleName Molecular Cell Biology and Histopathology
+moduleName Molecular Cell Biology and Histopathology
+moduleName ​Discover the important role histopathology plays in the diagnosis of disease, prognosis and treatment. Explore the journey that tissue biopsies take from the patient to the microscope.​
+moduleName ​Discover the important role histopathology plays in the diagnosis of disease, prognosis and treatment. Explore the journey that tissue biopsies take from the patient to the microscope.​
+moduleName 
+
+moduleName Crime Scene to Courtroom II
+moduleName Crime Scene to Courtroom II
+moduleName Follow the full crime scene to courtroom process via the laboratory. You’ll examine simulated evidence recovered from crime scenes in the laboratory and report your findings in court, developing authentic skills employed in forensic science.
+moduleName Follow the full crime scene to courtroom process via the laboratory. You’ll examine simulated evidence recovered from crime scenes in the laboratory and report your findings in court, developing authentic skills employed in forensic science.
+moduleName 
+
+Third Year
+moduleName Advanced Forensic Science
+moduleName Advanced Forensic Science
+moduleName Explore the methods for investigating and solving forensic cases. You'll look at extracting information from forensic data and the effect of toxic compounds and drugs on the body. 
+moduleName Explore the methods for investigating and solving forensic cases. You'll look at extracting information from forensic data and the effect of toxic compounds and drugs on the body. 
+moduleName 
+
+moduleName Current Topics in Forensic Science
+moduleName Current Topics in Forensic Science
+moduleName Develop your science communication skills for different audiences whilst researching a contemporary topic in forensic science. You’ll also develop your inquiry and critique skills.
+moduleName Develop your science communication skills for different audiences whilst researching a contemporary topic in forensic science. You’ll also develop your inquiry and critique skills.
+moduleName 
+
+moduleName Forensic Analysis of Drugs
+moduleName Forensic Analysis of Drugs
+moduleName Explore the challenges of drugs of abuse and their analysis for the forensic scientist within the context of the legal system. You will also consider the physiological and societal impact of them.
+moduleName Explore the challenges of drugs of abuse and their analysis for the forensic scientist within the context of the legal system. You will also consider the physiological and societal impact of them.
+moduleName 
+
+moduleName Forensic Science Independent Research Project (40 credits)
+moduleName Forensic Science Independent Research Project (40 credits)
+moduleName A unique opportunity to work on an independent project alongside researchers. You’ll input into experimental design and will analyse your findings before writing it up in your dissertation.
+moduleName A unique opportunity to work on an independent project alongside researchers. You’ll input into experimental design and will analyse your findings before writing it up in your dissertation.
+moduleName 
+
+moduleName Forensic Psychology
+moduleName Forensic Psychology
+moduleName Learn about the psychological origins of crime, how psychology can inform crime detection and what psychologists can do to reduce offending.
+moduleName Learn about the psychological origins of crime, how psychology can inform crime detection and what psychologists can do to reduce offending.
+moduleName 
+
+moduleName Cellular Pathology
+moduleName Cellular Pathology
+moduleName Explore the pathological presentation of several major diseases and their impact on society. Input from NHS clinical staff allows you to explore the benefits of population screening. 
+moduleName Explore the pathological presentation of several major diseases and their impact on society. Input from NHS clinical staff allows you to explore the benefits of population screening. 
+moduleName 
+
+moduleName Human Genetics
+moduleName Human Genetics
+moduleName Examine human disease and the underlying genetic causes. Learn about cytogenetics and genetic counselling, as well as the inheritance of recessive and dominant diseases.
+moduleName Examine human disease and the underlying genetic causes. Learn about cytogenetics and genetic counselling, as well as the inheritance of recessive and dominant diseases.
+moduleName 
+
+FEE AND FUNDING 
+Home STUDENT: £9,250 per year*
+International STUDENT: International applicants may need to pay a tuition fee deposit before the start of the course. Visit our tuition fee deposit page for more information.
+Additional Information about FEE
+*The amount you pay may increase each year, in line with inflation - but capped to the Retail Price Index (RPI).
+The fees shown are for 2022 entry. The fees for 2023 have not yet been confirmed and may increase.
+UK students can take out a tuition fee loan to cover the cost of their course and a maintenance loan of up to £9,706 to cover living costs.
+Substantial discounts are available for International students.  
+More information on fees can be found in the Money section of our website. 
+Your tuition fees will cover most costs associated with your programme (including registration, tuition, supervision, assessment and examination).There are some extra costs that you might have to pay, or choose to pay, depending on your programme of study and the decisions you make. The list below has some examples, and any extra costs will vary.
+
+Books (you’ll have access to books from your module reading lists in the library, but you may want to buy your own copies)
+Optional field trips
+Study abroad (including travel costs, accommodation, visas, immunisation)
+Placement costs (including travel costs and accommodation)
+Student visas (international students)
+Laptop (you’ll have access to laptops and PC’s on campus, but you may want to buy your own)
+Printing and photocopying
+Professional-body membership
+Graduation (gown hire and photography)
+
+Remember, you’ll still need to take into account your living costs. This could include accommodation, travel and food – to name just a few. 
+ENTRY REQUIREMENT: 
+INTERNATIONAL STUDENT: 
+If you require a student visa to study or if your first language is not English you will be required to provide acceptable evidence of your English language proficiency level.
+This course requires academic IELTS 6.0 overall, with no less than 5.5 in each skill. See other English language proficiency qualifications accepted by this University.
+If your English currently does not reach the University's required standard for this programme, you may be interested in one of our English language courses.
+Visit your country page to find out more about our entry requirements.
+LOCAL STUDENT: 
+
+A level grades N/A
+
+
+
+
+
+BTEC grades
+N/A
+
+
+

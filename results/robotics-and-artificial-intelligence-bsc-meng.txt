@@ -1,0 +1,199 @@
+courseName: ROBOTICS-AND-ARTIFICIAL-INTELLIGENCE-BSC-MENG
+COURSE OVERVIEW
+
+Robots and Artificial Intelligence (AI) are transforming the way we live and work.
+
+
+Driverless vehicles and pilotless drones are appearing on our roads and in our skies. Amazon’s automated warehouses are revolutionising the way businesses operate. Robots are being used instead of humans in hazardous areas. The world is ever-changing. And it needs skilled, hands-on people to keep it turning.
+
+
+This multi-disciplinary course is a blend of both robotics and AI. You’ll get a solid background in computer science and programming, together with experience of the AI tools that are needed to give robots the ability to autonomously operate in the real world.
+
+
+You’ll become an expert in Python, an industry-standard language used in many fields and especially in AI. From the very start, you’ll be working with real robots, learning how they work and how to program them. We don’t just focus on technology - you’ll also study the increasing impact of AI and robotics on everyone in society and the ethical dilemmas that come with such rapid and life-changing advances in technology. Throughout your studies, you’ll develop your professional skills and build a portfolio of work to show employers.
+
+
+Here at Hull, we offer students the option of a guaranteed paid year in industry. This is a great opportunity to apply your knowledge and skills in the workplace, learn industry skills and make yourself more employable after you graduate. Foundation year students would need to transfer to a BSc or MEng programme to take this option.
+
+
+Hull is ranked in the top 5 universities in the country for research impact*. Our teaching is linked to our research in simulation, visualisation, dependable systems, robotics, 3D printing and mobile and distributed computing - meaning you’ll be at the forefront of developments in this rapidly growing field.
+
+
+We provide a range of specialist facilities, including a dedicated robotics lab. Here you’ll get hands-on with DJI Drones, Turtlebot3 mobile robots and humanoids like Baxter, Nao and Pepper. And you’ll be able to digitally fabricate 3D models, prototypes and parts for your robotic systems in our FabLab. In addition to our robotics hardware, we also have motion capture environments for drones and VR/AR and MR facilities in the Hull Immersive Visualisation Environment (HIVE).
+
+
+There are also a number of active student-led societies and a host of extracurricular opportunities - from hackathons to networking events with employers to help you enjoy your time at university.
+
+
+Computer Science on-demand
+
+
+Learn more about your course in our subject sessions - watch now.
+
+
+courseLength 
+Course length
+3 years
+
+courseCode 
+UCAS code
+HI40
+
+courseTitle 
+BSc 
+
+                
+Robotics and                 
+courseMode Full-time
+description 
+Robots and AI are the present and the future. Benefit from superb facilities on this hands-on course where you will learn to programme and construct robotic systems that can interact with the real world.
+
+
+courseModules 
+First Year
+moduleName Fundamentals of Mechatronics and Robotics 1
+moduleName Fundamentals of Mechatronics and Robotics 1
+moduleName In this hands-on module, you’ll learn about the fundamental technologies and theory of robotic systems.  Using small programmable robots and starting with a visual development environment, you’ll learn to create robot behaviours and investigate how to interact with the real world.
+moduleName In this hands-on module, you’ll learn about the fundamental technologies and theory of robotic systems.  Using small programmable robots and starting with a visual development environment, you’ll learn to create robot behaviours and investigate how to interact with the real world.
+moduleName 
+
+moduleName Computational Thinking
+moduleName Computational Thinking
+moduleName This module will enable you to develop your knowledge and understanding of the key mathematical underpinnings of computer science, to aid you in problem solving and programming. The development of your competence in logic, mathematics and statistics will also provide evidence of your numeracy and more advanced skills and is valued by employers.
+moduleName This module will enable you to develop your knowledge and understanding of the key mathematical underpinnings of computer science, to aid you in problem solving and programming. The development of your competence in logic, mathematics and statistics will also provide evidence of your numeracy and more advanced skills and is valued by employers.
+moduleName 
+
+moduleName Python programming
+moduleName Python programming
+moduleName Learn by using Python, an industry-standard language used in artificial intelligence and robotics. Through practical work and problem solving, you’ll develop the skills you need to design, understand and construct computer programs capable of solving real world applications. No previous programming experience required!
+moduleName Learn by using Python, an industry-standard language used in artificial intelligence and robotics. Through practical work and problem solving, you’ll develop the skills you need to design, understand and construct computer programs capable of solving real world applications. No previous programming experience required!
+moduleName 
+
+moduleName Fundamentals of Mechatronics and Robotics 2
+moduleName Fundamentals of Mechatronics and Robotics 2
+moduleName Learn how to design a system to achieve a specific task. From anthropomorphic design to the application of gears and drive systems, you’ll build your own robotic system.
+moduleName Learn how to design a system to achieve a specific task. From anthropomorphic design to the application of gears and drive systems, you’ll build your own robotic system.
+moduleName 
+
+moduleName Architectures, Operating Systems and the Cloud
+moduleName Architectures, Operating Systems and the Cloud
+moduleName In this module you will explore the fundamental properties of computers that allow them to execute programmes. You will learn about how Computers are made to work in hardware and simulation (Virtual Machines). A collection of Virtual Machines is a cloud, and this module allows you to get experience with the development of your own cloud using appropriate platforms.
+moduleName In this module you will explore the fundamental properties of computers that allow them to execute programmes. You will learn about how Computers are made to work in hardware and simulation (Virtual Machines). A collection of Virtual Machines is a cloud, and this module allows you to get experience with the development of your own cloud using appropriate platforms.
+moduleName 
+
+moduleName Professional Development (Robotics & AI)
+moduleName Professional Development (Robotics & AI)
+moduleName Employers want much more than discipline specific skills. This module sets you up to grow your professional skills and awareness. You'll begin a personal portfolio that you will add to over your degree and work as part of a team to produce a design prototype, demonstrating your personal professional development. Through researching your discipline, you will understand the range of career roles available and how to progress in them.
+moduleName Employers want much more than discipline specific skills. This module sets you up to grow your professional skills and awareness. You'll begin a personal portfolio that you will add to over your degree and work as part of a team to produce a design prototype, demonstrating your personal professional development. Through researching your discipline, you will understand the range of career roles available and how to progress in them.
+moduleName 
+
+Second Year
+moduleName Robotic Systems and Artificial Intelligence
+moduleName Robotic Systems and Artificial Intelligence
+moduleName Explore the issues posed by the use of AI software in a robotic context. The software problems introduced by the control constraints and issues of incoming data quality are investigated, along with the architecture of software systems specifically structured to work within robots. The application of Artificial Intelligence is shown in building useful behaviours in software, with particular reference to use in robotic applications.
+moduleName Explore the issues posed by the use of AI software in a robotic context. The software problems introduced by the control constraints and issues of incoming data quality are investigated, along with the architecture of software systems specifically structured to work within robots. The application of Artificial Intelligence is shown in building useful behaviours in software, with particular reference to use in robotic applications.
+moduleName 
+
+moduleName Electronics and control for robotics
+moduleName Electronics and control for robotics
+moduleName Robotic systems involve some element of electronics to make them operate. In this module, you’ll learn the basics of electronic circuits using a hands-on, applied approach. You’ll build simple circuits using a combination of discrete components and microcontrollers, and then learn the elements of control theory needed to allow these systems to operate dynamic systems in real time.
+moduleName Robotic systems involve some element of electronics to make them operate. In this module, you’ll learn the basics of electronic circuits using a hands-on, applied approach. You’ll build simple circuits using a combination of discrete components and microcontrollers, and then learn the elements of control theory needed to allow these systems to operate dynamic systems in real time.
+moduleName 
+
+moduleName Artificial Intelligence
+moduleName Artificial Intelligence
+moduleName Learn about classical AI techniques – how to represent knowledge and how to use it to reason about the world. You’ll consider some of the important techniques such as logic programming, rule based reasoning, knowledge searching and pathfinding, and how to implement them in code and apply them to real-world problems.
+moduleName Learn about classical AI techniques – how to represent knowledge and how to use it to reason about the world. You’ll consider some of the important techniques such as logic programming, rule based reasoning, knowledge searching and pathfinding, and how to implement them in code and apply them to real-world problems.
+moduleName 
+
+moduleName Robotics simulation
+moduleName Robotics simulation
+moduleName Robots can be expensive and potentially dangerous. This module will provide hands-on introduction to industry-standard robot simulation tools. You’ll learn to use tools like Robot Operating System (ROS) and Gazebo to safely model real world robots and understand their dynamic behaviour in different scenarios – knowledge and software that can then be ported to real-world systems.
+moduleName Robots can be expensive and potentially dangerous. This module will provide hands-on introduction to industry-standard robot simulation tools. You’ll learn to use tools like Robot Operating System (ROS) and Gazebo to safely model real world robots and understand their dynamic behaviour in different scenarios – knowledge and software that can then be ported to real-world systems.
+moduleName 
+
+moduleName Microcontrollers, sensors and communications
+moduleName Microcontrollers, sensors and communications
+moduleName Robots are increasingly complex entities made up of many subsystems which must work together and communicate flawlessly and at high speed. Get a practical introduction to the options available and the tools and techniques needed to make multiple software and hardware systems integrate. You’ll examine the abilities of wired and wireless communication systems, learn where and when particular systems are appropriate, and implement examples.
+moduleName Robots are increasingly complex entities made up of many subsystems which must work together and communicate flawlessly and at high speed. Get a practical introduction to the options available and the tools and techniques needed to make multiple software and hardware systems integrate. You’ll examine the abilities of wired and wireless communication systems, learn where and when particular systems are appropriate, and implement examples.
+moduleName 
+
+moduleName Advanced Python Programming
+moduleName Advanced Python Programming
+moduleName Develop your programming skills further to encompass more advanced object-oriented programming and use of industry-standard tools and libraries. You’ll learn how to address problems involving large amounts of data, complex architectures and how to test and improve the efficiency of your code. You’ll start to build systems that integrate powerful components to make innovative applications, and how to implement some of the techniques important for AI and robotics.
+moduleName Develop your programming skills further to encompass more advanced object-oriented programming and use of industry-standard tools and libraries. You’ll learn how to address problems involving large amounts of data, complex architectures and how to test and improve the efficiency of your code. You’ll start to build systems that integrate powerful components to make innovative applications, and how to implement some of the techniques important for AI and robotics.
+moduleName 
+
+Third Year
+Fourth Year
+moduleName Honours Stage Project (Robotics & AI)
+moduleName Honours Stage Project (Robotics & AI)
+moduleName Your chance to spend a third of your study time working on a topic of interest to you, and producing something major as a result. You can design your own project, work with a member of staff to develop an idea, or choose one from a catalogue. Develop an AI program, do some research in virtual reality, or build a new robot butler using our state-of-the-art facilities. With regular support from a supervisor, you’ll learn to create, undertake, evaluate and report on a significant individual project which you’ll be proud to show off to an employer.
+moduleName Your chance to spend a third of your study time working on a topic of interest to you, and producing something major as a result. You can design your own project, work with a member of staff to develop an idea, or choose one from a catalogue. Develop an AI program, do some research in virtual reality, or build a new robot butler using our state-of-the-art facilities. With regular support from a supervisor, you’ll learn to create, undertake, evaluate and report on a significant individual project which you’ll be proud to show off to an employer.
+moduleName 
+
+moduleName Embedded Systems Development
+moduleName Embedded Systems Development
+moduleName Explore the fundamental mechanisms of program execution on a processor and how different processor architectures affect the way that software is made to execute on a device. You'll create systems using low-level assembler before moving on to the creation of embedded solutions using a high-level programming language.
+moduleName Explore the fundamental mechanisms of program execution on a processor and how different processor architectures affect the way that software is made to execute on a device. You'll create systems using low-level assembler before moving on to the creation of embedded solutions using a high-level programming language.
+moduleName 
+
+moduleName Digital Disruption and Innovation
+moduleName Digital Disruption and Innovation
+moduleName Creating a viable technology start-up requires insight into technical development and what it takes to deliver your product. In this module, you will form an individual digital product business plan. Then, as a small production team, you will then select an idea to take forward to develop and present this a final product pitch.
+moduleName Creating a viable technology start-up requires insight into technical development and what it takes to deliver your product. In this module, you will form an individual digital product business plan. Then, as a small production team, you will then select an idea to take forward to develop and present this a final product pitch.
+moduleName 
+
+moduleName Robotics and Automation
+moduleName Robotics and Automation
+moduleName Develop knowledge of the applications, modelling and analysis of industrial robots and their assembly. You'll explore key features of design and methods of controlling robotic devices.
+moduleName Develop knowledge of the applications, modelling and analysis of industrial robots and their assembly. You'll explore key features of design and methods of controlling robotic devices.
+moduleName 
+
+moduleName Computer Vision
+moduleName Computer Vision
+moduleName Computer vision is fundamental to intelligent systems ranging from advanced microscopes to access control systems and from autonomous robots to self-driving cars. You'll will develop expertise that are currently being used in real-world systems. This includes design and analysis of algorithms for image processing and computer vision as well as evaluation of various cutting-edge solutions in the context of emerging applications.
+moduleName Computer vision is fundamental to intelligent systems ranging from advanced microscopes to access control systems and from autonomous robots to self-driving cars. You'll will develop expertise that are currently being used in real-world systems. This includes design and analysis of algorithms for image processing and computer vision as well as evaluation of various cutting-edge solutions in the context of emerging applications.
+moduleName 
+
+FEE AND FUNDING 
+Home STUDENT: £9,250 per year*
+International STUDENT: International applicants may need to pay a tuition fee deposit before the start of the course. Visit our tuition fee deposit page for more information.
+Additional Information about FEE
+*The amount you pay may increase each year, in line with inflation - but capped to the Retail Price Index (RPI).
+The fees shown are for 2022 entry. The fees for 2023 have not yet been confirmed and may increase.
+UK students can take out a tuition fee loan to cover the cost of their course and a maintenance loan of up to £9,706 to cover living costs.
+Substantial discounts are available for International students.  
+More information on fees can be found in the Money section of our website. 
+Your tuition fees will cover most costs associated with your programme (including registration, tuition, supervision, assessment and examination).There are some extra costs that you might have to pay, or choose to pay, depending on your programme of study and the decisions you make. The list below has some examples, and any extra costs will vary.
+
+Books (you’ll have access to books from your module reading lists in the library, but you may want to buy your own copies)
+Optional field trips
+Study abroad (including travel costs, accommodation, visas, immunisation)
+Placement costs (including travel costs and accommodation)
+Student visas (international students)
+Laptop (you’ll have access to laptops and PC’s on campus, but you may want to buy your own)
+Printing and photocopying
+Professional-body membership
+Graduation (gown hire and photography)
+
+Remember, you’ll still need to take into account your living costs. This could include accommodation, travel and food – to name just a few. 
+ENTRY REQUIREMENT: 
+INTERNATIONAL STUDENT: 
+If you require a student visa to study or if your first language is not English you will be required to provide acceptable evidence of your English language proficiency level.
+This course requires academic IELTS 6.0 overall, with no less than 5.5 in each skill. See other English language proficiency qualifications accepted by this University.
+If your English currently does not reach the University's required standard for this programme, you may be interested in one of our English language courses.
+Visit your country page to find out more about our entry requirements.
+LOCAL STUDENT: 
+
+A level grades N/A
+
+
+
+
+
+BTEC grades
+N/A
+
+
+

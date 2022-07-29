@@ -1,0 +1,181 @@
+courseName: CHEMICAL-ENGINEERING-BENG-MENG
+COURSE OVERVIEW
+
+Chemical engineering applies science to the design, construction and operation of processes used to change raw materials into useful everyday products. Food and drink. Pharmaceuticals. Fertilisers. Energy. Fuels. A chemical engineering degree will give you excellent job prospects and equip you with skills that are easily transferable across industry sectors.
+
+
+Hull is the ideal location to study chemical engineering. We’re in a region with a high concentration of process industry companies - BP, Total, Phillips 66, Smith & Nephew, Reckitt and many more are right on our doorstep.
+
+
+Our courses have a strong chemistry content, allowing you to pursue a subject you enjoyed at college.
+
+
+Right from your first year, you’ll get the chance to do process safety training. This is highly valued by employers and helps you to stand out in the jobs market. The training is delivered by a professional company and includes visits to one of the UK's best training facilities.There, you can experience life as a chemical engineer, using real equipment and operating procedures to identify the type of hazards you could come across in your career. Back on campus, you can oversee a real-time 3D simulation of a chemical process plant in our virtual control room.
+
+
+courseLength 
+Course length
+3 years
+
+courseCode 
+UCAS code
+H810
+
+courseTitle 
+BEng
+
+                
+Chemical Engineering                
+courseMode Full-time
+description 
+Close to industry giants, access to some of the UK's best process safety training facilities, friendly supportive department. Makes Hull the ideal place to study chemical engineering.
+
+
+courseModules 
+First Year
+moduleName Physical and Biological Chemistry
+moduleName Physical and Biological Chemistry
+moduleName Students will acquire skills data collection, use of computer packages to analyse data obtained from experimental work. Students understand how to set up experiments in chemistry and be aware of health and safety in the laboratory.
+moduleName Students will acquire skills data collection, use of computer packages to analyse data obtained from experimental work. Students understand how to set up experiments in chemistry and be aware of health and safety in the laboratory.
+moduleName 
+
+moduleName Introduction to Chemical Process Engineering
+moduleName Introduction to Chemical Process Engineering
+moduleName The aim of this module is to introduce the concepts behind the chemical process industry and the underlying principles of energy and mass balances. This module will lay the theoretical and practical foundations of Chemical Engineering.
+moduleName The aim of this module is to introduce the concepts behind the chemical process industry and the underlying principles of energy and mass balances. This module will lay the theoretical and practical foundations of Chemical Engineering.
+moduleName 
+
+moduleName Chemical Engineering Mathematics
+moduleName Chemical Engineering Mathematics
+moduleName This module delivers essential core mathematics knowledge, including polynomial functions, trigonometric functions, series, vectors, matrices and complex numbers.
+moduleName This module delivers essential core mathematics knowledge, including polynomial functions, trigonometric functions, series, vectors, matrices and complex numbers.
+moduleName 
+
+moduleName Chemical Engineering Thermodynamics
+moduleName Chemical Engineering Thermodynamics
+moduleName In this module the First and Second Laws of Thermodynamics are introduced through application to engineering applications and energy processes involving pure substances and homogenous mixtures.
+moduleName In this module the First and Second Laws of Thermodynamics are introduced through application to engineering applications and energy processes involving pure substances and homogenous mixtures.
+moduleName 
+
+moduleName Chemical Engineering Safety, Practice and Study Skills
+moduleName Chemical Engineering Safety, Practice and Study Skills
+moduleName This module starts to develop the student’s interpersonal skills, as well as introducing students to their own personal commitment to professional standards, and the ability to recognise their own obligations to society, the profession and the environment.
+moduleName This module starts to develop the student’s interpersonal skills, as well as introducing students to their own personal commitment to professional standards, and the ability to recognise their own obligations to society, the profession and the environment.
+moduleName 
+
+moduleName Introduction to Material Science
+moduleName Introduction to Material Science
+moduleName The aim of this module is to provide students with the theoretical knowledge and expertise required to solve problems involving modern materials selection, modification, characterisation, and application as commonly encountered in the chemical and process industries.
+moduleName The aim of this module is to provide students with the theoretical knowledge and expertise required to solve problems involving modern materials selection, modification, characterisation, and application as commonly encountered in the chemical and process industries.
+moduleName 
+
+Second Year
+moduleName Transport Processes
+moduleName Transport Processes
+moduleName The aim of this module is to equip students with the competencies required to solve problems involving Transport Processes – specifically fluid mechanics, heat and mass transfer as commonly encountered in the chemical and process industries.
+moduleName The aim of this module is to equip students with the competencies required to solve problems involving Transport Processes – specifically fluid mechanics, heat and mass transfer as commonly encountered in the chemical and process industries.
+moduleName 
+
+moduleName Chemical and Equilibrium Separation Processes
+moduleName Chemical and Equilibrium Separation Processes
+moduleName You will study key aspects of separation processes, such as vapour-liquid equilibrium, distillation, absorption, stripping and liquid-liquid extraction. You will apply the knowledge gained from this module to design separation process equipment and solve chemical engineering problems related to separation processes.
+moduleName You will study key aspects of separation processes, such as vapour-liquid equilibrium, distillation, absorption, stripping and liquid-liquid extraction. You will apply the knowledge gained from this module to design separation process equipment and solve chemical engineering problems related to separation processes.
+moduleName 
+
+moduleName Particle Technology and Physical Separation Processes
+moduleName Particle Technology and Physical Separation Processes
+moduleName The aim of this module is to introduce the concepts surrounding the solid particles and fine powders handling in Chemical process industries and the underlying principles of the physical separation processes of solids from waste stream fluids and mixtures of solids.
+moduleName The aim of this module is to introduce the concepts surrounding the solid particles and fine powders handling in Chemical process industries and the underlying principles of the physical separation processes of solids from waste stream fluids and mixtures of solids.
+moduleName 
+
+moduleName Chemical Reaction Engineering
+moduleName Chemical Reaction Engineering
+moduleName Chemical reaction engineering is one of the core modules unique to chemical engineering and separates the chemical engineer from other engineers. It is a great module that is fun to learn and is the heart of chemical engineering. It aims to produce graduates with the ability to develop new processes and improve existing technologies.
+moduleName Chemical reaction engineering is one of the core modules unique to chemical engineering and separates the chemical engineer from other engineers. It is a great module that is fun to learn and is the heart of chemical engineering. It aims to produce graduates with the ability to develop new processes and improve existing technologies.
+moduleName 
+
+moduleName Process Safety and Professional Skills
+moduleName Process Safety and Professional Skills
+moduleName This module develops the student’s interpersonal skills, as well as their own personal commitment to professional standards, ability to recognise their own obligations to society, the profession and the environment.
+moduleName This module develops the student’s interpersonal skills, as well as their own personal commitment to professional standards, ability to recognise their own obligations to society, the profession and the environment.
+moduleName 
+
+moduleName Process Control and Instrumentation
+moduleName Process Control and Instrumentation
+moduleName The module combines two areas of engineering (i) process control which aims to develop knowledge, skills and competencies in the topics such as feedback & PID control theory (ii) Instrumentation which intends to introduce chemical engineering students to deal effectively with different sensors in different chemical plants.
+moduleName The module combines two areas of engineering (i) process control which aims to develop knowledge, skills and competencies in the topics such as feedback & PID control theory (ii) Instrumentation which intends to introduce chemical engineering students to deal effectively with different sensors in different chemical plants.
+moduleName 
+
+Third Year
+Fourth Year
+moduleName Chemical Engineering Design Project
+moduleName Chemical Engineering Design Project
+moduleName Build your skills, knowledge and understanding in chemical engineering process design, involving various unit operations such as distillation, fractionation, extraction and separation.
+moduleName Build your skills, knowledge and understanding in chemical engineering process design, involving various unit operations such as distillation, fractionation, extraction and separation.
+moduleName 
+
+moduleName Chemical Thermodynamics and Process Simulation
+moduleName Chemical Thermodynamics and Process Simulation
+moduleName You'll learn how to solve complex chemical engineering problems. You will use computational tools such as Aspen HYSYS to design and analyse a chemical process plant.
+moduleName You'll learn how to solve complex chemical engineering problems. You will use computational tools such as Aspen HYSYS to design and analyse a chemical process plant.
+moduleName 
+
+moduleName Chemical Reaction Engineering
+moduleName Chemical Reaction Engineering
+moduleName Develop the fundamental theory for the design and analysis of homogeneous chemical reactors.
+moduleName Develop the fundamental theory for the design and analysis of homogeneous chemical reactors.
+moduleName 
+
+moduleName Industrial Bio-Processes and Chemistry in Industry
+moduleName Industrial Bio-Processes and Chemistry in Industry
+moduleName Develop your skills, knowledge and understanding in lab and industrial scale synthesis of value-added fine and bulk chemicals as well as pharmaceuticals.
+moduleName Develop your skills, knowledge and understanding in lab and industrial scale synthesis of value-added fine and bulk chemicals as well as pharmaceuticals.
+moduleName 
+
+moduleName Heat Integration and Sustainability in Chemical Industries
+moduleName Heat Integration and Sustainability in Chemical Industries
+moduleName This module aims to equip you with the key techniques of heat integration and the current design of heat exchanger network systems. 
+moduleName This module aims to equip you with the key techniques of heat integration and the current design of heat exchanger network systems. 
+moduleName 
+
+FEE AND FUNDING 
+Home STUDENT: £9,250 per year*
+International STUDENT: International applicants may need to pay a tuition fee deposit before the start of the course. Visit our tuition fee deposit page for more information.
+Additional Information about FEE
+*The amount you pay may increase each year, in line with inflation - but capped to the Retail Price Index (RPI).
+The fees shown are for 2022 entry. The fees for 2023 have not yet been confirmed and may increase.
+UK students can take out a tuition fee loan to cover the cost of their course and a maintenance loan of up to £9,706 to cover living costs.
+Substantial discounts are available for International students.  
+More information on fees can be found in the Money section of our website. 
+Your tuition fees will cover most costs associated with your programme (including registration, tuition, supervision, assessment and examination).There are some extra costs that you might have to pay, or choose to pay, depending on your programme of study and the decisions you make. The list below has some examples, and any extra costs will vary.
+
+Books (you’ll have access to books from your module reading lists in the library, but you may want to buy your own copies)
+Optional field trips
+Study abroad (including travel costs, accommodation, visas, immunisation)
+Placement costs (including travel costs and accommodation)
+Student visas (international students)
+Laptop (you’ll have access to laptops and PC’s on campus, but you may want to buy your own)
+Printing and photocopying
+Professional-body membership
+Graduation (gown hire and photography)
+
+Remember, you’ll still need to take into account your living costs. This could include accommodation, travel and food – to name just a few. 
+ENTRY REQUIREMENT: 
+INTERNATIONAL STUDENT: 
+If you require a student visa to study or if your first language is not English you will be required to provide acceptable evidence of your English language proficiency level.
+This course requires academic IELTS 6.0 overall, with no less than 5.5 in each skill. See other English language proficiency qualifications accepted by this University.
+If your English currently does not reach the University's required standard for this programme, you may be interested in one of our English language courses.
+Visit your country page to find out more about our entry requirements.
+LOCAL STUDENT: 
+
+A level grades N/A
+
+
+
+
+
+BTEC grades
+N/A
+
+
+

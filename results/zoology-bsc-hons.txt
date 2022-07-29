@@ -1,0 +1,255 @@
+courseName: ZOOLOGY-BSC-HONS
+COURSE OVERVIEW
+
+Zoology is all about animals, whether you just want to understand them better or work to protect the amazing biodiversity of this planet. 
+
+
+This course focuses on a blend of laboratory and field-based practical teaching, as we recognise the need to work across disciplinary boundaries to solve global issues.
+
+
+You’ll control the emphasis of your studies with opportunities to focus on species that interest you across a range of contexts including conservation, ecology, behaviour, evolution, environmental management, physiology, cell biology and genetics – allowing you to build a course to suit your passions and ambitions.
+
+
+Our research has global impact on the planet and the people on it, which makes for a wide choice of final-year projects, with particular specialisms in the evolution of behaviour and the monitoring, management, and conservation of wildlife.
+
+
+Learning in the field is an integral part of the course and there are lots of opportunities for residential field trips in the UK and abroad. Recent overseas trips have included Mallorca, Malaysia and Brazil.
+
+
+courseLength 
+Course length
+3 years
+
+courseCode 
+UCAS code
+C300
+
+courseTitle 
+BSc 
+
+                
+Zoology                
+courseMode Full-time
+description 
+Explore all aspects of animal life, from sub-cellular level to ecosystems, in a course designed for 21st-century scientists. 
+
+
+courseModules 
+First Year
+moduleName Cells and Organelles
+moduleName Cells and Organelles
+moduleName Explore the fascinating inner workings of cells, giving you a foundation in areas such as cell biology, molecular biology and biochemistry. 
+moduleName Explore the fascinating inner workings of cells, giving you a foundation in areas such as cell biology, molecular biology and biochemistry. 
+moduleName 
+
+moduleName Diversity of Life
+moduleName Diversity of Life
+moduleName ​Through practical workshops, this module introduces you to the diversity of life and the fascinating adaptations that enable organisms to inhabit nearly all conceivable ecological niches.
+moduleName ​Through practical workshops, this module introduces you to the diversity of life and the fascinating adaptations that enable organisms to inhabit nearly all conceivable ecological niches.
+moduleName 
+
+moduleName Marine Biology: An Introduction
+moduleName Marine Biology: An Introduction
+moduleName From space, the planet is blue. Marine life has evolved into a myriad of forms living in some of the most extreme habitats on the planet; from great depths to battered coasts. This introduction to marine biology explores the marine environment, the diversity of life within it and how to conserve it.
+moduleName From space, the planet is blue. Marine life has evolved into a myriad of forms living in some of the most extreme habitats on the planet; from great depths to battered coasts. This introduction to marine biology explores the marine environment, the diversity of life within it and how to conserve it.
+moduleName 
+
+moduleName Evolution
+moduleName Evolution
+moduleName Why did sex evolve? Why do we die? What is a species? How can evolutionary medicine help us? This module will provide you with an understanding of how life on earth came to be what it is, from genes to species. Without evolution, nothing in Biology makes sense.
+moduleName Why did sex evolve? Why do we die? What is a species? How can evolutionary medicine help us? This module will provide you with an understanding of how life on earth came to be what it is, from genes to species. Without evolution, nothing in Biology makes sense.
+moduleName 
+
+moduleName Ecology (with optional Dive Training)
+moduleName Ecology (with optional Dive Training)
+moduleName Ecology is the study of interactions among living organisms and their environment, and is the basis for nature conservation and understanding human impact on the planet. Gain an understanding of ecological theory, applied ecology, and the collection and analysis of ecological data. You can choose to complete integrated PADI Advanced Open Water training, with an opportunity to develop specialist diving skills relevant to ecological science.
+moduleName Ecology is the study of interactions among living organisms and their environment, and is the basis for nature conservation and understanding human impact on the planet. Gain an understanding of ecological theory, applied ecology, and the collection and analysis of ecological data. You can choose to complete integrated PADI Advanced Open Water training, with an opportunity to develop specialist diving skills relevant to ecological science.
+moduleName 
+
+moduleName Principles of Genetics
+moduleName Principles of Genetics
+moduleName Explore core genetic concepts leading to an understanding of how genetics underlies the biological and molecular traits observed in organisms. 
+moduleName Explore core genetic concepts leading to an understanding of how genetics underlies the biological and molecular traits observed in organisms. 
+moduleName 
+
+moduleName Introduction to Environmental Science
+moduleName Introduction to Environmental Science
+moduleName You'll be introduced to fundamental principles of environmental systems and the interconnectedness of humankind with the environment.
+moduleName You'll be introduced to fundamental principles of environmental systems and the interconnectedness of humankind with the environment.
+moduleName 
+
+Second Year
+moduleName Vertebrate Zoology
+moduleName Vertebrate Zoology
+moduleName This module provides an integrated view of vertebrate biology by showing how changes over time and geography drive morphology, physiology, behaviour, and ecology in different vertebrates. Structure-function relationships are presented to appreciate how different animals evolve similar solutions and adaptations to the same ecological challenge while closely-related animals diversify in response to different environmental challenges.
+moduleName This module provides an integrated view of vertebrate biology by showing how changes over time and geography drive morphology, physiology, behaviour, and ecology in different vertebrates. Structure-function relationships are presented to appreciate how different animals evolve similar solutions and adaptations to the same ecological challenge while closely-related animals diversify in response to different environmental challenges.
+moduleName 
+
+moduleName Behavioural Ecology
+moduleName Behavioural Ecology
+moduleName Develop your understanding of why wild animals behave the way they do. You’ll study the proximate and ultimate causes of behaviour, and the interactions between animals and their environment.
+moduleName Develop your understanding of why wild animals behave the way they do. You’ll study the proximate and ultimate causes of behaviour, and the interactions between animals and their environment.
+moduleName 
+
+moduleName Genetic Analysis
+moduleName Genetic Analysis
+moduleName You'll take a  problem-based approach to understanding modern molecular genetics and genomics of eukaryotes. 
+moduleName You'll take a  problem-based approach to understanding modern molecular genetics and genomics of eukaryotes. 
+moduleName 
+
+moduleName Conservation Biology
+moduleName Conservation Biology
+moduleName Have we entered a new era of mass extinctions? Examine current threats to biodiversity and the characteristics that make some species more vulnerable than others. Learn to use scientific evidence to support biological conservation strategies.
+moduleName Have we entered a new era of mass extinctions? Examine current threats to biodiversity and the characteristics that make some species more vulnerable than others. Learn to use scientific evidence to support biological conservation strategies.
+moduleName 
+
+moduleName Geographical Information Systems
+moduleName Geographical Information Systems
+moduleName Develop your understanding of the principles and processes behind GIS, the nature and use of spatial data and the application of GIS on this practical module.
+moduleName Develop your understanding of the principles and processes behind GIS, the nature and use of spatial data and the application of GIS on this practical module.
+moduleName 
+
+moduleName Environmental Change
+moduleName Environmental Change
+moduleName Investigate how the environment, especially the climate, changes in the past, present and future through a combination of lectures and practical activities. 
+moduleName Investigate how the environment, especially the climate, changes in the past, present and future through a combination of lectures and practical activities. 
+moduleName 
+
+moduleName Cellular Regulation and Biotechnology
+moduleName Cellular Regulation and Biotechnology
+moduleName This module will explore the inner workings of the cell, and how our understanding of cell biology can be used in biotechnology. We will consider a range of human, animal, microbial and plant based signalling systems, as well as core techniques.
+moduleName This module will explore the inner workings of the cell, and how our understanding of cell biology can be used in biotechnology. We will consider a range of human, animal, microbial and plant based signalling systems, as well as core techniques.
+moduleName 50% of the module will be based around a lab based project using fluorescent reporter proteins (e.g. GFP). The module will also support you in reading and critically evaluating research papers.
+moduleName 50% of the module will be based around a lab based project using fluorescent reporter proteins (e.g. GFP). The module will also support you in reading and critically evaluating research papers.
+moduleName 
+
+moduleName Molecular Evolution and Genomics
+moduleName Molecular Evolution and Genomics
+moduleName This module will focus on the big topics in molecular evolution. What do genomes contain and why? How do we build trees from DNA sequences? How can recombination or gene duplication or transposons lead to adaptation? How do we detect selection in the human genome? We’ll cover these in theory and in practice with some fascinating examples from nature.
+moduleName This module will focus on the big topics in molecular evolution. What do genomes contain and why? How do we build trees from DNA sequences? How can recombination or gene duplication or transposons lead to adaptation? How do we detect selection in the human genome? We’ll cover these in theory and in practice with some fascinating examples from nature.
+moduleName 
+
+moduleName Ecological Monitoring
+moduleName Ecological Monitoring
+moduleName You'll monitor species, habitats and environmental factors. Choose from mammals, birds, herpetofauna, insects, terrestrial vegetation, freshwater and marine communities.​
+moduleName You'll monitor species, habitats and environmental factors. Choose from mammals, birds, herpetofauna, insects, terrestrial vegetation, freshwater and marine communities.​
+moduleName 
+
+moduleName Marine Interactions
+moduleName Marine Interactions
+moduleName This module will explore the interactions between marine species, from individual species to marine communities. We will look at individual adaptations, the interactions that structure communities and how species live together.
+moduleName This module will explore the interactions between marine species, from individual species to marine communities. We will look at individual adaptations, the interactions that structure communities and how species live together.
+moduleName 
+
+Third Year
+moduleName Final Year Projects
+moduleName Final Year Projects
+moduleName Show off what you have learned across your degree! Undertake traditional research-based projects with experts in subjects like climate change, or try something a bit different like creating a documentary on shark attacks. Whatever you choose, it will be something that takes pride of place on your CV.
+moduleName Show off what you have learned across your degree! Undertake traditional research-based projects with experts in subjects like climate change, or try something a bit different like creating a documentary on shark attacks. Whatever you choose, it will be something that takes pride of place on your CV.
+moduleName  
+moduleName  
+moduleName 
+
+moduleName Biology in Education
+moduleName Biology in Education
+moduleName Thinking about teaching as a career? Undertake placements in local schools and deliver your own science lesson.
+moduleName Thinking about teaching as a career? Undertake placements in local schools and deliver your own science lesson.
+moduleName 
+
+moduleName Microbial Genomics Project
+moduleName Microbial Genomics Project
+moduleName 
+
+moduleName Sensory Physiology of Animals
+moduleName Sensory Physiology of Animals
+moduleName Discover the fascinating world of animal communication to learn how sensory systems control behaviour, and how this is applied to and affected by human activity, including climate change.
+moduleName Discover the fascinating world of animal communication to learn how sensory systems control behaviour, and how this is applied to and affected by human activity, including climate change.
+moduleName 
+
+moduleName Field Studies (Biology)
+moduleName Field Studies (Biology)
+moduleName Recent students have selected from destinations including a dive-based trip in Malaysia and an exploration of the Atlantic rainforest in Brazil (financial contribution required).
+moduleName Recent students have selected from destinations including a dive-based trip in Malaysia and an exploration of the Atlantic rainforest in Brazil (financial contribution required).
+moduleName 
+
+moduleName Sex and Social Behaviour
+moduleName Sex and Social Behaviour
+moduleName You'll develop a deeper understanding of fascinating topics such as the evolution of sex, cryptic female choice, sperm competition, sexual conflict, parental care, brood parasitism, co-operative breeding and much more.
+moduleName You'll develop a deeper understanding of fascinating topics such as the evolution of sex, cryptic female choice, sperm competition, sexual conflict, parental care, brood parasitism, co-operative breeding and much more.
+moduleName 
+
+moduleName Aquatic Resource Management
+moduleName Aquatic Resource Management
+moduleName Learn key elements of aquatic resource management, including status of aquatic resources, exploitation methods, management processes and sustainability.
+moduleName Learn key elements of aquatic resource management, including status of aquatic resources, exploitation methods, management processes and sustainability.
+moduleName 
+
+moduleName Adapting to Climate Change
+moduleName Adapting to Climate Change
+moduleName Investigate climate change, its impact on us and our adaptions to it, as well as future climate change scenarios. This module uses a combination of lectures, PC practicals and seminars.
+moduleName Investigate climate change, its impact on us and our adaptions to it, as well as future climate change scenarios. This module uses a combination of lectures, PC practicals and seminars.
+moduleName 
+
+moduleName Animal Welfare and Ethics
+moduleName Animal Welfare and Ethics
+moduleName 
+
+moduleName Practical Conservation
+moduleName Practical Conservation
+moduleName Work in partnership with local environmentally orientated organisations to learn about the day-to-day practicalities of species and habitat management.
+moduleName Work in partnership with local environmentally orientated organisations to learn about the day-to-day practicalities of species and habitat management.
+moduleName 
+
+moduleName Environmental Impact Assessment and Monitoring
+moduleName Environmental Impact Assessment and Monitoring
+moduleName Learn about the socio-economic, ecological, environmental, aesthetic and legislative aspects of EIAs, the industry standard for assessing the impact of new developments.
+moduleName Learn about the socio-economic, ecological, environmental, aesthetic and legislative aspects of EIAs, the industry standard for assessing the impact of new developments.
+moduleName 
+
+moduleName Invertebrate Zoology
+moduleName Invertebrate Zoology
+moduleName Invertebrates are among the most diverse and awesome creatures on the planet, bursting with weirdness, colour and intrigue. They are also among the most important animals - vital to ecosystems we depend on for survival. On this module you'll meet world-leading experts in their fields and have the chance to get hands-on with live invertebrates (where possible) in practical sessions and field trips.
+moduleName Invertebrates are among the most diverse and awesome creatures on the planet, bursting with weirdness, colour and intrigue. They are also among the most important animals - vital to ecosystems we depend on for survival. On this module you'll meet world-leading experts in their fields and have the chance to get hands-on with live invertebrates (where possible) in practical sessions and field trips.
+moduleName 
+
+FEE AND FUNDING 
+Home STUDENT: £9,250 per year*
+International STUDENT: International applicants may need to pay a tuition fee deposit before the start of the course. Visit our tuition fee deposit page for more information.
+Additional Information about FEE
+*The amount you pay may increase each year, in line with inflation - but capped to the Retail Price Index (RPI).
+The fees shown are for 2022 entry. The fees for 2023 have not yet been confirmed and may increase.
+UK students can take out a tuition fee loan to cover the cost of their course and a maintenance loan of up to £9,706 to cover living costs.
+Substantial discounts are available for International students.  
+More information on fees can be found in the Money section of our website. 
+Your tuition fees will cover most costs associated with your programme (including registration, tuition, supervision, assessment and examination).There are some extra costs that you might have to pay, or choose to pay, depending on your programme of study and the decisions you make. The list below has some examples, and any extra costs will vary.
+
+Books (you’ll have access to books from your module reading lists in the library, but you may want to buy your own copies)
+Optional field trips
+Study abroad (including travel costs, accommodation, visas, immunisation)
+Placement costs (including travel costs and accommodation)
+Student visas (international students)
+Laptop (you’ll have access to laptops and PC’s on campus, but you may want to buy your own)
+Printing and photocopying
+Professional-body membership
+Graduation (gown hire and photography)
+
+Remember, you’ll still need to take into account your living costs. This could include accommodation, travel and food – to name just a few. 
+ENTRY REQUIREMENT: 
+INTERNATIONAL STUDENT: 
+If you require a student visa to study or if your first language is not English you will be required to provide acceptable evidence of your English language proficiency level.
+This course requires academic IELTS 6.0 overall, with no less than 5.5 in each skill. See other English language proficiency qualifications accepted by this University.
+If your English currently does not reach the University's required standard for this programme, you may be interested in one of our English language courses.
+Visit your country page to find out more about our entry requirements.
+LOCAL STUDENT: 
+
+A level grades N/A
+
+
+
+
+
+BTEC grades
+N/A
+
+
+

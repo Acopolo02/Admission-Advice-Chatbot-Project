@@ -1,0 +1,240 @@
+courseName: COMPUTER-SCIENCE-BSC-MENG
+COURSE OVERVIEW
+
+Whether you’re already an accomplished programmer or an absolute beginner, get career-ready with a degree in Computer Science.
+
+
+All our Computer Science undergraduate courses offer a guaranteed, paid year in industry, between the second and third year, as a recognised part of your degree.
+
+
+In your first year you’ll develop a rock-solid grounding in computer science essentials. We will support you as you develop your programming skills, learn to problem solve using logical thinking and develop the professional skills you will need for your degree and onwards for your career.
+
+
+Then you get to choose from a range of specialist modules – from advanced programming and safety critical systems , to computer vision and mixed reality development – so that you tailor your learning to the career you want.
+
+
+Whatever pathway you choose, our degrees are accredited to the maximum available level by the British Computer Society and will put you on the pathway to chartered status.
+
+
+Plus, you'll be using the latest industry-standard equipment and facilities, including our brand new Superlab, high-performance workstations, gigabit networking, 3D printers and laser scanners, swarm and humanoid robots, VR headsets, a 3D immersive cube, motion capture, AR and MR.
+
+
+You'll also have the chance to network, make contacts and test your skills out in the real world on a year-long industry placement. Or through extracurricular opportunities from hackathons to networking events with employers. Just like past students have for companies like BT, HP, BAE Systems, Microsoft and Virgin Media.
+
+
+Add all that up and by the time you leave here, you’ll be a well-rounded Computer Science graduate and a specialist with standout tech industry experience. Exactly what you need to make big-name employers stand up and take notice of your CV.
+
+
+ 
+
+
+Computer Science on-demand
+
+
+Learn more about your course in our subject sessions - watch now.
+
+
+courseLength 
+Course length
+3 years
+
+courseCode 
+UCAS code
+G400
+
+courseTitle 
+BSc 
+
+                
+Computer Science                
+courseMode Full-time
+description 
+Choose a career-driven degree. Apply for Computer Science at Hull today.
+
+
+courseModules 
+First Year
+moduleName Programming Portfolio
+moduleName Programming Portfolio
+moduleName Programming is an essential skill for students studying computer science-related programmes. It is a vital driving force for most technological and business applications today. A broader and deeper understanding of programming is therefore essential for the job market.
+moduleName Programming is an essential skill for students studying computer science-related programmes. It is a vital driving force for most technological and business applications today. A broader and deeper understanding of programming is therefore essential for the job market.
+moduleName The Programming Portfolio module provides the required practical knowledge for Computer Science students to design, implement and test algorithms. The module uses lectures to deliver concepts, a practice lab to apply the programming concepts learnt by developing programs to solve problems. You will take part in hands-on practical assessments, which will enable you to acquire extensive programming skills in an industry standard programming language. We will support you whether you are new to programming or have existing skills.
+moduleName The Programming Portfolio module provides the required practical knowledge for Computer Science students to design, implement and test algorithms. The module uses lectures to deliver concepts, a practice lab to apply the programming concepts learnt by developing programs to solve problems. You will take part in hands-on practical assessments, which will enable you to acquire extensive programming skills in an industry standard programming language. We will support you whether you are new to programming or have existing skills.
+moduleName 
+
+moduleName Algorithms and Data Structures
+moduleName Algorithms and Data Structures
+moduleName Start to think like a computer (bleep bloop)! This module explores logic, data storage and algorithms with the use of practical demonstrations and activities. Operating in parallel with programming-focussed modules, we will develop a toolkit of key concepts from a theoretical (non-code) perspective, facilitating a better understanding of these fundamentals. Topics to expect include pseudocode, state machines, essential keywords, common data structures, sort algorithms and search algorithms. You will learn methods to analyse and compare algorithms and their constituent parts in order that you may better design, evaluate and develop effective, efficient and performant software solutions.
+moduleName Start to think like a computer (bleep bloop)! This module explores logic, data storage and algorithms with the use of practical demonstrations and activities. Operating in parallel with programming-focussed modules, we will develop a toolkit of key concepts from a theoretical (non-code) perspective, facilitating a better understanding of these fundamentals. Topics to expect include pseudocode, state machines, essential keywords, common data structures, sort algorithms and search algorithms. You will learn methods to analyse and compare algorithms and their constituent parts in order that you may better design, evaluate and develop effective, efficient and performant software solutions.
+moduleName 
+
+moduleName Architectures, Operating Systems and the Cloud
+moduleName Architectures, Operating Systems and the Cloud
+moduleName In this module you will explore the fundamental properties of computers that allow them to execute programmes. You will learn about how Computers are made to work in hardware and simulation (Virtual Machines). A collection of Virtual Machines is a cloud, and this module allows you to get experience with the development of your own cloud using appropriate platforms.
+moduleName In this module you will explore the fundamental properties of computers that allow them to execute programmes. You will learn about how Computers are made to work in hardware and simulation (Virtual Machines). A collection of Virtual Machines is a cloud, and this module allows you to get experience with the development of your own cloud using appropriate platforms.
+moduleName 
+
+moduleName Computational Thinking
+moduleName Computational Thinking
+moduleName This module will enable you to develop your knowledge and understanding of the key mathematical underpinnings of computer science, to aid you in problem solving and programming. The development of your competence in logic, mathematics and statistics will also provide evidence of your numeracy and more advanced skills and is valued by employers.
+moduleName This module will enable you to develop your knowledge and understanding of the key mathematical underpinnings of computer science, to aid you in problem solving and programming. The development of your competence in logic, mathematics and statistics will also provide evidence of your numeracy and more advanced skills and is valued by employers.
+moduleName 
+
+moduleName Professional Development (Computer Science)
+moduleName Professional Development (Computer Science)
+moduleName Employers want much more than discipline specific skills. This module sets you up to grow your professional skills and awareness, when working both individually and as part of a team. You will also develop your appreciation of the challenges within the sector, and how technology can help to solve worldwide issues. You will begin a personal portfolio that you will add to over your degree and you will work as part of a team to produce a design prototype, demonstrating your personal professional development. Through researching your discipline, you will understand the range of career roles available and what you need to do to progress in them.
+moduleName Employers want much more than discipline specific skills. This module sets you up to grow your professional skills and awareness, when working both individually and as part of a team. You will also develop your appreciation of the challenges within the sector, and how technology can help to solve worldwide issues. You will begin a personal portfolio that you will add to over your degree and you will work as part of a team to produce a design prototype, demonstrating your personal professional development. Through researching your discipline, you will understand the range of career roles available and what you need to do to progress in them.
+moduleName 
+
+Second Year
+moduleName Design, Develop, Deploy
+moduleName Design, Develop, Deploy
+moduleName Our flagship software development module. You'll use contemporary software development tool chains to experience authentic software creation and deployment, applying techniques such as agile project management, test-driven development and continuous integration and deployment.
+moduleName Our flagship software development module. You'll use contemporary software development tool chains to experience authentic software creation and deployment, applying techniques such as agile project management, test-driven development and continuous integration and deployment.
+moduleName 
+
+moduleName Databases and Networks
+moduleName Databases and Networks
+moduleName You'll be introduced to the core components of any online information system that drives the information we use today. Learn how modern applications fetch data from servers and how that information can be stored and retrieved efficiently. You will solve a real-world problem by developing a networked database.
+moduleName You'll be introduced to the core components of any online information system that drives the information we use today. Learn how modern applications fetch data from servers and how that information can be stored and retrieved efficiently. You will solve a real-world problem by developing a networked database.
+moduleName 
+
+moduleName User Interfaces and Experience
+moduleName User Interfaces and Experience
+moduleName Any software or hardware used by humans needs to put human understanding at its core. Digital products succeed or fail by how well the designer understands the ability of a human to use the product, or the experience that using the product provides. You'll take a scientific and engineering approach to understanding, developing and evaluating effective interfaces and experiences for users.
+moduleName Any software or hardware used by humans needs to put human understanding at its core. Digital products succeed or fail by how well the designer understands the ability of a human to use the product, or the experience that using the product provides. You'll take a scientific and engineering approach to understanding, developing and evaluating effective interfaces and experiences for users.
+moduleName 
+
+moduleName Artificial Intelligence for Computer Science
+moduleName Artificial Intelligence for Computer Science
+moduleName Data is one of the 21st century’s most valuable commodities. In this module, you'll learn how to analyse, validate and interpret it to inform decision making and use artificial intelligence techniques to solve a real world problem - gaining the skills to meet the industry's widely recognised shortage of qualified Artificial Intelligence (AI) and data scientists.
+moduleName Data is one of the 21st century’s most valuable commodities. In this module, you'll learn how to
+moduleName 
+
+moduleName Advanced Programming
+moduleName Advanced Programming
+moduleName In this module you will explore advanced techniques in programming as well as building an understanding of how high level objected-oriented languages are executed on a modern CPU.  C++ will be used extensively, but we with reflect back on C#, as well as throwing in some assembly language.
+moduleName In this module you will explore advanced techniques in programming as well as building an understanding of how high level objected-oriented languages are executed on a modern CPU.  C++ will be used extensively, but we with reflect back on C#, as well as throwing in some assembly language.
+moduleName 
+
+moduleName Mixed Reality Development
+moduleName Mixed Reality Development
+moduleName Mixed Reality is a blend of physical and virtual environments, unlocking natural and intuitive 3D human, computer, and environment interactions. Learn concepts and techniques in the field of mixed reality and user-centred testing and implement mixed reality applications using technologies applicable to the problem domain. You will use a mixed reality application to conduct a user test, analyse and report on results.
+moduleName Mixed Reality is a blend of physical and virtual environments, unlocking natural and intuitive 3D human, computer, and environment interactions. Learn concepts and techniques in the field of mixed reality and user-centred testing and implement mixed reality applications using technologies applicable to the problem domain. You will use a mixed reality application to conduct a user test, analyse and report on results.
+moduleName 
+
+Third Year
+moduleName Honours Stage Project
+moduleName Honours Stage Project
+moduleName Tackle a substantial piece of computer-related investigation or software design in an area of your interest. This includes practical development and evaluation of your designs and implementation.
+moduleName Tackle a substantial piece of computer-related investigation or software design in an area of your interest. This includes practical development and evaluation of your designs and implementation.
+moduleName 
+
+moduleName Communicating and Teaching Computing
+moduleName Communicating and Teaching Computing
+moduleName Undertake a placement in a school or college to develop practical teaching and communication skills, as well as understanding of the education process.
+moduleName Undertake a placement in a school or college to develop practical teaching and communication skills, as well as understanding of the education process.
+moduleName 
+
+moduleName Data Analysis and Visualisation
+moduleName Data Analysis and Visualisation
+moduleName Data analytics has rapidly become a part of all of our lives, and is an increasingly sought-after skill on the job market. In this module you'll learn the theoretical and practical skills to analyse any dataset independently, starting from exploratory analysis of a new dataset for hypothesis finding, over choosing and comparing different algorithms, and presenting and explaining your results quantitatively and visually. You will learn to train models of different complexity that can make predictions or uncover hidden patterns in data, making responsible and fair decisions that can help improve our lives.
+moduleName Data analytics has rapidly become a part of all of our lives, and is an increasingly sought-after skill on the job market. In this module you'll learn the theoretical and practical skills to analyse any dataset independently, starting from exploratory analysis of a new dataset for hypothesis finding, over choosing and comparing different algorithms, and presenting and explaining your results quantitatively and visually. You will learn to train models of different complexity that can make predictions or uncover hidden patterns in data, making responsible and fair decisions that can help improve our lives.
+moduleName 
+
+moduleName Computational Science
+moduleName Computational Science
+moduleName Study the key concepts and techniques to: enable modelling a system, understand its limitations and develop appropriate AI architectures to solve computational problems.
+moduleName Study the key concepts and techniques to: enable modelling a system, understand its limitations and develop appropriate AI architectures to solve computational problems.
+moduleName 
+
+moduleName Secure Digital Infrastructure
+moduleName Secure Digital Infrastructure
+moduleName Secure Digital Infrastructure enables you to deploy organisational computer systems in a professional and secure way. You will learn how to do this through practical hands-on activities and supporting background lectures.
+moduleName Secure Digital Infrastructure enables you to deploy organisational computer systems in a professional and secure way. You will learn how to do this through practical hands-on activities and supporting background lectures.
+moduleName 
+
+moduleName Digital Disruption and Innovation
+moduleName Digital Disruption and Innovation
+moduleName Creating a viable technology start-up requires insight into technical development and what it takes to deliver your product. In this module, you will form an individual digital product business plan. Then, as a small production team, you will then select an idea to take forward to develop and present this a final product pitch.
+moduleName Creating a viable technology start-up requires insight into technical development and what it takes to deliver your product. In this module, you will form an individual digital product business plan. Then, as a small production team, you will then select an idea to take forward to develop and present this a final product pitch.
+moduleName 
+
+moduleName Safety Critical Systems
+moduleName Safety Critical Systems
+moduleName Safety critical systems form part of society’s crucial infrastructure. From transportation to power generation, their safe operation is a fundamental consideration during their design and beyond. The rise in size and complexity of these systems of systems demands computer automation and support for analysing and optimising throughout the development lifecycle.
+moduleName Safety critical systems form part of society’s crucial infrastructure. From transportation to power generation, their safe operation is a fundamental consideration during their design and beyond. The rise in size and complexity of these systems of systems demands computer automation and support for analysing and optimising throughout the development lifecycle.
+moduleName 
+
+moduleName Distributed Systems Programming
+moduleName Distributed Systems Programming
+moduleName Explore mechanisms for applying your existing C# knowledge to distributed systems or applications while considering key areas like scalability and security.
+moduleName Explore mechanisms for applying your existing C# knowledge to distributed systems or applications while considering key areas like scalability and security.
+moduleName 
+
+moduleName Computer Vision
+moduleName Computer Vision
+moduleName Computer vision is fundamental to intelligent systems ranging from advanced microscopes to access control systems and from autonomous robots to self-driving cars. You'll will develop expertise that are currently being used in real-world systems. This includes design and analysis of algorithms for image processing and computer vision as well as evaluation of various cutting-edge solutions in the context of emerging applications.
+moduleName Computer vision is fundamental to intelligent systems ranging from advanced microscopes to access control systems and from autonomous robots to self-driving cars. You'll will develop expertise that are currently being used in real-world systems. This includes design and analysis of algorithms for image processing and computer vision as well as evaluation of various cutting-edge solutions in the context of emerging applications.
+moduleName 
+
+moduleName Parallel and Concurrent Programming
+moduleName Parallel and Concurrent Programming
+moduleName Utilise multi-core processors and GPUs to design, optimise and program parallel and multi-threaded software. You’ll use performance analysis tools to explore this process.
+moduleName Utilise multi-core processors and GPUs to design, optimise and program parallel and multi-threaded software. You’ll use performance analysis tools to explore this process.
+moduleName 
+
+Fourth Year
+moduleName Computer Science
+moduleName Computer Science
+moduleName Edward Brown
+moduleName Edward Brown
+moduleName 
+
+moduleName Computer Science
+moduleName Computer Science
+moduleName Owen Woodward
+moduleName Owen Woodward
+moduleName 
+
+FEE AND FUNDING 
+Home STUDENT: £9,250 per year*
+International STUDENT: International applicants may need to pay a tuition fee deposit before the start of the course. Visit our tuition fee deposit page for more information.
+Additional Information about FEE
+*The amount you pay may increase each year, in line with inflation - but capped to the Retail Price Index (RPI).
+The fees shown are for 2022 entry. The fees for 2023 have not yet been confirmed and may increase.
+UK students can take out a tuition fee loan to cover the cost of their course and a maintenance loan of up to £9,706 to cover living costs.
+Substantial discounts are available for International students.  
+More information on fees can be found in the Money section of our website. 
+Your tuition fees will cover most costs associated with your programme (including registration, tuition, supervision, assessment and examination).There are some extra costs that you might have to pay, or choose to pay, depending on your programme of study and the decisions you make. The list below has some examples, and any extra costs will vary.
+
+Books (you’ll have access to books from your module reading lists in the library, but you may want to buy your own copies)
+Optional field trips
+Study abroad (including travel costs, accommodation, visas, immunisation)
+Placement costs (including travel costs and accommodation)
+Student visas (international students)
+Laptop (you’ll have access to laptops and PC’s on campus, but you may want to buy your own)
+Printing and photocopying
+Professional-body membership
+Graduation (gown hire and photography)
+
+Remember, you’ll still need to take into account your living costs. This could include accommodation, travel and food – to name just a few. 
+ENTRY REQUIREMENT: 
+INTERNATIONAL STUDENT: 
+If you require a student visa to study or if your first language is not English you will be required to provide acceptable evidence of your English language proficiency level.
+This course requires academic IELTS 6.0 overall, with no less than 5.5 in each skill. See other English language proficiency qualifications accepted by this University.
+If your English currently does not reach the University's required standard for this programme, you may be interested in one of our English language courses.
+Visit your country page to find out more about our entry requirements.
+LOCAL STUDENT: 
+
+A level grades N/A
+
+
+
+
+
+BTEC grades
+N/A
+
+
+

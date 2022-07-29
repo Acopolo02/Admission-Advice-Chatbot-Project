@@ -1,0 +1,184 @@
+courseName: MECHANICAL-ENGINEERING-BENG-MENG
+COURSE OVERVIEW
+
+Mechanical engineers are involved in the design and development of almost everything we use - from nanotechnology to healthcare equipment to planes, windfarms and even spacecraft. The skills you will learn are highly sought after by employers. By studying mechanical engineering you can look forward to good job prospects and a varied and fulfilling career.
+
+
+Hull has an excellent reputation for teaching Mechanical Engineering. We’re ranked #10 in the UK for learning opportunities in the National Student Survey 2021. This programme shares a common first year with the other engineering subjects in the Department of Engineering, making it possible for you to switch between degrees at the end of the first year if you want to choose a different pathway.
+
+
+The first year programme gives you the core theoretical and practical skills you’ll need throughout your time at university and beyond. CAD, programming and control and thermo fluids are just a few of the areas you’ll cover. The mathematics module is specifically geared towards engineering applications.
+
+
+courseLength 
+Course length
+3 years
+
+courseCode 
+UCAS code
+H300
+
+courseTitle 
+BEng
+
+                
+Mechanical                 
+courseMode Full-time
+description 
+Study on a course ranked #3 in the UK for student satisfaction, with the opportunity to spend a year in industry.
+
+
+courseModules 
+First Year
+moduleName Engineering Global Challenge I
+moduleName Engineering Global Challenge I
+moduleName Learn the basics of CAD (SolidWorks) and apply the skills to solve a defined contemporary problem as part of an interdisciplinary engineering team.
+moduleName Learn the basics of CAD (SolidWorks) and apply the skills to solve a defined contemporary problem as part of an interdisciplinary engineering team.
+moduleName 
+
+moduleName Fundamentals of Engineering
+moduleName Fundamentals of Engineering
+moduleName Introducing the key principles and concepts of mechanical and electrical and electronic engineering; ranging from digital electronics to basic stress analysis concepts.
+moduleName Introducing the key principles and concepts of mechanical and electrical and electronic engineering; ranging from digital electronics to basic stress analysis concepts.
+moduleName 
+
+moduleName Mathematics for Engineers
+moduleName Mathematics for Engineers
+moduleName Gain knowledge of the characteristics of a range of functions and techniques appropriate to engineering, developing expertise in analysis, interpretation and problem solving.
+moduleName Gain knowledge of the characteristics of a range of functions and techniques appropriate to engineering, developing expertise in analysis, interpretation and problem solving.
+moduleName 
+
+moduleName Practical Skills for Engineers
+moduleName Practical Skills for Engineers
+moduleName An introduction to key experiments and construction skills required for electrical and electronic engineers, as well as hands-on experience in the mechanical engineering manufacturing workshop.
+moduleName An introduction to key experiments and construction skills required for electrical and electronic engineers, as well as hands-on experience in the mechanical engineering manufacturing workshop.
+moduleName 
+
+moduleName Programming and Control
+moduleName Programming and Control
+moduleName Communication of mathematical problems and solutions, as well as logic simulation and C programming results for academic, specialist and non-specialist audiences.
+moduleName Communication of mathematical problems and solutions, as well as logic simulation and C programming results for academic, specialist and non-specialist audiences.
+moduleName 
+
+moduleName Thermofluids
+moduleName Thermofluids
+moduleName Gain knowledge, comprehension and hands-on experience of using a range of mathematical functions and techniques appropriate to the application of Engineering Thermofluids to engineering processes.
+moduleName Gain knowledge, comprehension and hands-on experience of using a range of mathematical functions and techniques appropriate to the application of 
+moduleName 
+
+Second Year
+moduleName Mathematics and Control for Engineers
+moduleName Mathematics and Control for Engineers
+moduleName You'll focus on advanced mathematical used to model and control dynamical systems. You'll also be introduced to Laplace and Fourier transform techniques.
+moduleName You'll focus on advanced mathematical used to model and control dynamical systems. You'll also be introduced to Laplace and Fourier transform techniques.
+moduleName 
+
+moduleName Mechanical Engineering Design
+moduleName Mechanical Engineering Design
+moduleName An opportunity to apply engineering design tools and techniques to solve real-world engineering problems. This module will take you through the product design process right from initial design specification, though to manufacturing planning and prescription.
+moduleName An opportunity to apply engineering design tools and techniques to solve real-world engineering problems. This module will take you through the product design process right from initial design specification, though to manufacturing planning and prescription.
+moduleName 
+
+moduleName Stress Analysis and Dynamics of Mechanical Systems
+moduleName Stress Analysis and Dynamics of Mechanical Systems
+moduleName Develop your understanding of fundamental theories and techniques relevant to the mechanical engineering problems in stress analysis and dynamics. 
+moduleName Develop your understanding of fundamental theories and techniques relevant to the mechanical engineering problems in stress analysis and dynamics. 
+moduleName 
+
+moduleName Mathematics and Fluid Mechanics for Mechanical Engineers
+moduleName Mathematics and Fluid Mechanics for Mechanical Engineers
+moduleName Gain knowledge and hands-on experience of using a range of mathematical functions and techniques to solve engineering problems. 
+moduleName Gain knowledge and hands-on experience of using a range of mathematical functions and techniques to solve engineering problems. 
+moduleName 
+
+moduleName Materials and Manufacture
+moduleName Materials and Manufacture
+moduleName Explore the reasons engineering structures can fail, sometimes unexpectedly, through fatigue and fast fracture, corrosion and creep, as well as processes to reduce such problems. 
+moduleName Explore the reasons engineering structures can fail, sometimes unexpectedly, through fatigue and fast fracture, corrosion and creep, as well as processes to reduce such problems. 
+moduleName 
+
+moduleName Engineering Global Challenge 2
+moduleName Engineering Global Challenge 2
+moduleName Develop and enhance a range of professional skills as a basis for professional registration as an Incorporated or Chartered Engineer. 
+moduleName Develop and enhance a range of professional skills as a basis for professional registration as an Incorporated or Chartered Engineer. 
+moduleName 
+
+Third Year
+Fourth Year
+moduleName Individual Project (Mechanical Engineering)
+moduleName Individual Project (Mechanical Engineering)
+moduleName Apply and extend your engineering knowledge and professional skills by working on a substantial individual project throughout the academic year.
+moduleName Apply and extend your engineering knowledge and professional skills by working on a substantial individual project throughout the academic year.
+moduleName 
+
+moduleName Stress Analysis and Applications of Finite Element Analysis
+moduleName Stress Analysis and Applications of Finite Element Analysis
+moduleName Examine advanced theories and techniques to solve stress-analysis problems. The theory and application of finite element analysis is also covered using industry-standard software.
+moduleName Examine advanced theories and techniques to solve stress-analysis problems. The theory and application of finite element analysis is also covered using industry-standard software.
+moduleName 
+
+moduleName Thermofluids and Acoustics
+moduleName Thermofluids and Acoustics
+moduleName Explore the formal derivation of thermofluids formulae and wave equations. You'll examine the applications of thermofluids theory and noise reduction in the environment. 
+moduleName Explore the formal derivation of thermofluids formulae and wave equations. You'll examine the applications of thermofluids theory and noise reduction in the environment. 
+moduleName 
+
+moduleName Computer Aided Analysis and CADCAM
+moduleName Computer Aided Analysis and CADCAM
+moduleName Understand and apply advanced computational techniques for problem solving, familiarise yourself with computer aided design (CAD) packages, and take your designs from the virtual domain to the physical, with computer aided manufacturing (CAM). 
+moduleName Understand and apply advanced computational techniques for problem solving, familiarise yourself with computer aided design (CAD) packages, and take your designs from the virtual domain to the physical, with computer aided manufacturing (CAM). 
+moduleName 
+
+moduleName Materials Selection, Design and the Environment
+moduleName Materials Selection, Design and the Environment
+moduleName Examine the techniques for assessing the optimal material in specific engineering design scenarios, as well as exploring  the major issues facing contemporary industrialised society.
+moduleName Examine the techniques for assessing the optimal material in specific engineering design scenarios, as well as exploring  the major issues facing contemporary industrialised society.
+moduleName 
+
+moduleName Lean Manufacture and Business Improvement
+moduleName Lean Manufacture and Business Improvement
+moduleName Discover the tools, techniques, implementation strategies and key performance indicators that are used in industry to evaluate the suitability of management and operational strategies.
+moduleName Discover the tools, techniques, implementation strategies and key performance indicators that are used in industry to evaluate the suitability of management and operational strategies.
+moduleName 
+
+FEE AND FUNDING 
+Home STUDENT: £9,250 per year*
+International STUDENT: International applicants may need to pay a tuition fee deposit before the start of the course. Visit our tuition fee deposit page for more information.
+Additional Information about FEE
+*The amount you pay may increase each year, in line with inflation - but capped to the Retail Price Index (RPI).
+The fees shown are for 2022 entry. The fees for 2023 have not yet been confirmed and may increase.
+UK students can take out a tuition fee loan to cover the cost of their course and a maintenance loan of up to £9,706 to cover living costs.
+Substantial discounts are available for International students.  
+More information on fees can be found in the Money section of our website. 
+Your tuition fees will cover most costs associated with your programme (including registration, tuition, supervision, assessment and examination).There are some extra costs that you might have to pay, or choose to pay, depending on your programme of study and the decisions you make. The list below has some examples, and any extra costs will vary.
+
+Books (you’ll have access to books from your module reading lists in the library, but you may want to buy your own copies)
+Optional field trips
+Study abroad (including travel costs, accommodation, visas, immunisation)
+Placement costs (including travel costs and accommodation)
+Student visas (international students)
+Laptop (you’ll have access to laptops and PC’s on campus, but you may want to buy your own)
+Printing and photocopying
+Professional-body membership
+Graduation (gown hire and photography)
+
+Remember, you’ll still need to take into account your living costs. This could include accommodation, travel and food – to name just a few. 
+ENTRY REQUIREMENT: 
+INTERNATIONAL STUDENT: 
+If you require a student visa to study or if your first language is not English you will be required to provide acceptable evidence of your English language proficiency level.
+This course requires academic IELTS 6.0 overall, with no less than 5.5 in each skill. See other English language proficiency qualifications accepted by this University.
+If your English currently does not reach the University's required standard for this programme, you may be interested in one of our English language courses.
+Visit your country page to find out more about our entry requirements.
+LOCAL STUDENT: 
+
+A level grades N/A
+
+
+
+
+
+BTEC grades
+N/A
+
+
+
