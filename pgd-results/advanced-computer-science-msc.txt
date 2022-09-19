@@ -1,0 +1,199 @@
+ABOUT THIS COURSE AND COURSE MODULE
+
+
+About the course
+Due to exceptional demand, we are sorry, but this course is now closed for applications from international students to study in 2022. Applications for 2023/4 will open in September 2022.
+If you are a home (UK) student and want to apply for this postgraduate programme please contact admissions on 01482 466850 or pghome@hull.ac.uk
+Computer science has an ever-greater influence on our lives, and the technological breakthroughs of today shape the way we live tomorrow. Opportunities continue to grow for highly skilled practitioners, and the taught Masters course allows you to make great advancements on your existing skills and knowledge. By the end of the programme you will be equipped to thrive in one of the fastest moving industries in the world.
+You will learn specialist computer science techniques and fundamental theories, but you’ll also have the opportunity to put this knowledge into practice by developing applications and working with real software. We cover a range of topics, including real time graphics and computational science, and you can choose from options including artificial intelligence, robotics and visualisation – built upon a solid foundation of good programming skills.
+The course begins in September each year and lasts twelve months. There are two trimesters of taught modules, followed by an individual dissertation project during the third trimester. 
+Computer Science at Hull aims to create an excellent experience for students, with a supportive student community. We have an international reputation for our research activities, with a strong record of industrial and public grant funding. We are also affiliated with Microsoft’s DreamSpark programme, which allows you to access the latest Microsoft operating systems and development software for home use. Once registered with the University, you can download the software free of charge. 
+What you'll study
+This MSc programme is designed to support students with various levels of computing and programming practice experience. However, it is particularly suited to those with significant experience of writing code.
+There is a focus on the transition to further postgraduate study, with suitable content on professional skills and the importance of ethics for practising computer scientists.
+In lectures you’ll benefit from a range of techniques, from interpreting complex ideas through interactive discussions, to live programming or other problem-solving demonstrations.
+Our degrees are accredited by the British Computer Society, The Chartered Institute for IT. The MSc programme fully meets the academic requirements for Chartered IT Professional and partial Chartered Engineer status. Some employers recruit preferentially from accredited degrees, and an accredited degree is likely to be recognised by other countries that are signatories to international accords.
+Teaching and learning
+We place a strong emphasis on practical laboratory sessions. These will significantly develop your core computer science skills, and enhance your employability through exposure to commercial projects.
+As teamwork plays a key role in commercial software development and has great value as an employable skill, group work is used in a number of modules.
+Assessment
+Practical coursework is the main form of assessment, and you will design, build and test software solutions to a variety of problems. Written coursework is used to complement this. The largest assessment is the dissertation. 
+Trimester 1 - All Optional Modules
+All modules are subject to availability and this list may change at any time.
+
+
+
+C++ Programming and Design 
+This module explores how to create efficient, robust, real-time applications in C++ and culminates in the development of a complex graphics-oriented solution.
+
+
+Real-Time Graphics 
+Gain essential knowledge and understanding, as well as practical tools of real-time 3D graphics rendering using modern programmable graphics hardware.​
+
+
+Simulation and Artificial Intelligence 
+​Mathematical and physics simulation and artificial intelligence are two key components in games development. You'll gain an understanding of the theory and skills required to develop physically-based simulations and gain an introduction to artificial intelligence. You'll explore the accuracy of your simulations and investigate the application of artificial intelligence methods in video games.​
+
+
+Maintaining Large Software Systems 
+This module provides in-depth coverage of the technologies and programming techniques used in maintaining large scale software. The practical portion of the module will be an extensive exercise carried out on a real world production quality code-base.
+
+
+Component-based Architecture 
+Develop a deeper understanding and critical analysis of contemporary component-based, managed programming environments, including how they play a key role in creating secure software systems.
+
+
+Real Time Dependable Systems 
+The module will explore the nature and challenges of real-time dependable systems in a range of application areas including avionic systems, data transactions, robotics and autonomous vehicles. Approaches to implementing real-time dependable systems will then be considered.
+
+
+Object Oriented Design and Development Using C# 
+This module covers the design and implementation of software systems using a modern object oriented language.​
+
+
+
+
+Trimester 2 - All Compulsory Modules
+All modules are subject to availability and this list may change at any time.
+
+
+
+Advanced Computational Science 
+You’ll study the key concepts and techniques used to model a system, understand its limitations and develop appropriate AI architectures to solve computational problems.
+
+
+Trustworthy Computing 
+You will be introduced to a wide variety of concepts relating to the security of software systems at both the language and application levels. 
+
+
+Development Project 
+Study the theory and practice needed to develop software, based on realistic contexts and clients’ requirements. You'll learn through an authentic task-based approach to software development, with experience of leadership, cooperation and teamwork.
+
+
+
+
+Trimester 3 - Core Modules
+All modules are subject to availability and this list may change at any time.
+
+
+
+Computer Science Dissertation 
+You will make an original contribution to research by designing, carrying out and writing up your own project on a topic you choose, supported by your dissertation supervisor.
+
+
+
+
+
+
+
+pghome@hull.ac.uk
+
+
+ Come to an open day
+ Grab a prospectus
+
+
+
+
+Where you'll study
+The location below may not be the exact location of all modules on your timetable. The buildings you'll be taught in can vary each year and depend on the modules you study.
+
+
+
+
+
+Hull Campus
+
+
+
+Click to view directions on Google Maps
+
+
+
+
+
+Get in touch
+
+
+Admissions
++44 (0)1482 466850
+International Enquiries
+
+
+Related courses
+
+
+
+                MSc Computer Science for Games Development course 
+            
+
+
+
+                Computer Science postgraduate research degrees 
+            
+
+
+
+
+
+
+
+
+FEES AND FUNDING 
+
+
+
+
+Fees and funding
+
+Home: £11,000
+UK students can take out a Master’s Loan to help with tuition fees and living costs. For 2022 entry, they provide up to £11,836 for full-time and part-time taught and research Masters courses in all subject areas. Find out more about Postgraduate Loans.
+EU/International: £11,000/year
+
+International applicants may need to pay a tuition fee deposit before the start of the course. Visit our tuition fee deposit page for more information.Please see the terms and conditions for International fees 2022/23. 
+
+
+
+
+Graduate PGT Scholarship
+The University of Hull is pleased to offer graduates progressing from undergraduate to postgraduate taught study a £1,000 scholarship towards the cost of their tuition fees.
+Find out if you’re eligible by visiting the University of Hull Graduate PGT Scholarship page.
+
+
+International Scholarships and Bursaries
+For a list of all scholarships and bursaries for international students, please visit the International Scholarships and Bursaries page.
+
+
+Scholarships and Bursaries
+The University offers a range of scholarships to help you with your studies.
+For more information, please visit the Scholarships and Bursaries page.
+
+
+ENTRY REQUIREMENTS 
+
+
+
+
+Entry requirements
+A minimum 2:2 Bachelor Honours (or international equivalent) in “Computer Science” or “Software Engineering” with at least 40 credits (or equivalent) of a high-level objected oriented programming language such as Java, C++ or C#.
+You will be required to submit a personal statement as a part of your application which sets out the extent of your programming experience, stating languages used and levels of proficiency in each. If you would like to discuss this with a member of academic staff who can help you to assess whether their degree will be sufficient preparation then we will be happy to arrange this. You can email the Postgraduate Admissions Team at pgadmissions@hull.ac.uk.
+In order to ensure our students have a rich learning and student experience, most of our programmes have a mix of domestic and international students. We reserve the right to close applications early to either group, if application volumes suggest that this blend cannot be achieved. In addition, existing undergraduate students at the University of Hull have a guaranteed ‘Fast Track’ route to any postgraduate programme, subject to meeting the entry criteria.
+
+
+
+
+International students
+Application deadline
+
+15 August 2022
+
+Your deposit should be paid by 25 August, you should accept any offer by 29 August and your CAS must be issued by 5 September.
+Language requirements
+If you require a student visa to study or if your first language is not English you must provide acceptable evidence of your English language proficiency level.
+This course requires academic IELTS 6.5 overall, with no less than 5.5 in each skill. See other accepted English language proficiency qualifications.
+If your English currently does not reach the required standard, you may be interested in our pre-sessional English Language programmes.
+Visit your country page to find out more about entry requirements.
+
+
+
+
